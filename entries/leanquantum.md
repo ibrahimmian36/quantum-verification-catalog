@@ -11,7 +11,7 @@ A quantum computing library in Lean 4 from the inQWIRE group.
 - **paper**: unknown
 - **authors**: unknown
 - **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 17
+- **stars**: 18
 - **last commit**: 2026-07-14
 - **status**: active
 - **builds**: not-attempted
