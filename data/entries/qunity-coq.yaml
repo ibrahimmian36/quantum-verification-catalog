@@ -1,0 +1,23 @@
+name: Qunity (Coq formalization)
+repo_url: https://gitlab.umiacs.umd.edu/finn/qunity
+system: Coq/Rocq
+role: language
+verifies:
+- program semantics
+description: A Coq formalization of the Qunity quantum programming language's syntax and type system,
+  with a formally verified soundness proof for its typechecker.
+paper: 'Qunity: A Unified Language for Quantum and Classical Computing, POPL 2023, DOI 10.1145/3571225;
+  artifact DOI 10.5281/zenodo.7150283'
+authors: Finn Voichick, Liyi Li, Robert Rand, Michael Hicks
+licence: GPL-3.0 (repository license file, read 2026-08-18)
+stars: null
+last_commit: '2025-05-13'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: quantumpl-bib; POPL artifact; located 2026-08-18
+automated: false
+notes: Hosted on GitLab (umiacs.umd.edu), not GitHub; POPL 2023 artifact (Available, Evaluated and Reusable).
+  Verified compilation is listed as work in progress; the separate OCaml compiler at github.com/mikhailmints/qunity
+  is validated by testing rather than proofs.

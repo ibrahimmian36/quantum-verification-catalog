@@ -46,3 +46,45 @@ VOQC); the LSTA POPL 2025 Zenodo artifact (in AutoQ); inQWIRE support and
 tooling repositories (LinearTypingContexts, ViZX, VizCaR, openqasm-parser,
 qasm_to_sqir, VOQC-benchmarks); qafny-hs (in Qafny); development mirrors of
 AFP entries (in their AFP entries).
+
+## Inspected and not included (contents reviewed 2026-08-18)
+Repositories we examined at the file level and found outside the inclusion
+criteria at the time of review. Several are good software — the criterion here
+is only whether the repository itself contains machine-checked verification of
+quantum artifacts.
+
+- **Silq** (silq-lang/silq) — a quantum language whose guarantees come from its
+  type checker; the repository contains no mechanized metatheory.
+- **Qimaera** (zamdzhiev/Qimaera) — type-level guarantees in Idris 2; its
+  machine-checked lemmas serve typing side conditions rather than quantum
+  program correctness.
+- **leaf-qpl** (radumarg/leaf-qpl) — Lean-based verification is on the roadmap
+  but not yet present in the repository.
+- **iQbricks** (tbc23/iQbricks) — a language frontend that emits WhyML for the
+  separately cataloged QBricks framework.
+- **Qunity compiler** (mikhailmints/qunity) — validated by differential
+  testing; the Coq formalization of Qunity is cataloged separately.
+- **qonic-QHoare-logic** — a notebook that simulates quantum Hoare logic
+  programs numerically.
+- **LeanQEC** (BorissovAnton) — an initial scaffold whose core definitions are
+  placeholders at the time of review; distinct from the two other projects of
+  the same name.
+- **quantum-ci** (hazeltorek) — a single-lemma course exercise.
+- **Quantum.lean** (Anderssorby) — an unfinished stub.
+- **Quantum4Lean** (Alektronnik) — primarily a simulator with an FFI backend;
+  its proof content is a small set of gate identities.
+- **QuantumLean-Bench**, **QSpecBench** — benchmark suites for evaluating
+  reasoning about quantum claims, not verification developments.
+- **ScaLERQEC** — statistical estimation of logical error rates by sampling.
+- **VeriQuEST.jl** — simulation of blind-quantum-computing verification
+  protocols.
+- **QSharpCheck** — property-based statistical testing for Q#.
+- **csd-lean4** — a formalization advancing a nonstandard reconstruction of
+  quantum mechanics; foundations-of-physics programs are outside this
+  catalog's scope.
+- **QPMC** — the quantum Markov chain model checker is distributed as binaries
+  at https://tis.ios.ac.cn/tool/qmc/ (live as of 2026-08-18); there is no
+  public source repository to catalog.
+- **AFP Complex_Bounded_Operators and Hilbert_Space_Tensor_Product** — general
+  functional-analysis libraries (their stated purpose is not quantum) that
+  several cataloged Isabelle entries build on.

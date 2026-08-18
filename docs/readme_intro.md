@@ -46,3 +46,11 @@ Those map the papers; this maps the code.
 
 Maintained by [Millennium Research](https://millenniumresearch.ai)
 (Ibby Mian, Shayaan Siddique). Contact: ibrahimnmian@gmail.com
+
+A scope note: general-purpose mathematical infrastructure is not cataloged
+unless its stated purpose is quantum — notably the Isabelle AFP entries
+Complex_Bounded_Operators and Hilbert_Space_Tensor_Product, which underlie
+several cataloged quantum developments. See
+[docs/NOT_INCLUDED.md](docs/NOT_INCLUDED.md) for everything we know about and
+deliberately did not list, so that "missing" is distinguishable from
+"not found".

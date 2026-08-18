@@ -1,0 +1,20 @@
+name: proving-quantum-theorems-in-coq
+repo_url: https://github.com/TeodorescuIoan/proving-quantum-theorems-in-coq
+system: Coq/Rocq
+role: verifier
+verifies:
+- mathematics
+description: Rocq proofs of the no-cloning theorem, a Heisenberg uncertainty relation, and phase kickback,
+  built on QuantumLib.
+paper: unknown
+authors: unknown
+licence: no LICENSE file found (checked 2026-08-18)
+stars: 0
+last_commit: '2026-07-23'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search; contents inspected 2026-08-18
+automated: false
+notes: null

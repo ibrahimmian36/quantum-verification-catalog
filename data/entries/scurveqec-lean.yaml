@@ -1,0 +1,21 @@
+name: SCurveQEC-Lean
+repo_url: https://github.com/yezhuoyang/SCurveQEC-Lean
+system: Lean 4
+role: verifier
+verifies:
+- error correction
+- mathematics
+description: A Lean 4 formalization of structural properties of weight-conditional logical error rates
+  for stabilizer codes under perfect matching decoding.
+paper: unknown
+authors: unknown
+licence: no LICENSE file found (checked 2026-08-18)
+stars: 0
+last_commit: '2026-04-13'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search; contents inspected 2026-08-18
+automated: false
+notes: Companion paper draft in the repository; the README labels later phases as work in progress.

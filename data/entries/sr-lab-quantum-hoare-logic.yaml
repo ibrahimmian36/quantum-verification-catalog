@@ -1,0 +1,20 @@
+name: quantum-hoare-logic (sr-lab)
+repo_url: https://github.com/sr-lab/quantum-hoare-logic
+system: Coq/Rocq
+role: verifier
+verifies:
+- program semantics
+description: A Coq prototype of an expectation-based quantum Hoare logic with a soundness proof and verified
+  examples including Deutsch, Grover, GHZ, and teleportation.
+paper: unknown
+authors: INESC-ID Software Reliability Lab
+licence: Apache-2.0 (LICENSE file read 2026-08-18)
+stars: 0
+last_commit: '2021-11-30'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search; contents inspected 2026-08-18
+automated: false
+notes: null
