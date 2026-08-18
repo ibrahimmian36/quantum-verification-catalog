@@ -1,0 +1,28 @@
+name: Suggest a new entry
+description: Propose a repository for the catalog
+title: "[entry] <name>"
+labels: [new-entry]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repository URL
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Proof system (Coq/Rocq, Lean 4, Isabelle/HOL, Why3, Dafny, F*, other)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What does it verify?
+      description: One factual sentence. Circuits, program semantics, compiler passes, error correction, protocols, or mathematics?
+    validations:
+      required: true
+  - type: input
+    id: paper
+    attributes:
+      label: Associated paper (arXiv id or DOI), if any

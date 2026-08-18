@@ -1,0 +1,29 @@
+name: weekly-refresh
+on:
+  schedule:
+    - cron: "17 9 * * 1"   # Mondays 09:17 UTC
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Refresh GitHub metadata (stars, last commit, status)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/fetch_github.py
+      - name: Re-render README and entry pages
+        run: python3 scripts/render.py
+      - name: Commit if changed
+        run: |
+          git config user.name "catalog-refresh-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "weekly refresh: stars, last-commit dates, status"
+          git push

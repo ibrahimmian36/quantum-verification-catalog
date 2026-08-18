@@ -1,0 +1,20 @@
+name: QuantumLib
+repo_url: https://github.com/inQWIRE/QuantumLib
+system: Coq/Rocq
+role: library
+verifies:
+- mathematics
+description: A Coq library of linear algebra and other mathematics used as the foundation for the inQWIRE
+  quantum developments.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 41
+last_commit: '2026-04-03'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list
+automated: false
+notes: null

@@ -1,0 +1,21 @@
+name: SQIR
+repo_url: https://github.com/inQWIRE/SQIR
+system: Coq/Rocq
+role: language
+verifies:
+- circuits
+- program semantics
+description: A small quantum intermediate representation embedded in Coq, with semantics used to prove
+  correctness of quantum circuits and of the VOQC optimizer.
+paper: unknown
+authors: unknown
+licence: MIT (from API; LICENSE file not yet read)
+stars: 100
+last_commit: '2026-04-02'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list
+automated: false
+notes: null
