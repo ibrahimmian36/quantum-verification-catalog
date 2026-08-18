@@ -14,6 +14,7 @@ ENTRY="$ROOT/data/entries/$SLUG.yaml"
 WORK="$ROOT/build-work/$SLUG"
 LOG="$ROOT/build-logs/$SLUG.log"
 mkdir -p "$ROOT/build-work" "$ROOT/build-logs"
+export PIP_BREAK_SYSTEM_PACKAGES=1  # Ubuntu marks the system env externally-managed
 
 url=$(grep '^repo_url:' "$ENTRY" | sed 's/repo_url: *//')
 [ -z "$url" ] && { echo "no repo_url"; exit 1; }
