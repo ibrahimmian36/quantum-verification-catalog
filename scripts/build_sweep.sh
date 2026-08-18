@@ -57,6 +57,30 @@ elif [ -f _CoqProject ] || ls *.opam >/dev/null 2>&1 || [ -f Makefile.coq ] || [
       fi
     else reason="no usable Makefile/_CoqProject route"; fi
   else reason="coq/dune not installed on this machine"; fi
+elif [ -f CMakeLists.txt ]; then
+  tool="cmake $(cmake --version 2>/dev/null | head -1 || echo unknown)"
+  if command -v cmake >/dev/null; then
+    if run cmake -B _build -DCMAKE_BUILD_TYPE=Release && run cmake --build _build -j8; then outcome=yes; reason=""; else
+      [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="cmake build failed"; }
+    fi
+  else reason="cmake not installed on this machine"; fi
+elif [ -f Project.toml ] && command -v julia >/dev/null; then
+  tool="julia $(julia --version 2>/dev/null | awk '{print $3}')"
+  if run julia --project=. -e 'using Pkg; Pkg.instantiate(); Pkg.precompile()'; then outcome=yes; reason=""; else
+    [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="julia instantiate/precompile failed"; }
+  fi
+elif [ -f stack.yaml ]; then
+  tool="stack $(stack --version 2>/dev/null | head -1 | cut -d, -f1 || echo unknown)"
+  if command -v stack >/dev/null; then
+    if run stack build --no-terminal; then outcome=yes; reason=""; else
+      [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="stack build failed"; }
+    fi
+  else reason="stack not installed on this machine"; fi
+elif [ -f pyproject.toml ] || [ -f setup.py ]; then
+  tool="pip $(python3 -m pip --version 2>/dev/null | awk '{print $2}')"
+  if run python3 -m pip install --break-system-packages -e .; then outcome=yes; reason="pip install of the package succeeded"; else
+    [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="pip install failed"; }
+  fi
 elif [ -f ROOT ] || [ -f ROOTS ]; then
   tool="isabelle $(isabelle version 2>/dev/null || echo unknown)"
   if command -v isabelle >/dev/null; then
