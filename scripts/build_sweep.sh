@@ -23,10 +23,15 @@ date -u +"%Y-%m-%dT%H:%M:%SZ" | tee -a "$LOG"
 
 rm -rf "$WORK"
 if ! git clone --depth 1 --recurse-submodules "$url" "$WORK" >>"$LOG" 2>&1; then
-  python3 "$ROOT/scripts/record_build.py" "$SLUG" not-attempted "clone failed"
+  "${PYTHON:-python3}" "$ROOT/scripts/record_build.py" "$SLUG" not-attempted "clone failed"
   exit 0
 fi
 cd "$WORK"
+# build files may live one level down (monorepo layout)
+if [ ! -f lakefile.lean ] && [ ! -f lakefile.toml ] && [ ! -f _CoqProject ] && [ ! -f dune-project ] && [ ! -f Makefile ] && [ ! -f ROOT ]; then
+  sub=$(find . -maxdepth 2 \( -name lakefile.lean -o -name lakefile.toml -o -name _CoqProject -o -name dune-project -o -name ROOT \) 2>/dev/null | head -1)
+  [ -n "$sub" ] && cd "$(dirname "$sub")" && echo "descended into $(pwd)" >>"$LOG"
+fi
 
 outcome="not-attempted"; reason="no recognized build system"; tool=""
 run() { timeout "$TIMEOUT" "$@" >>"$LOG" 2>&1; }
@@ -62,4 +67,4 @@ elif [ -f ROOT ] || [ -f ROOTS ]; then
 fi
 
 echo "OUTCOME=$outcome REASON=$reason TOOLCHAIN=$tool" | tee -a "$LOG"
-python3 "$ROOT/scripts/record_build.py" "$SLUG" "$outcome" "$reason" "$tool"
+"${PYTHON:-python3}" "$ROOT/scripts/record_build.py" "$SLUG" "$outcome" "$reason" "$tool"

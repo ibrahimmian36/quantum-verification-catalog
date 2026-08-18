@@ -14,7 +14,9 @@ Kernel-checked Lean 4 certificates for a Kochen-Specker vector system in R^3 wit
 - **stars**: 0
 - **last commit**: 2026-07-24
 - **status**: active
-- **builds**: not-attempted
+- **builds**: yes
+- **build date**: 2026-08-18
+- **toolchain**: lean leanprover/lean4:v4.32.0
 - **source**: seed-list
 - **notes**: unknown
 
