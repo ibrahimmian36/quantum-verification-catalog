@@ -1,0 +1,20 @@
+name: ReVerC
+repo_url: https://github.com/msr-quarc/ReVerC
+system: F*
+role: compiler
+verifies:
+- compiler passes
+description: A compiler from the Revs language to space-efficient reversible circuits, with machine-checked
+  correctness including verified ancilla cleanup.
+paper: Verified Compilation of Space-Efficient Reversible Circuits, RC 2017 line, arXiv:1603.01635
+authors: Matthew Amy, Martin Roetteler, Krysta Svore
+licence: MIT (LICENSE file read 2026-08-18)
+stars: 25
+last_commit: '2019-03-05'
+status: archived
+builds: not-attempted
+build_date: null
+toolchain: null
+source: completeness-review 2026-08-18
+automated: false
+notes: null

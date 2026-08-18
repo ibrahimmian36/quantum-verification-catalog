@@ -1,0 +1,22 @@
+name: Quantum barrier certificates
+repo_url: https://github.com/marco-lewis/quantum-barrier-certificates
+system: other (LP/SOS optimization)
+role: verifier
+verifies:
+- program semantics
+- circuits
+description: Tools generating barrier certificates that verify properties of quantum systems and circuits
+  via linear programming and sum-of-squares optimization.
+paper: Verification of Quantum Systems Using Barrier Certificates, QEST 2023, DOI 10.1007/978-3-031-43835-6_24,
+  arXiv:2307.07307; discrete-time follow-up arXiv:2408.07591
+authors: Marco Lewis and collaborators
+licence: MIT (LICENSE file read 2026-08-18)
+stars: 2
+last_commit: '2023-06-03'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: venue sweep 2026-08-18
+automated: true
+notes: Discrete-time follow-up at github.com/marco-lewis/discrete-quantum-bc.

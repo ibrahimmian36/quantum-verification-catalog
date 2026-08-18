@@ -1,0 +1,20 @@
+name: chyp
+repo_url: https://github.com/akissinger/chyp
+system: other (diagrammatic proof assistant)
+role: verifier
+verifies:
+- mathematics
+description: An interactive theorem prover for string diagrams, representing morphisms as cospans of hypergraphs,
+  used for equational reasoning in the ZX-calculus and quantum software line.
+paper: unknown
+authors: Aleks Kissinger
+licence: Apache-2.0 (LICENSE file read 2026-08-18)
+stars: 129
+last_commit: '2026-05-25'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: completeness-review 2026-08-18
+automated: false
+notes: Companion prover to the Picturing Quantum Software line; successor in spirit to Quantomatic.

@@ -1,0 +1,21 @@
+name: Quokka#
+repo_url: https://github.com/System-Verification-Lab/Quokka-Sharp
+system: other (weighted model counting)
+role: model-checker
+verifies:
+- circuits
+description: 'An equivalence checker and simulator for universal quantum circuits based on reductions
+  to weighted model counting solved with #SAT solvers.'
+paper: 'Equivalence Checking of Quantum Circuits by Model Counting, IJCAR 2024, DOI 10.1007/978-3-031-63501-4_21,
+  arXiv:2403.18813; Quokka#: Quantum Computing with #SAT, CAV 2026, DOI 10.1007/978-3-032-32537-2_19'
+authors: unknown
+licence: MIT (LICENSE file read 2026-08-18)
+stars: 11
+last_commit: '2026-07-26'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: completeness-review; venue sweep 2026-08-18
+automated: true
+notes: null

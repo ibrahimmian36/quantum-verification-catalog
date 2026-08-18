@@ -1,0 +1,20 @@
+name: PQASM
+repo_url: https://github.com/qafny/pqasm
+system: Coq/Rocq
+role: language
+verifies:
+- program semantics
+description: A Coq-certified language for quantum state preparation, extending the OQASM/VQO line, with
+  property-based validation via QuickChick.
+paper: Validating Quantum State Preparation Programs, arXiv:2501.05616, DOI 10.1007/978-3-032-22720-1_16
+authors: unknown
+licence: MIT (LICENSE file read 2026-08-18)
+stars: 2
+last_commit: '2026-06-06'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: venue sweep 2026-08-18; contents inspected (125 Coq files)
+automated: false
+notes: null

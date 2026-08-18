@@ -1,0 +1,19 @@
+name: vqc_in_lean
+repo_url: https://github.com/Maokami/vqc_in_lean
+system: Lean 4
+role: library
+verifies:
+- program semantics
+description: A work-in-progress Lean 4 port of the Verified Quantum Computing course material.
+paper: unknown
+authors: unknown
+licence: MIT (LICENSE file read 2026-08-18)
+stars: 6
+last_commit: '2026-02-16'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: completeness-review 2026-08-18
+automated: false
+notes: null

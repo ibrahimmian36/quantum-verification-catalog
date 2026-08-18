@@ -1,0 +1,21 @@
+name: Q-Sylvan
+repo_url: https://github.com/System-Verification-Lab/q-sylvan
+system: other (decision diagrams)
+role: model-checker
+verifies:
+- circuits
+description: A parallel decision-diagram package for quantum computing with built-in circuit equivalence
+  checking alongside simulation.
+paper: 'Q-Sylvan: A Parallel Decision Diagram Package for Quantum Computing, ATVA 2025, DOI 10.1007/978-3-032-08707-2_12,
+  arXiv:2508.00514'
+authors: unknown
+licence: Apache-2.0 (LICENSE file read 2026-08-18)
+stars: 2
+last_commit: '2025-12-23'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: venue sweep 2026-08-18
+automated: true
+notes: null

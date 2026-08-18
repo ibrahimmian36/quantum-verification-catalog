@@ -1,0 +1,21 @@
+name: smc4qc
+repo_url: https://github.com/canhminhdo/smc4qc
+system: other (Maude)
+role: model-checker
+verifies:
+- circuits
+- protocols
+description: Symbolic model checking of quantum circuits in Maude with Dirac-notation symbolic states,
+  checking teleportation, superdense coding, secret sharing, entanglement swapping, and network coding.
+paper: Symbolic model checking quantum circuits in Maude, PeerJ Computer Science 10:e2098, 2024
+authors: Canh Minh Do, Kazuhiro Ogata
+licence: no LICENSE file found (checked 2026-08-18)
+stars: 0
+last_commit: '2024-03-06'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: venue sweep 2026-08-18
+automated: true
+notes: null

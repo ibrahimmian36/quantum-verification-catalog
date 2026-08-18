@@ -1,0 +1,22 @@
+name: Quantum optics framework (HOL Light)
+repo_url: https://hvg.ece.concordia.ca/projects/optics/pr1/
+system: other (HOL Light)
+role: verifier
+verifies:
+- circuits
+description: A HOL Light framework for verifying optical quantum gates and circuits, including CNOT, Mach-Zehnder,
+  a quantum full adder, and a Grover oracle circuit, with tensor-product infrastructure and a decision
+  procedure.
+paper: Hierarchical Verification of Quantum Circuits, NFM 2016; framework paper in Formal Aspects of Computing,
+  2019
+authors: Mohamed Yousri Mahmoud, Sidi Mohamed Beillahi, Sofiene Tahar (Concordia HVG)
+licence: unknown
+stars: null
+last_commit: unknown
+status: unknown
+builds: not-attempted
+build_date: null
+toolchain: null
+source: proof-assistant sweep 2026-08-18
+automated: false
+notes: Code distributed as a zip archive from the group's project page, not a repository.

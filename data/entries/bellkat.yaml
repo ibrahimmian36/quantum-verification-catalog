@@ -1,0 +1,22 @@
+name: BellKAT
+repo_url: https://github.com/swystems/bellkat
+system: other (Haskell, equational theory)
+role: verifier
+verifies:
+- protocols
+description: A verification tool for quantum-network entanglement-distribution protocols based on a sound
+  and complete equational theory in the Kleene-algebra family.
+paper: 'BellKAT: a Kleene Algebra with Tests for quantum entanglement distribution protocols, PLDI 2024,
+  DOI 10.1145/3656430'
+authors: Anita Buckley, Pavel Chuprikov, Rodrigo Otoni, Robert Rand, Robert Soule, Patrick Eugster (per
+  paper listing)
+licence: no LICENSE file found (checked 2026-08-18)
+stars: 2
+last_commit: '2024-04-05'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: completeness-review 2026-08-18
+automated: true
+notes: A probabilistic successor is developed at github.com/swystems/prob-bellkat.

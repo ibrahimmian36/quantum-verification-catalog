@@ -1,0 +1,20 @@
+name: AutoQ-Para
+repo_url: https://github.com/VeriFIT/AutoQ-Para
+system: other (weighted tree automata)
+role: model-checker
+verifies:
+- circuits
+description: A verifier for parameterized quantum circuits using synchronized weighted tree automata,
+  providing automatic relational verification and equivalence checking.
+paper: Parameterized Verification of Quantum Circuits, POPL 2026, DOI 10.1145/3776712, arXiv:2511.19897
+authors: unknown
+licence: MIT (LICENSE file read 2026-08-18)
+stars: 0
+last_commit: '2026-02-23'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: venue sweep 2026-08-18
+automated: true
+notes: A separate development from AutoQ, by an overlapping group.

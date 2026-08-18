@@ -1,0 +1,20 @@
+name: Cartesian-array theory for quantum circuits (Princess)
+repo_url: https://doi.org/10.5281/zenodo.7970588
+system: other (SMT)
+role: verifier
+verifies:
+- circuits
+description: An SMT theory of Cartesian arrays, implemented in the Princess solver, that encodes quantum
+  gate semantics for verifying circuit correctness.
+paper: A Theory of Cartesian Arrays (with Applications in Quantum Circuit Verification), CADE-29, 2023
+authors: Yu-Fang Chen, Philipp Ruemmer, Wei-Lun Tsai
+licence: unknown
+stars: null
+last_commit: unknown
+status: unknown
+builds: not-attempted
+build_date: null
+toolchain: null
+source: zenodo sweep 2026-08-18
+automated: true
+notes: Artifact archived on Zenodo; no separate code repository located.

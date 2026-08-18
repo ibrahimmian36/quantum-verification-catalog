@@ -1,0 +1,21 @@
+name: Finding Photonics Circuits via delta-weakening SMT
+repo_url: https://doi.org/10.5281/zenodo.17233057
+system: other (SMT, dReal)
+role: compiler
+verifies:
+- circuits
+description: A dReal-based tool for finding photonic circuits that emulate quantum gates, with guarantees
+  obtained through delta-weakening SMT.
+paper: Finding Photonics Circuits via delta-weakening SMT, VMCAI 2026, DOI 10.1007/978-3-032-15700-3_7,
+  arXiv:2509.11678
+authors: Marco Lewis, Benoit Valiron
+licence: unknown
+stars: null
+last_commit: unknown
+status: unknown
+builds: not-attempted
+build_date: null
+toolchain: null
+source: venue sweep 2026-08-18
+automated: true
+notes: Artifact archived on Zenodo.

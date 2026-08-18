@@ -1,0 +1,20 @@
+name: NQPV
+repo_url: https://github.com/LucianoXu/NQPV
+system: other (numerical quantum Hoare logic)
+role: verifier
+verifies:
+- program semantics
+description: An assistant tool for formal verification of partial correctness of nondeterministic quantum
+  programs, using numerical methods over quantum Hoare logic.
+paper: Verification of Nondeterministic Quantum Programs, ASPLOS 2023, DOI 10.1145/3582016.3582039, arXiv:2302.07973
+authors: unknown
+licence: Apache-2.0 (LICENSE file read 2026-08-18)
+stars: 5
+last_commit: '2023-01-28'
+status: archived
+builds: not-attempted
+build_date: null
+toolchain: null
+source: venue sweep 2026-08-18
+automated: true
+notes: null

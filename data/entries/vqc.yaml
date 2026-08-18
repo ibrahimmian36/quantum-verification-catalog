@@ -1,0 +1,21 @@
+name: VQC (Verified Quantum Computing)
+repo_url: http://people.cs.uchicago.edu/~rand/vqc/
+system: Coq/Rocq
+role: library
+verifies:
+- program semantics
+- circuits
+description: An interactive textbook on verified quantum computing in Coq, in the style of Software Foundations,
+  covering matrix semantics, Deutsch's algorithm, and quantum teleportation.
+paper: unknown
+authors: Robert Rand
+licence: unknown
+stars: null
+last_commit: unknown
+status: unknown
+builds: not-attempted
+build_date: null
+toolchain: null
+source: completeness-review 2026-08-18
+automated: false
+notes: Distributed as a tarball (vqc.tgz) from the author's page rather than a repository.
