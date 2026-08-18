@@ -10,7 +10,7 @@ A tool for automated symbolic verification of quantum programs against first-ord
 - **verifies**: circuits, program semantics
 - **paper**: symQV: Automated Symbolic Verification of Quantum Programs, FM 2023, DOI 10.1007/978-3-031-27481-7_12, arXiv:2212.02267
 - **authors**: Fabian Bauer-Marquart, Stefan Leue, Christian Schilling
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 0
 - **last commit**: 2022-12-06
 - **status**: dormant

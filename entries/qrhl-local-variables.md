@@ -10,7 +10,7 @@ The Isabelle/HOL development accompanying the paper 'Local Variables and Quantum
 - **verifies**: protocols
 - **paper**: Local Variables and Quantum Relational Hoare Logic (Unruh)
 - **authors**: Dominique Unruh
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 0
 - **last commit**: 2023-07-15
 - **status**: dormant

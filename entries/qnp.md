@@ -10,7 +10,7 @@ Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning re
 - **verifies**: program semantics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 3
 - **last commit**: 2025-04-22
 - **status**: active

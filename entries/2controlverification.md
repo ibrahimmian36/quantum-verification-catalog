@@ -10,7 +10,7 @@ A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates w
 - **verifies**: circuits, mathematics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 4
 - **last commit**: 2025-04-05
 - **status**: active

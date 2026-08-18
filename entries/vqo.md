@@ -10,7 +10,7 @@ A verified framework for compiling quantum oracles: the OQASM oracle assembly la
 - **verifies**: compiler passes, program semantics
 - **paper**: Verified Compilation of Quantum Oracles, OOPSLA 2022, DOI 10.1145/3563309, arXiv:2112.06700
 - **authors**: Liyi Li, Finn Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 4
 - **last commit**: 2023-09-22
 - **status**: dormant

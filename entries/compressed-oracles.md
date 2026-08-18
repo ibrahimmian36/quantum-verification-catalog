@@ -10,7 +10,7 @@ A formalization of the compressed-oracle methodology for reasoning about quantum
 - **verifies**: protocols
 - **paper**: based on Zhandry, How to Record Quantum Queries (Crypto 2019); entry-specific paper unknown
 - **authors**: Dominique Unruh
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

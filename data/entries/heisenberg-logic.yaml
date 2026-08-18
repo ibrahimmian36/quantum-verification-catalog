@@ -7,7 +7,7 @@ verifies:
 description: A Coq development of the basics of the Heisenberg representation of quantum computing.
 paper: unknown
 authors: unknown
-licence: unknown
+licence: no LICENSE file found (checked 2026-08-18)
 stars: 2
 last_commit: '2026-04-24'
 status: active

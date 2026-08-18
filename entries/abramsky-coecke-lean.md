@@ -10,7 +10,7 @@ A Lean 4 formalization toward categorical quantum protocols (teleportation), aft
 - **verifies**: mathematics, protocols
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: Apache-2.0 (from API; LICENSE file not yet read)
+- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **stars**: 2
 - **last commit**: 2026-07-19
 - **status**: active

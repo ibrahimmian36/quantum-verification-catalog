@@ -10,7 +10,7 @@ A Python library for quantum circuit rewriting and optimisation using the ZX-cal
 - **verifies**: circuits
 - **paper**: PyZX: Large Scale Automated Diagrammatic Reasoning, QPL 2019, arXiv:1904.04735
 - **authors**: Aleks Kissinger, John van de Wetering, and contributors
-- **licence**: Apache-2.0 (from API; LICENSE file not yet read)
+- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **stars**: 539
 - **last commit**: 2026-08-16
 - **status**: active

@@ -7,7 +7,7 @@ verifies:
 description: A Coq library for category theory used as categorical infrastructure by VyZX.
 paper: unknown
 authors: unknown
-licence: unknown
+licence: no LICENSE file found (checked 2026-08-18)
 stars: 7
 last_commit: '2024-10-09'
 status: dormant

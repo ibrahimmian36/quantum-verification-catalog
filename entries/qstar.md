@@ -10,7 +10,7 @@ A prototype for verifying Q# programs in F*.
 - **verifies**: program semantics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 7
 - **last commit**: 2022-09-15
 - **status**: archived

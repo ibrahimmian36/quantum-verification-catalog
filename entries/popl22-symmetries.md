@@ -10,7 +10,7 @@ An Agda (cubical) formalization of symmetric rig groupoid semantics for the reve
 - **verifies**: mathematics
 - **paper**: Symmetries in Reversible Programming, POPL 2022, DOI 10.1145/3498667, arXiv:2110.05404
 - **authors**: Vikraman Choudhury, Jacek Karwowski, Amr Sabry
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 9
 - **last commit**: 2021-11-10
 - **status**: dormant

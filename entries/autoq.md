@@ -10,7 +10,7 @@ An automata-based quantum circuit verifier using Hoare-style pre- and post-condi
 - **verifies**: circuits, program semantics
 - **paper**: AutoQ: An Automata-Based Quantum Circuit Verifier, CAV 2023, DOI 10.1007/978-3-031-37709-9_7; AutoQ 2.0, TACAS 2025, DOI 10.1007/978-3-031-90660-2_5, arXiv:2411.09121
 - **authors**: Yu-Fang Chen, Kai-Min Chung, Ondrej Lengal, Jyun-Ao Lin, Wei-Lun Tsai, and collaborators
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 29
 - **last commit**: 2026-07-18
 - **status**: active

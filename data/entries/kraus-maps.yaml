@@ -8,7 +8,7 @@ description: A formalization of quantum channels as Kraus maps over arbitrary (n
   Hilbert spaces, with their equivalence to completely positive maps.
 paper: unknown
 authors: Dominique Unruh
-licence: unknown
+licence: BSD (stated on AFP entry page, read 2026-08-18)
 stars: null
 last_commit: unknown
 status: active

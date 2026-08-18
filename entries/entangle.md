@@ -10,7 +10,7 @@ A translator from Quipper programs to quantum Markov chains for model checking w
 - **verifies**: protocols
 - **paper**: Entangle: A Translation Framework from Quipper Programs to Quantum Markov Chains, DOI 10.1007/978-3-319-91632-3_9, arXiv:1708.06312
 - **authors**: unknown
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 3
 - **last commit**: 2017-11-21
 - **status**: dormant

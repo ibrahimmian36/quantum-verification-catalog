@@ -10,7 +10,7 @@ A formalization of the Quantum Fourier Transform with proofs of correctness and 
 - **verifies**: circuits
 - **paper**: unknown
 - **authors**: Pablo Manrique
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

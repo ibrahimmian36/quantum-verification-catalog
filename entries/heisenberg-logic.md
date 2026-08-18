@@ -10,7 +10,7 @@ A Coq development of the basics of the Heisenberg representation of quantum comp
 - **verifies**: program semantics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 2
 - **last commit**: 2026-04-24
 - **status**: active

@@ -10,7 +10,7 @@ The Quantum IO monad formalized in Agda, toward a verified functional quantum pr
 - **verifies**: program semantics
 - **paper**: Towards a Formally Verified Functional Quantum Programming Language (Green, Altenkirch)
 - **authors**: Alexander S. Green, Thorsten Altenkirch
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 5
 - **last commit**: 2013-05-11
 - **status**: dormant

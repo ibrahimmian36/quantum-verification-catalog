@@ -10,7 +10,7 @@ A verified formalization of the ZX-calculus in Coq, building toward a verified g
 - **verifies**: mathematics, circuits
 - **paper**: VyZX: Formal Verification of a Graphical Quantum Language, TOPLAS, DOI 10.1145/3807780; arXiv:2205.05781, arXiv:2311.11571
 - **authors**: Adrian Lehmann, Ben Caldwell, Robert Rand, and contributors
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 21
 - **last commit**: 2026-01-16
 - **status**: active

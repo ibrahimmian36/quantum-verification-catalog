@@ -10,7 +10,7 @@ A push-button verification toolkit for the Qiskit quantum compiler that verified
 - **verifies**: compiler passes
 - **paper**: Giallar: Push-button Verification for the Qiskit Quantum Compiler, PLDI 2022, DOI 10.1145/3519939.3523431, arXiv:2205.00661
 - **authors**: Runzhou Tao, Yunong Shi, Jianan Yao, John Li, Ali Javadi-Abhari, Andrew Cross, Frederic Chong, Ronghui Gu
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 8
 - **last commit**: 2022-11-26
 - **status**: dormant

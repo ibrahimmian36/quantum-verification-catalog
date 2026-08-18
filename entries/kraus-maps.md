@@ -10,7 +10,7 @@ A formalization of quantum channels as Kraus maps over arbitrary (not necessaril
 - **verifies**: mathematics
 - **paper**: unknown
 - **authors**: Dominique Unruh
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

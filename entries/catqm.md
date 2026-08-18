@@ -10,7 +10,7 @@ A Coq formalization of categorical quantum mechanics in the style of Abramsky an
 - **verifies**: mathematics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 0
 - **last commit**: 2021-06-29
 - **status**: dormant

@@ -10,7 +10,7 @@ A formalization of the One-way to Hiding theorem, a foundational lemma for secur
 - **verifies**: protocols
 - **paper**: Formalizing the One-Way to Hiding Theorem, CPP 2025, DOI 10.1145/3703595.3705887
 - **authors**: Katharina Kreuzer, Dominique Unruh
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

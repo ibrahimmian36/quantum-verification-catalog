@@ -8,7 +8,7 @@ description: An automated tool for quantum protocol verification using concurren
   built on the Maude rewriting-logic system.
 paper: unknown
 authors: Canh Minh Do and collaborators
-licence: unknown
+licence: no LICENSE file found (checked 2026-08-18)
 stars: 5
 last_commit: '2024-01-29'
 status: dormant

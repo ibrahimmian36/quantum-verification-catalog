@@ -10,7 +10,7 @@ A Coq library for category theory used as categorical infrastructure by VyZX.
 - **verifies**: mathematics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 7
 - **last commit**: 2024-10-09
 - **status**: dormant

@@ -10,7 +10,7 @@ A tool for formal verification of quantum error-correcting programs: a program l
 - **verifies**: error correction
 - **paper**: Efficient Formal Verification of Quantum Error Correcting Programs, PLDI 2025, DOI 10.1145/3729293, arXiv:2504.07732
 - **authors**: Chester Huang, Li Zhou, Wang Fang, Yuxuan Zhao, Mingsheng Ying (per paper listing)
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 9
 - **last commit**: 2025-05-30
 - **status**: active

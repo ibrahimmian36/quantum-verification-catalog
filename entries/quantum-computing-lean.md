@@ -10,7 +10,7 @@ A formalization of quantum computing in the Lean theorem prover.
 - **verifies**: mathematics, circuits
 - **paper**: unknown
 - **authors**: Duckki Oe
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 38
 - **last commit**: 2026-08-15
 - **status**: active

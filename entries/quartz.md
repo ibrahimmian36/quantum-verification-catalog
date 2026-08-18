@@ -10,7 +10,7 @@ A quantum circuit superoptimizer that automatically generates and formally verif
 - **verifies**: compiler passes
 - **paper**: Quartz: Superoptimization of Quantum Circuits, PLDI 2022, DOI 10.1145/3519939.3523433
 - **authors**: unknown
-- **licence**: Apache-2.0 (from API; LICENSE file not yet read)
+- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **stars**: 92
 - **last commit**: 2026-06-09
 - **status**: active

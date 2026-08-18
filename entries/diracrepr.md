@@ -10,7 +10,7 @@ A Coq formalization of a simple quantum imperative language with a Hoare-style l
 - **verifies**: program semantics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
 - **stars**: 2
 - **last commit**: 2021-05-06
 - **status**: dormant

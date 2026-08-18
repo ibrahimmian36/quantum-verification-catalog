@@ -10,7 +10,7 @@ A formalization of the syntax and denotational semantics of a simple quantum pro
 - **verifies**: program semantics
 - **paper**: Formal Verification of Quantum Algorithms Using Quantum Hoare Logic, CAV 2019, DOI 10.1007/978-3-030-25543-5_12
 - **authors**: Junyi Liu, Bohua Zhan, Shuling Wang, Shenggang Ying, Tao Liu, Yangjia Li, Mingsheng Ying, Naijun Zhan
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

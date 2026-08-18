@@ -10,7 +10,7 @@ A formalization of density matrices, projective measurements, and Tsirelson's pr
 - **verifies**: mathematics
 - **paper**: A formalization of the CHSH inequality and Tsirelson's upper-bound in Isabelle/HOL, J. Automated Reasoning 2023, arXiv:2306.12535
 - **authors**: Mnacho Echenim, Mehdi Mhalla, Coraline Mori
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

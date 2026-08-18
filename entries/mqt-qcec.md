@@ -10,7 +10,7 @@ An equivalence checker for quantum circuits combining decision-diagram and ZX-ca
 - **verifies**: circuits, compiler passes
 - **paper**: Advanced Equivalence Checking for Quantum Circuits, IEEE TCAD, DOI 10.1109/TCAD.2020.3032630
 - **authors**: Lukas Burgholzer, Robert Wille, and contributors
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 117
 - **last commit**: 2026-08-17
 - **status**: active

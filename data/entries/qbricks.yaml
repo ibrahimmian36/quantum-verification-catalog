@@ -11,7 +11,7 @@ description: A deductive verification framework for circuit-building quantum pro
 paper: An Automated Deductive Verification Framework for Circuit-building Quantum Programs, ESOP 2021,
   DOI 10.1007/978-3-030-72019-3_6, arXiv:2003.05841
 authors: Christophe Chareton, Sebastien Bardin, Francois Bobot, Valentin Perrelle, Benoit Valiron
-licence: LGPL-2.1 (from API; LICENSE file not yet read)
+licence: LGPL-2.1 (LICENSE file read 2026-08-18)
 stars: 9
 last_commit: '2026-05-14'
 status: active

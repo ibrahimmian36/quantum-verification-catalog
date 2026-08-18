@@ -10,7 +10,7 @@ A quantum-program verifier that translates quantum operations to classical array
 - **verifies**: program semantics
 - **paper**: Qafny: A Quantum-Program Verifier, ECOOP 2024, DOI 10.4230/LIPIcs.ECOOP.2024.24, arXiv:2211.06411; follow-up at OOPSLA 2025, DOI 10.1145/3763157
 - **authors**: Liyi Li and collaborators (UMD/Iowa State)
-- **licence**: BSD-2-Clause (from API; LICENSE file not yet read)
+- **licence**: BSD-2-Clause (LICENSE file read 2026-08-18)
 - **stars**: 5
 - **last commit**: 2026-02-02
 - **status**: active

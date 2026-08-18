@@ -10,7 +10,7 @@ Machine-verified Lean 4 / Mathlib formalizations in quantum optimization.
 - **verifies**: mathematics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: Apache-2.0 (from API; LICENSE file not yet read)
+- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **stars**: 8
 - **last commit**: 2026-06-29
 - **status**: active

@@ -7,7 +7,7 @@ verifies:
 description: Verification of quantum fault tolerance using Lean/Coq and an SMT solver.
 paper: unknown
 authors: unknown
-licence: unknown
+licence: no LICENSE file found (checked 2026-08-18)
 stars: 0
 last_commit: '2025-09-18'
 status: active

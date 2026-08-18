@@ -9,7 +9,7 @@ description: 'A verified framework for compiling quantum oracles: the OQASM orac
   verified compilers from OQIMP to OQASM to SQIR.'
 paper: Verified Compilation of Quantum Oracles, OOPSLA 2022, DOI 10.1145/3563309, arXiv:2112.06700
 authors: Liyi Li, Finn Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks
-licence: MIT (from API; LICENSE file not yet read)
+licence: MIT (LICENSE file read 2026-08-18)
 stars: 4
 last_commit: '2023-09-22'
 status: dormant

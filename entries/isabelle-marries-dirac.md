@@ -10,7 +10,7 @@ A matrix-based library for quantum computation and quantum information formalizi
 - **verifies**: mathematics, protocols
 - **paper**: Certified Quantum Computation in Isabelle/HOL, J. Automated Reasoning 65(5), 2021, DOI 10.1007/s10817-020-09584-7
 - **authors**: Anthony Bordg, Hanna Lachnitt, Yijun He
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

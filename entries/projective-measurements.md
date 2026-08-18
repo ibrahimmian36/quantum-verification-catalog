@@ -10,7 +10,7 @@ A formalization of quantum projective measurements based on spectral theory, and
 - **verifies**: mathematics
 - **paper**: Quantum projective measurements and the CHSH inequality in Isabelle/HOL, arXiv:2103.08535
 - **authors**: Mnacho Echenim
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

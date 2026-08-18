@@ -10,7 +10,7 @@ A Coq library of linear algebra, complex numbers, and matrix infrastructure used
 - **verifies**: mathematics
 - **paper**: QuantumLib: A Library for Quantum Computing in Coq, Coq Workshop 2022
 - **authors**: Jacob Zweifler, Kesha Hietala, Robert Rand, and contributors
-- **licence**: unknown
+- **licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
 - **stars**: 41
 - **last commit**: 2026-04-03
 - **status**: active

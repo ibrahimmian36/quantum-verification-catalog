@@ -10,7 +10,7 @@ A formal verification of the CSS code-chain complex correspondence over F2, in L
 - **verifies**: error correction, mathematics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 1
 - **last commit**: 2026-02-12
 - **status**: active

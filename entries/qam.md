@@ -10,7 +10,7 @@ A Coq development of a Quantum Abstract Machine.
 - **verifies**: program semantics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 1
 - **last commit**: 2023-05-11
 - **status**: dormant

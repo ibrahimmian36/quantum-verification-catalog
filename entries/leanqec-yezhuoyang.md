@@ -10,7 +10,7 @@ A Lean development proving properties of quantum error correction codes.
 - **verifies**: error correction
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 1
 - **last commit**: 2026-07-04
 - **status**: active

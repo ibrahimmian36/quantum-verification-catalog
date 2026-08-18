@@ -10,7 +10,7 @@ Kernel-checked certification of QLDPC decoder outputs: Lean 4 verified checkers 
 - **verifies**: error correction
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
 - **stars**: 0
 - **last commit**: 2026-07-06
 - **status**: active

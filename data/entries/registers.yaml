@@ -8,7 +8,7 @@ description: A generic theory of registers (mutable parts of program state) inst
   and quantum settings, with register composition and an analysis of quantum teleportation.
 paper: Quantum and classical registers, arXiv:2105.10914
 authors: Dominique Unruh
-licence: unknown
+licence: BSD (stated on AFP entry page, read 2026-08-18)
 stars: null
 last_commit: unknown
 status: active

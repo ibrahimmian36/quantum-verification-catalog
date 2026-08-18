@@ -10,7 +10,7 @@ Verification of quantum fault tolerance using Lean/Coq and an SMT solver.
 - **verifies**: error correction
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 0
 - **last commit**: 2025-09-18
 - **status**: active

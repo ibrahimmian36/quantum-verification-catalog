@@ -10,7 +10,7 @@ A Coq development named Quantum Over Coq.
 - **verifies**: program semantics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 1
 - **last commit**: 2022-02-01
 - **status**: dormant

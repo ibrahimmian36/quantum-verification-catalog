@@ -10,7 +10,7 @@ A generic theory of registers (mutable parts of program state) instantiated for 
 - **verifies**: program semantics
 - **paper**: Quantum and classical registers, arXiv:2105.10914
 - **authors**: Dominique Unruh
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

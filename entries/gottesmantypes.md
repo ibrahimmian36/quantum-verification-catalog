@@ -10,7 +10,7 @@ A Coq development of Gottesman/Heisenberg-representation types for stabilizer qu
 - **verifies**: program semantics
 - **paper**: unknown
 - **authors**: unknown
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 2
 - **last commit**: 2020-09-11
 - **status**: dormant

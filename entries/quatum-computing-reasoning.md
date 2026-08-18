@@ -10,7 +10,7 @@ An Isabelle/HOL semantics and Hoare logic with separation for reasoning about qu
 - **verifies**: program semantics
 - **paper**: unknown
 - **authors**: David Sanan
-- **licence**: GPL-3.0 (from API; LICENSE file not yet read)
+- **licence**: GPL-3.0 (LICENSE file read 2026-08-18)
 - **stars**: 0
 - **last commit**: 2024-12-09
 - **status**: dormant

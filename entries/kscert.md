@@ -10,7 +10,7 @@ Kernel-checked Lean 4 certificates for a Kochen-Specker vector system in R^3 wit
 - **verifies**: mathematics
 - **paper**: arXiv:2607.26413
 - **authors**: Shayaan Siddique, Ibby Mian
-- **licence**: Apache-2.0 (from API; LICENSE file not yet read)
+- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **stars**: 0
 - **last commit**: 2026-07-24
 - **status**: active

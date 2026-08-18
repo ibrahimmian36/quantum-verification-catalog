@@ -8,7 +8,7 @@ description: A formalization of the Quantum Fourier Transform with proofs of cor
   building on the Isabelle Marries Dirac library.
 paper: unknown
 authors: Pablo Manrique
-licence: unknown
+licence: BSD (stated on AFP entry page, read 2026-08-18)
 stars: null
 last_commit: unknown
 status: active

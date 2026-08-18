@@ -10,7 +10,7 @@ A tool for robustness verification of quantum machine learning models, checking 
 - **verifies**: program semantics
 - **paper**: VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models, arXiv:2407.13533
 - **authors**: unknown
-- **licence**: GPL-3.0 (from API; LICENSE file not yet read)
+- **licence**: GPL-3.0 (LICENSE file read 2026-08-18)
 - **stars**: 4
 - **last commit**: 2024-06-21
 - **status**: dormant

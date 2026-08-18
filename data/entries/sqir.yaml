@@ -9,7 +9,7 @@ description: A small quantum intermediate representation deeply embedded in Coq,
   prove quantum programs (Grover, QPE, GHZ, teleportation) correct.
 paper: Proving Quantum Programs Correct, ITP 2021, DOI 10.4230/LIPIcs.ITP.2021.21, arXiv:2010.01240
 authors: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks, and contributors
-licence: MIT (from API; LICENSE file not yet read)
+licence: MIT (LICENSE file read 2026-08-18)
 stars: 100
 last_commit: '2026-04-02'
 status: active

@@ -10,7 +10,7 @@ A Haskell toolkit for quantum circuit analysis based on the sum-over-paths repre
 - **verifies**: circuits
 - **paper**: Towards Large-scale Functional Verification of Universal Quantum Circuits, QPL 2018, DOI 10.4204/EPTCS.287.1, arXiv:1805.06908
 - **authors**: Matthew Amy
-- **licence**: BSD-3-Clause (from API; LICENSE file not yet read)
+- **licence**: BSD-3-Clause (LICENSE file read 2026-08-18)
 - **stars**: 96
 - **last commit**: 2026-07-20
 - **status**: active

@@ -10,7 +10,7 @@ A Python-based tool for proving and organizing general theorems, whose flagship 
 - **verifies**: circuits, mathematics
 - **paper**: Prove-It: A Proof Assistant for Organizing and Verifying General Mathematical Knowledge, arXiv:2304.02183
 - **authors**: Wayne Witzel and collaborators (Sandia National Laboratories)
-- **licence**: unknown
+- **licence**: nonstandard licence in license.txt (read 2026-08-18; see file)
 - **stars**: 37
 - **last commit**: 2026-08-14
 - **status**: active

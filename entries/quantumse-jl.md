@@ -10,7 +10,7 @@ A prototype tool for symbolic execution of quantum programs using symbolic stabi
 - **verifies**: error correction
 - **paper**: Symbolic Execution for Quantum Error Correction Programs, PLDI 2024, DOI 10.1145/3656419, arXiv:2311.11313
 - **authors**: Wang Fang, Mingsheng Ying
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 16
 - **last commit**: 2024-08-23
 - **status**: dormant

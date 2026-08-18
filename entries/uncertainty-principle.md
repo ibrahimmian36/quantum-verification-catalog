@@ -10,7 +10,7 @@ A formal verification of the quantum-mechanical uncertainty principle over compl
 - **verifies**: mathematics
 - **paper**: unknown
 - **authors**: Alexander Treml
-- **licence**: unknown
+- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
 - **stars**: unknown
 - **last commit**: unknown
 - **status**: active

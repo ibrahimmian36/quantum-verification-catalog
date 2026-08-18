@@ -10,7 +10,7 @@ A foundational verification framework for quantum programs: a quantum Hoare logi
 - **verifies**: program semantics
 - **paper**: CoqQ: Foundational Verification of Quantum Programs, POPL 2023, DOI 10.1145/3571222, arXiv:2207.11350
 - **authors**: Li Zhou, Gilles Barthe, Pierre-Yves Strub, Junyi Liu, Mingsheng Ying
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 30
 - **last commit**: 2024-12-29
 - **status**: dormant

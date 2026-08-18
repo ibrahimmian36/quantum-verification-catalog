@@ -10,7 +10,7 @@ A linear-typed quantum circuit language embedded in Coq with a density-matrix de
 - **verifies**: program semantics, circuits
 - **paper**: QWIRE: A Core Language for Quantum Circuits, POPL 2017, DOI 10.1145/3009837.3009894; QWIRE Practice, QPL 2017, DOI 10.4204/EPTCS.266.8, arXiv:1803.00699
 - **authors**: Jennifer Paykin, Robert Rand, Steve Zdancewic
-- **licence**: MIT (from API; LICENSE file not yet read)
+- **licence**: MIT (LICENSE file read 2026-08-18)
 - **stars**: 111
 - **last commit**: 2025-05-11
 - **status**: active

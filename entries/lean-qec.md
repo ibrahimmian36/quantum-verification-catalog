@@ -10,7 +10,7 @@ A Lean 4 formalization of quantum error correction.
 - **verifies**: error correction
 - **paper**: arXiv:2605.16523
 - **authors**: unknown
-- **licence**: unknown
+- **licence**: no LICENSE file found (checked 2026-08-18)
 - **stars**: 11
 - **last commit**: 2026-08-12
 - **status**: active
