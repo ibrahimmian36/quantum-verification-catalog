@@ -1,0 +1,20 @@
+name: Quartz
+repo_url: https://github.com/quantum-compiler/quartz
+system: other (SMT)
+role: compiler
+verifies:
+- compiler passes
+description: A quantum circuit superoptimizer that automatically generates and formally verifies circuit
+  transformations with an SMT solver.
+paper: 'Quartz: Superoptimization of Quantum Circuits, PLDI 2022, DOI 10.1145/3519939.3523433'
+authors: unknown
+licence: Apache-2.0 (from API; LICENSE file not yet read)
+stars: 92
+last_commit: '2026-06-09'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: electronics-2026
+automated: true
+notes: null

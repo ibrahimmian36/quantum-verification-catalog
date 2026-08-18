@@ -1,0 +1,19 @@
+name: kscert
+repo_url: https://github.com/shayaansiddique06/kscert
+system: Lean 4
+role: verifier
+verifies:
+- mathematics
+description: Kernel-checked Lean 4 certificates for a Kochen-Specker vector system in R^3 with 24 vectors.
+paper: arXiv:2607.26413
+authors: Shayaan Siddique, Ibby Mian
+licence: Apache-2.0 (from API; LICENSE file not yet read)
+stars: 0
+last_commit: '2026-07-24'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list
+automated: false
+notes: null

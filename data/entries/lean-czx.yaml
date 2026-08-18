@@ -1,0 +1,20 @@
+name: lean-czx
+repo_url: https://github.com/lean-cqm/lean-czx
+system: Lean 4
+role: verifier
+verifies:
+- mathematics
+description: A Lean 4 formalization of the completeness of the ZX-calculus for finite-dimensional Hilbert
+  spaces.
+paper: unknown
+authors: unknown
+licence: MIT (from API; LICENSE file not yet read)
+stars: 0
+last_commit: '2026-07-19'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

@@ -1,0 +1,19 @@
+name: lean-quantum (Yamasaki group)
+repo_url: https://github.com/Hayata-Yamasaki-Group/lean-quantum
+system: Lean 4
+role: library
+verifies:
+- mathematics
+description: A Lean formalization of the theory of quantum information and quantum computation.
+paper: unknown
+authors: Hayata Yamasaki group
+licence: Apache-2.0 (from API; LICENSE file not yet read)
+stars: 28
+last_commit: '2026-07-20'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

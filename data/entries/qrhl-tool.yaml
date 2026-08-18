@@ -1,0 +1,20 @@
+name: qrhl-tool
+repo_url: https://github.com/dominique-unruh/qrhl-tool
+system: Isabelle/HOL
+role: verifier
+verifies:
+- protocols
+description: An interactive proof assistant for quantum relational Hoare logic, built on Isabelle/HOL,
+  for verifying the security of quantum and post-quantum cryptographic protocols.
+paper: Quantum Relational Hoare Logic, POPL 2019, DOI 10.1145/3290346, arXiv:1802.03188
+authors: Dominique Unruh
+licence: MIT (from API; LICENSE file not yet read)
+stars: 25
+last_commit: '2026-05-24'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; POPL; github-search; 2109.06493; quantumpl-bib
+automated: false
+notes: null

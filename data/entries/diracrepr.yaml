@@ -1,0 +1,19 @@
+name: DiracRepr
+repo_url: https://github.com/Vickyswj/DiracRepr
+system: Coq/Rocq
+role: verifier
+verifies:
+- program semantics
+description: A Coq formalization of a simple quantum imperative language with a Hoare-style logic.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 2
+last_commit: '2021-05-06'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

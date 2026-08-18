@@ -1,0 +1,21 @@
+name: Proto-Quipper metatheory (Hybrid)
+repo_url: https://www.site.uottawa.ca/~afelty/jar19/
+system: Coq/Rocq
+role: verifier
+verifies:
+- program semantics
+description: A Coq formalization (in the Hybrid framework) of the metatheory of the Proto-Quipper quantum
+  programming language, proving type soundness in a linear specification logic.
+paper: Formalization of Metatheory of the Quipper Quantum Programming Language in a Linear Logic, J. Automated
+  Reasoning, DOI 10.1007/s10817-019-09527-x, arXiv:1812.03624
+authors: Mohamed Yousri Mahmoud, Amy Felty
+licence: unknown
+stars: null
+last_commit: unknown
+status: unknown
+builds: not-attempted
+build_date: null
+toolchain: null
+source: quantumpl-bib
+automated: false
+notes: Hosted as an electronic appendix on the author's site, not on GitHub.

@@ -1,0 +1,20 @@
+name: SqrtPi
+repo_url: https://github.com/JacquesCarette/SqrtPi
+system: other (Agda)
+role: verifier
+verifies:
+- mathematics
+description: An Agda formalization (in agda-categories) of completeness and expressivity results for the
+  reversible language Pi extended with square roots, capturing unitary quantum computing.
+paper: With a Few Square Roots, Quantum Computing Is as Easy as Pi, POPL 2024, DOI 10.1145/3632861, arXiv:2310.14056
+authors: Jacques Carette, Chris Heunen, Robin Kaarsgaard, Amr Sabry
+licence: BSD-3-Clause (from API; LICENSE file not yet read)
+stars: 8
+last_commit: '2024-10-17'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: quantumpl-bib
+automated: false
+notes: null

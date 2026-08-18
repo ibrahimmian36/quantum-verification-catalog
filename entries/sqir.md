@@ -2,20 +2,20 @@
 
 # SQIR
 
-A small quantum intermediate representation embedded in Coq, with semantics used to prove correctness of quantum circuits and of the VOQC optimizer.
+A small quantum intermediate representation deeply embedded in Coq, with semantics used to prove quantum programs (Grover, QPE, GHZ, teleportation) correct.
 
 - **repo url**: <https://github.com/inQWIRE/SQIR>
 - **system**: Coq/Rocq
 - **role**: language
-- **verifies**: circuits, program semantics
-- **paper**: unknown
-- **authors**: unknown
+- **verifies**: program semantics, circuits
+- **paper**: Proving Quantum Programs Correct, ITP 2021, DOI 10.4230/LIPIcs.ITP.2021.21, arXiv:2010.01240
+- **authors**: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks, and contributors
 - **licence**: MIT (from API; LICENSE file not yet read)
 - **stars**: 100
 - **last commit**: 2026-04-02
 - **status**: active
 - **builds**: not-attempted
-- **source**: seed-list
-- **notes**: unknown
+- **source**: seed-list; ITP; 2109.06493; 2110.01320; quantumpl-bib
+- **notes**: Also home of the VOQC correctness proofs and of the formally certified end-to-end Shor's algorithm (examples/shor; PNAS 2023, DOI 10.1073/pnas.2218775120, arXiv:2204.07112).
 
 [Back to catalog](../README.md)

@@ -1,0 +1,20 @@
+name: VeriQR
+repo_url: https://github.com/veriq-toolkit/VeriQR
+system: other (exact robustness algorithms)
+role: verifier
+verifies:
+- program semantics
+description: A tool for robustness verification of quantum machine learning models, checking local and
+  global robustness under noise.
+paper: 'VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models, arXiv:2407.13533'
+authors: unknown
+licence: GPL-3.0 (from API; LICENSE file not yet read)
+stars: 4
+last_commit: '2024-06-21'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: electronics-2026
+automated: true
+notes: Formerly hosted under the Veri-Q organization.

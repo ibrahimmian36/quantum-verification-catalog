@@ -1,0 +1,22 @@
+name: VyZX
+repo_url: https://github.com/inQWIRE/VyZX
+system: Coq/Rocq
+role: verifier
+verifies:
+- mathematics
+- circuits
+description: A verified formalization of the ZX-calculus in Coq, building toward a verified graphical
+  quantum-circuit optimizer.
+paper: 'VyZX: Formal Verification of a Graphical Quantum Language, TOPLAS, DOI 10.1145/3807780; arXiv:2205.05781,
+  arXiv:2311.11571'
+authors: Adrian Lehmann, Ben Caldwell, Robert Rand, and contributors
+licence: MIT (from API; LICENSE file not yet read)
+stars: 21
+last_commit: '2026-01-16'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; QPL; github-org-sweep
+automated: false
+notes: Depends on QuantumLib; a VS Code visualizer lives at github.com/inQWIRE/ViZX.

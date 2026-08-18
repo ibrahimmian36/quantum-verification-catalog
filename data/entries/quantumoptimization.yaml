@@ -1,0 +1,19 @@
+name: QuantumOptimization
+repo_url: https://github.com/urikol/QuantumOptimization
+system: Lean 4
+role: library
+verifies:
+- mathematics
+description: Machine-verified Lean 4 / Mathlib formalizations in quantum optimization.
+paper: unknown
+authors: unknown
+licence: Apache-2.0 (from API; LICENSE file not yet read)
+stars: 8
+last_commit: '2026-06-29'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

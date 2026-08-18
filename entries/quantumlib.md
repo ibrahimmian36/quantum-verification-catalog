@@ -2,20 +2,20 @@
 
 # QuantumLib
 
-A Coq library of linear algebra and other mathematics used as the foundation for the inQWIRE quantum developments.
+A Coq library of linear algebra, complex numbers, and matrix infrastructure used as the shared foundation of the inQWIRE developments (QWIRE, SQIR/VOQC, VyZX).
 
 - **repo url**: <https://github.com/inQWIRE/QuantumLib>
 - **system**: Coq/Rocq
 - **role**: library
 - **verifies**: mathematics
-- **paper**: unknown
-- **authors**: unknown
+- **paper**: QuantumLib: A Library for Quantum Computing in Coq, Coq Workshop 2022
+- **authors**: Jacob Zweifler, Kesha Hietala, Robert Rand, and contributors
 - **licence**: unknown
 - **stars**: 41
 - **last commit**: 2026-04-03
 - **status**: active
 - **builds**: not-attempted
-- **source**: seed-list
-- **notes**: unknown
+- **source**: seed-list; Coq Workshop; github-org-sweep
+- **notes**: Distributed on opam as coq-quantumlib.
 
 [Back to catalog](../README.md)

@@ -1,0 +1,19 @@
+name: Q* (qsharp-verifier)
+repo_url: https://github.com/microsoft/qsharp-verifier
+system: F*
+role: verifier
+verifies:
+- program semantics
+description: A prototype for verifying Q# programs in F*.
+paper: unknown
+authors: unknown
+licence: MIT (from API; LICENSE file not yet read)
+stars: 7
+last_commit: '2022-09-15'
+status: archived
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; github-search
+automated: false
+notes: Repository archived by Microsoft (last push 2022-09-15).

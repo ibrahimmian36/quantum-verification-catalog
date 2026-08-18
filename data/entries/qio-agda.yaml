@@ -1,0 +1,20 @@
+name: QIO Agda
+repo_url: https://github.com/alexandersgreen/qio-agda
+system: other (Agda)
+role: language
+verifies:
+- program semantics
+description: The Quantum IO monad formalized in Agda, toward a verified functional quantum programming
+  language.
+paper: Towards a Formally Verified Functional Quantum Programming Language (Green, Altenkirch)
+authors: Alexander S. Green, Thorsten Altenkirch
+licence: unknown
+stars: 5
+last_commit: '2013-05-11'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: quantumpl-bib
+automated: false
+notes: Companion Haskell implementation at github.com/alexandersgreen/qio-haskell.

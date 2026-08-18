@@ -1,0 +1,20 @@
+name: Registers (Quantum and Classical)
+repo_url: https://www.isa-afp.org/entries/Registers.html
+system: Isabelle/HOL
+role: library
+verifies:
+- program semantics
+description: A generic theory of registers (mutable parts of program state) instantiated for classical
+  and quantum settings, with register composition and an analysis of quantum teleportation.
+paper: Quantum and classical registers, arXiv:2105.10914
+authors: Dominique Unruh
+licence: unknown
+stars: null
+last_commit: unknown
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: afp; quantumpl-bib
+automated: false
+notes: AFP entry (submitted 2021-10-28); development repository at github.com/dominique-unruh/registers.

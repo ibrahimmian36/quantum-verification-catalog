@@ -1,0 +1,21 @@
+name: VOQC
+repo_url: https://github.com/inQWIRE/SQIR
+system: Coq/Rocq
+role: compiler
+verifies:
+- compiler passes
+description: A verified optimizer for quantum circuits whose optimizations are proved semantics-preserving
+  over SQIR.
+paper: A Verified Optimizer for Quantum Circuits, POPL 2021, DOI 10.1145/3434318, arXiv:1912.02250
+authors: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks
+licence: MIT (from API; LICENSE file not yet read)
+stars: 100
+last_commit: '2026-04-02'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; POPL; 2109.06493; quantumpl-bib
+automated: false
+notes: Proofs live in the SQIR repository; extracted OCaml is packaged at github.com/inQWIRE/mlvoqc and
+  a Python wrapper at github.com/inQWIRE/pyvoqc.

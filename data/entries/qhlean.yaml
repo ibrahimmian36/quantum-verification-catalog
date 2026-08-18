@@ -1,0 +1,19 @@
+name: qhlean
+repo_url: https://github.com/dnngky/qhlean
+system: Lean 4
+role: verifier
+verifies:
+- program semantics
+description: An implementation of quantum Hoare logic with classical variables in Lean 4.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 0
+last_commit: '2026-08-08'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

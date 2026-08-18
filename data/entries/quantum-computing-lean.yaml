@@ -1,0 +1,20 @@
+name: quantum-computing-lean
+repo_url: https://github.com/duckki/quantum-computing-lean
+system: Lean 4
+role: library
+verifies:
+- mathematics
+- circuits
+description: A formalization of quantum computing in the Lean theorem prover.
+paper: unknown
+authors: Duckki Oe
+licence: unknown
+stars: 38
+last_commit: '2026-08-15'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

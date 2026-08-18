@@ -1,0 +1,20 @@
+name: GottesmanTypes
+repo_url: https://github.com/inQWIRE/GottesmanTypes
+system: Coq/Rocq
+role: library
+verifies:
+- program semantics
+description: A Coq development of Gottesman/Heisenberg-representation types for stabilizer quantum programs.
+paper: unknown
+authors: unknown
+licence: MIT (from API; LICENSE file not yet read)
+stars: 2
+last_commit: '2020-09-11'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-org-sweep
+automated: false
+notes: Compare Gottesman Types for Quantum Programs (DOI 10.4204/EPTCS.340.14); the paper-to-repo correspondence
+  has not been confirmed from the repository itself.

@@ -1,0 +1,19 @@
+name: lean4-quantum
+repo_url: https://github.com/guest2180/lean4-quantum
+system: Lean 4
+role: library
+verifies:
+- mathematics
+description: An implementation of the theory of quantum computing in Lean 4.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 4
+last_commit: '2025-07-08'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

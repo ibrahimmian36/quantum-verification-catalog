@@ -1,0 +1,19 @@
+name: QHL-Lean
+repo_url: https://github.com/alexjgreig/QHL-Lean
+system: Lean 4
+role: verifier
+verifies:
+- program semantics
+description: A quantum Hoare logic and quantum program verification tool in Lean 4.
+paper: unknown
+authors: unknown
+licence: Apache-2.0 (from API; LICENSE file not yet read)
+stars: 2
+last_commit: '2025-08-17'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

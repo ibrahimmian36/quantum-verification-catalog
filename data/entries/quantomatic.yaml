@@ -1,0 +1,20 @@
+name: Quantomatic
+repo_url: https://github.com/zxcalc/quantomatic
+system: other (diagrammatic proof assistant)
+role: verifier
+verifies:
+- mathematics
+description: A diagrammatic proof assistant for equational reasoning about string diagrams such as the
+  ZX-calculus, with user-defined equational theories and rewrite strategies.
+paper: 'Quantomatic: A Proof Assistant for Diagrammatic Reasoning, CADE 2015, arXiv:1503.01034'
+authors: Aleks Kissinger, Vladimir Zamdzhiev, and contributors
+licence: unknown
+stars: 175
+last_commit: '2026-03-13'
+status: archived
+builds: not-attempted
+build_date: null
+toolchain: null
+source: '2109.06493'
+automated: false
+notes: Repository archived; the ZX-calculus tooling lineage continues in PyZX.

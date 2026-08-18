@@ -1,0 +1,21 @@
+name: CoqQ
+repo_url: https://github.com/coq-quantum/CoqQ
+system: Coq/Rocq
+role: verifier
+verifies:
+- program semantics
+description: 'A foundational verification framework for quantum programs: a quantum Hoare logic proved
+  sound against a denotational semantics built on MathComp, with case studies including HHL, Grover, QPE,
+  and hidden subgroup.'
+paper: 'CoqQ: Foundational Verification of Quantum Programs, POPL 2023, DOI 10.1145/3571222, arXiv:2207.11350'
+authors: Li Zhou, Gilles Barthe, Pierre-Yves Strub, Junyi Liu, Mingsheng Ying
+licence: MIT (from API; LICENSE file not yet read)
+stars: 30
+last_commit: '2024-12-29'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; POPL; 2110.01320; quantumpl-bib
+automated: false
+notes: Serves as the base of Veri-QEC.

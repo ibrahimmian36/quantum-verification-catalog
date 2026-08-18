@@ -1,0 +1,21 @@
+name: Prove-It
+repo_url: https://github.com/sandialabs/Prove-It
+system: other (Python proof tool)
+role: verifier
+verifies:
+- circuits
+- mathematics
+description: A Python-based tool for proving and organizing general theorems, whose flagship application
+  is proofs about quantum circuits and algorithms.
+paper: 'Prove-It: A Proof Assistant for Organizing and Verifying General Mathematical Knowledge, arXiv:2304.02183'
+authors: Wayne Witzel and collaborators (Sandia National Laboratories)
+licence: unknown
+stars: 37
+last_commit: '2026-08-14'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; github-search
+automated: true
+notes: null

@@ -1,0 +1,20 @@
+name: 2ControlVerification
+repo_url: https://github.com/kylechui/2ControlVerification
+system: Coq/Rocq
+role: verifier
+verifies:
+- circuits
+- mathematics
+description: A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates with Two Controls'.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 4
+last_commit: '2025-04-05'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

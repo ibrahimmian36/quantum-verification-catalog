@@ -1,0 +1,23 @@
+name: AutoQ
+repo_url: https://github.com/fmlab-iis/AutoQ
+system: other (tree automata)
+role: model-checker
+verifies:
+- circuits
+- program semantics
+description: An automata-based quantum circuit verifier using Hoare-style pre- and post-conditions represented
+  as tree automata; version 2.0 extends to quantum programs with measurement, branching, and loop invariants.
+paper: 'AutoQ: An Automata-Based Quantum Circuit Verifier, CAV 2023, DOI 10.1007/978-3-031-37709-9_7;
+  AutoQ 2.0, TACAS 2025, DOI 10.1007/978-3-031-90660-2_5, arXiv:2411.09121'
+authors: Yu-Fang Chen, Kai-Min Chung, Ondrej Lengal, Jyun-Ao Lin, Wei-Lun Tsai, and collaborators
+licence: MIT (from API; LICENSE file not yet read)
+stars: 29
+last_commit: '2026-07-18'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; CAV; TACAS; electronics-2026
+automated: true
+notes: github.com/alan23273850/AutoQ redirects here. The related POPL 2025 level-synchronized tree automata
+  artifact is archived at Zenodo, DOI 10.5281/zenodo.13957472.

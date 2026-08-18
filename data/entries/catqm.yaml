@@ -1,0 +1,19 @@
+name: CatQM
+repo_url: https://github.com/jabberabbe/CatQM
+system: Coq/Rocq
+role: library
+verifies:
+- mathematics
+description: A Coq formalization of categorical quantum mechanics in the style of Abramsky and Coecke.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 0
+last_commit: '2021-06-29'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

@@ -1,0 +1,19 @@
+name: QAM
+repo_url: https://github.com/plum-umd/QAM
+system: Coq/Rocq
+role: library
+verifies:
+- program semantics
+description: A Coq development of a Quantum Abstract Machine.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 1
+last_commit: '2023-05-11'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-org-sweep
+automated: false
+notes: null

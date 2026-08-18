@@ -1,0 +1,20 @@
+name: QuantumSE.jl
+repo_url: https://github.com/njuwfang/QuantumSE.jl
+system: other (Julia + SMT)
+role: verifier
+verifies:
+- error correction
+description: A prototype tool for symbolic execution of quantum programs using symbolic stabilizer states,
+  applied to debugging quantum error correction programs at scale.
+paper: Symbolic Execution for Quantum Error Correction Programs, PLDI 2024, DOI 10.1145/3656419, arXiv:2311.11313
+authors: Wang Fang, Mingsheng Ying
+licence: MIT (from API; LICENSE file not yet read)
+stars: 16
+last_commit: '2024-08-23'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: quantumpl-bib; PLDI
+automated: true
+notes: null

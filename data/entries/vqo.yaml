@@ -1,0 +1,21 @@
+name: VQO
+repo_url: https://github.com/inQWIRE/VQO
+system: Coq/Rocq
+role: compiler
+verifies:
+- compiler passes
+- program semantics
+description: 'A verified framework for compiling quantum oracles: the OQASM oracle assembly language with
+  verified compilers from OQIMP to OQASM to SQIR.'
+paper: Verified Compilation of Quantum Oracles, OOPSLA 2022, DOI 10.1145/3563309, arXiv:2112.06700
+authors: Liyi Li, Finn Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks
+licence: MIT (from API; LICENSE file not yet read)
+stars: 4
+last_commit: '2023-09-22'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; OOPSLA; quantumpl-bib
+automated: false
+notes: Includes oracles used in Shor's and Grover's algorithms; joint inQWIRE/UMD project.

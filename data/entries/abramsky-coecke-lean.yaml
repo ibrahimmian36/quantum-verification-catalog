@@ -1,0 +1,21 @@
+name: Abramsky_Coecke_Lean
+repo_url: https://github.com/JamesSquires0/Abramsky_Coecke_Lean
+system: Lean 4
+role: library
+verifies:
+- mathematics
+- protocols
+description: A Lean 4 formalization toward categorical quantum protocols (teleportation), after Abramsky
+  and Coecke 2004.
+paper: unknown
+authors: unknown
+licence: Apache-2.0 (from API; LICENSE file not yet read)
+stars: 2
+last_commit: '2026-07-19'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

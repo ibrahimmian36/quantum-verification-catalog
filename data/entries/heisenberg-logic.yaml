@@ -1,0 +1,19 @@
+name: Heisenberg-Logic
+repo_url: https://github.com/inQWIRE/Heisenberg-Logic
+system: Coq/Rocq
+role: library
+verifies:
+- program semantics
+description: A Coq development of the basics of the Heisenberg representation of quantum computing.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 2
+last_commit: '2026-04-24'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; github-org-sweep
+automated: false
+notes: null

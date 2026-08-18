@@ -1,0 +1,22 @@
+name: Qafny
+repo_url: https://github.com/qafny/qafny_impl
+system: Dafny
+role: verifier
+verifies:
+- program semantics
+description: A quantum-program verifier that translates quantum operations to classical array operations
+  in a separation-logic style, discharging proofs through Dafny; verified components include quantum walk,
+  Grover, and Shor.
+paper: 'Qafny: A Quantum-Program Verifier, ECOOP 2024, DOI 10.4230/LIPIcs.ECOOP.2024.24, arXiv:2211.06411;
+  follow-up at OOPSLA 2025, DOI 10.1145/3763157'
+authors: Liyi Li and collaborators (UMD/Iowa State)
+licence: BSD-2-Clause (from API; LICENSE file not yet read)
+stars: 5
+last_commit: '2026-02-02'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; ECOOP; electronics-2026
+automated: true
+notes: An earlier Haskell frontend exists at github.com/mzhu-zx/qafny-hs (archived).

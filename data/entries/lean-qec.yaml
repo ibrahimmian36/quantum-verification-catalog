@@ -1,0 +1,19 @@
+name: Lean-QEC
+repo_url: https://github.com/VerifiedQC/Lean-QEC
+system: Lean 4
+role: library
+verifies:
+- error correction
+description: A Lean 4 formalization of quantum error correction.
+paper: arXiv:2605.16523
+authors: unknown
+licence: unknown
+stars: 11
+last_commit: '2026-08-12'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; github-search
+automated: false
+notes: null

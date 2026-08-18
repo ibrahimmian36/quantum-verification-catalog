@@ -1,0 +1,20 @@
+name: Uncertainty Principle
+repo_url: https://www.isa-afp.org/entries/Uncertainty_Principle.html
+system: Isabelle/HOL
+role: library
+verifies:
+- mathematics
+description: A formal verification of the quantum-mechanical uncertainty principle over complex vector
+  spaces, following the proof in Nielsen and Chuang.
+paper: unknown
+authors: Alexander Treml
+licence: unknown
+stars: null
+last_commit: unknown
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: afp
+automated: false
+notes: AFP entry (submitted 2024-03-26).

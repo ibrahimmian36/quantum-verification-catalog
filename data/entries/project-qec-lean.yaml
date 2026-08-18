@@ -1,0 +1,21 @@
+name: Project_qec_lean
+repo_url: https://github.com/Ruizsolveall/Project_qec_lean
+system: Lean 4
+role: verifier
+verifies:
+- error correction
+- mathematics
+description: A formal verification of the CSS code-chain complex correspondence over F2, in Lean 4 with
+  Mathlib.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 1
+last_commit: '2026-02-12'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

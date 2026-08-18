@@ -1,0 +1,20 @@
+name: qrhl-local-variables-isabelle
+repo_url: https://github.com/dominique-unruh/qrhl-local-variables-isabelle
+system: Isabelle/HOL
+role: verifier
+verifies:
+- protocols
+description: The Isabelle/HOL development accompanying the paper 'Local Variables and Quantum Relational
+  Hoare Logic'.
+paper: Local Variables and Quantum Relational Hoare Logic (Unruh)
+authors: Dominique Unruh
+licence: MIT (from API; LICENSE file not yet read)
+stars: 0
+last_commit: '2023-07-15'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

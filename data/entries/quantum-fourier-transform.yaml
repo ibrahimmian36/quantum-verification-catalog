@@ -1,0 +1,20 @@
+name: Quantum Fourier Transform
+repo_url: https://www.isa-afp.org/entries/Quantum_Fourier_Transform.html
+system: Isabelle/HOL
+role: verifier
+verifies:
+- circuits
+description: A formalization of the Quantum Fourier Transform with proofs of correctness and unitarity,
+  building on the Isabelle Marries Dirac library.
+paper: unknown
+authors: Pablo Manrique
+licence: unknown
+stars: null
+last_commit: unknown
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: afp
+automated: false
+notes: AFP entry (submitted 2025-01-28); development repository at github.com/PabMM/Quantum_Fourier_Transform.

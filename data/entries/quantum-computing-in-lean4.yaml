@@ -1,0 +1,20 @@
+name: quantum-computing-in-Lean4
+repo_url: https://github.com/Millennights/quantum-computing-in-Lean4
+system: Lean 4
+role: verifier
+verifies:
+- circuits
+description: Formalized quantum algorithms in Lean 4, including Deutsch-Jozsa, Bernstein-Vazirani, Simon,
+  and Grover.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 2
+last_commit: '2026-07-19'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

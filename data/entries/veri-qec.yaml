@@ -1,0 +1,21 @@
+name: Veri-QEC
+repo_url: https://github.com/Chesterhuang1999/Veri-qec
+system: Coq/Rocq
+role: verifier
+verifies:
+- error correction
+description: 'A tool for formal verification of quantum error-correcting programs: a program logic formalized
+  in Coq on top of CoqQ, paired with a Python/SMT automated verifier for fault-tolerant scenarios.'
+paper: Efficient Formal Verification of Quantum Error Correcting Programs, PLDI 2025, DOI 10.1145/3729293,
+  arXiv:2504.07732
+authors: Chester Huang, Li Zhou, Wang Fang, Yuxuan Zhao, Mingsheng Ying (per paper listing)
+licence: unknown
+stars: 9
+last_commit: '2025-05-30'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; PLDI; quantumpl-bib
+automated: false
+notes: 'Hybrid design: interactive Coq proofs plus SMT automation.'

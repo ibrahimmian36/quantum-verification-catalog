@@ -1,0 +1,23 @@
+name: Giallar
+repo_url: https://github.com/taorunz/Giallar
+system: other (SMT + Coq rewrite-rule proofs)
+role: verifier
+verifies:
+- compiler passes
+description: A push-button verification toolkit for the Qiskit quantum compiler that verified 44 of 56
+  compiler passes against semantics preservation, using Z3 automation over Coq-proved circuit rewrite
+  rules.
+paper: 'Giallar: Push-button Verification for the Qiskit Quantum Compiler, PLDI 2022, DOI 10.1145/3519939.3523431,
+  arXiv:2205.00661'
+authors: Runzhou Tao, Yunong Shi, Jianan Yao, John Li, Ali Javadi-Abhari, Andrew Cross, Frederic Chong,
+  Ronghui Gu
+licence: unknown
+stars: 8
+last_commit: '2022-11-26'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: PLDI; quantumpl-bib; electronics-2026
+automated: true
+notes: Successor to CertiQ, which has no public repository.

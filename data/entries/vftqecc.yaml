@@ -1,0 +1,19 @@
+name: vftqecc
+repo_url: https://github.com/vftqc/vftqecc
+system: other (Julia)
+role: verifier
+verifies:
+- error correction
+description: A Julia tool for verifying fault tolerance of quantum error correction codes.
+paper: unknown
+authors: unknown
+licence: MIT (from API; LICENSE file not yet read)
+stars: 7
+last_commit: '2025-05-24'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: true
+notes: null

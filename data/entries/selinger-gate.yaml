@@ -1,0 +1,19 @@
+name: Selinger
+repo_url: https://github.com/thery/Selinger
+system: Coq/Rocq
+role: verifier
+verifies:
+- mathematics
+description: A Rocq formalisation of a Selinger proof about quantum gates.
+paper: unknown
+authors: Laurent Théry
+licence: unknown
+stars: 1
+last_commit: '2026-01-30'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

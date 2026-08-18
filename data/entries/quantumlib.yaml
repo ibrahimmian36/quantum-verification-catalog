@@ -4,10 +4,10 @@ system: Coq/Rocq
 role: library
 verifies:
 - mathematics
-description: A Coq library of linear algebra and other mathematics used as the foundation for the inQWIRE
-  quantum developments.
-paper: unknown
-authors: unknown
+description: A Coq library of linear algebra, complex numbers, and matrix infrastructure used as the shared
+  foundation of the inQWIRE developments (QWIRE, SQIR/VOQC, VyZX).
+paper: 'QuantumLib: A Library for Quantum Computing in Coq, Coq Workshop 2022'
+authors: Jacob Zweifler, Kesha Hietala, Robert Rand, and contributors
 licence: unknown
 stars: 41
 last_commit: '2026-04-03'
@@ -15,6 +15,6 @@ status: active
 builds: not-attempted
 build_date: null
 toolchain: null
-source: seed-list
+source: seed-list; Coq Workshop; github-org-sweep
 automated: false
-notes: null
+notes: Distributed on opam as coq-quantumlib.

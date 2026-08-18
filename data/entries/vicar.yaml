@@ -1,0 +1,19 @@
+name: ViCAR
+repo_url: https://github.com/inQWIRE/ViCAR
+system: Coq/Rocq
+role: library
+verifies:
+- mathematics
+description: A Coq library for category theory used as categorical infrastructure by VyZX.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 7
+last_commit: '2024-10-09'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; github-org-sweep
+automated: false
+notes: Not quantum-specific by itself; included as substrate of the VyZX development.

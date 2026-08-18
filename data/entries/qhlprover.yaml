@@ -1,0 +1,22 @@
+name: QHLProver
+repo_url: https://www.isa-afp.org/entries/QHLProver.html
+system: Isabelle/HOL
+role: verifier
+verifies:
+- program semantics
+description: A formalization of the syntax and denotational semantics of a simple quantum program model
+  with a quantum Hoare logic proved sound and complete for partial correctness, applied to verify Grover's
+  algorithm.
+paper: Formal Verification of Quantum Algorithms Using Quantum Hoare Logic, CAV 2019, DOI 10.1007/978-3-030-25543-5_12
+authors: Junyi Liu, Bohua Zhan, Shuling Wang, Shenggang Ying, Tao Liu, Yangjia Li, Mingsheng Ying, Naijun
+  Zhan
+licence: unknown
+stars: null
+last_commit: unknown
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; afp; CAV; 2109.06493; 2110.01320
+automated: false
+notes: AFP entry (submitted 2019-03-24), maintained against each Isabelle release.

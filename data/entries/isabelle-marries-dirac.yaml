@@ -1,0 +1,23 @@
+name: Isabelle Marries Dirac
+repo_url: https://www.isa-afp.org/entries/Isabelle_Marries_Dirac.html
+system: Isabelle/HOL
+role: library
+verifies:
+- mathematics
+- protocols
+description: A matrix-based library for quantum computation and quantum information formalizing the no-cloning
+  theorem, quantum teleportation, the Deutsch and Deutsch-Jozsa algorithms, and the quantum Prisoner's
+  Dilemma.
+paper: Certified Quantum Computation in Isabelle/HOL, J. Automated Reasoning 65(5), 2021, DOI 10.1007/s10817-020-09584-7
+authors: Anthony Bordg, Hanna Lachnitt, Yijun He
+licence: unknown
+stars: null
+last_commit: unknown
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; afp; 2109.06493; 2110.01320; quantumpl-bib
+automated: false
+notes: AFP entry (submitted 2020-11-22), maintained against each Isabelle release; development repository
+  at github.com/AnthonyBordg/Isabelle_marries_Dirac.

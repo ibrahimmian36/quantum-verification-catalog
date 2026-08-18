@@ -1,0 +1,20 @@
+name: cdql
+repo_url: https://github.com/canhminhdo/cdql
+system: other (Maude)
+role: model-checker
+verifies:
+- protocols
+description: An automated tool for quantum protocol verification using concurrent dynamic quantum logic,
+  built on the Maude rewriting-logic system.
+paper: unknown
+authors: Canh Minh Do and collaborators
+licence: unknown
+stars: 5
+last_commit: '2024-01-29'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: true
+notes: null

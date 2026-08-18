@@ -1,0 +1,20 @@
+name: Kraus Maps
+repo_url: https://www.isa-afp.org/entries/Kraus_Maps.html
+system: Isabelle/HOL
+role: library
+verifies:
+- mathematics
+description: A formalization of quantum channels as Kraus maps over arbitrary (not necessarily finite-dimensional)
+  Hilbert spaces, with their equivalence to completely positive maps.
+paper: unknown
+authors: Dominique Unruh
+licence: unknown
+stars: null
+last_commit: unknown
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: afp
+automated: false
+notes: AFP entry (submitted 2025-06-26).

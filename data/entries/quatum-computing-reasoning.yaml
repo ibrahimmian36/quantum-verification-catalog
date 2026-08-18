@@ -1,0 +1,19 @@
+name: Quatum-Computing-Reasoning
+repo_url: https://github.com/DavidSanan/Quatum-Computing-Reasoning
+system: Isabelle/HOL
+role: verifier
+verifies:
+- program semantics
+description: An Isabelle/HOL semantics and Hoare logic with separation for reasoning about quantum computing.
+paper: unknown
+authors: David Sanan
+licence: GPL-3.0 (from API; LICENSE file not yet read)
+stars: 0
+last_commit: '2024-12-09'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: The repository name contains the typo 'Quatum'.

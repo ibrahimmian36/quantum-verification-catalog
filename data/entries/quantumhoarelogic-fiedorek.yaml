@@ -1,0 +1,19 @@
+name: QuantumHoareLogic
+repo_url: https://github.com/rcraigfiedorek/QuantumHoareLogic
+system: Coq/Rocq
+role: verifier
+verifies:
+- program semantics
+description: An implementation of a Hoare-logic verification system for quantum programs embedded in Coq.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 1
+last_commit: '2020-09-13'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null

@@ -1,0 +1,20 @@
+name: Projective Measurements and CHSH
+repo_url: https://www.isa-afp.org/entries/Projective_Measurements.html
+system: Isabelle/HOL
+role: library
+verifies:
+- mathematics
+description: A formalization of quantum projective measurements based on spectral theory, and of the CHSH
+  inequality showing quantum mechanics admits no local hidden-variable model.
+paper: Quantum projective measurements and the CHSH inequality in Isabelle/HOL, arXiv:2103.08535
+authors: Mnacho Echenim
+licence: unknown
+stars: null
+last_commit: unknown
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: afp; quantumpl-bib
+automated: false
+notes: AFP entry (submitted 2021-03-03).

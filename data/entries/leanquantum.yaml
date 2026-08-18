@@ -1,0 +1,20 @@
+name: LeanQuantum
+repo_url: https://github.com/inQWIRE/LeanQuantum
+system: Lean 4
+role: library
+verifies:
+- mathematics
+- circuits
+description: A quantum computing library in Lean 4 from the inQWIRE group.
+paper: unknown
+authors: unknown
+licence: MIT (from API; LICENSE file not yet read)
+stars: 17
+last_commit: '2026-07-14'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: seed-list; github-org-sweep
+automated: false
+notes: null

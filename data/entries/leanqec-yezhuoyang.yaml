@@ -1,0 +1,19 @@
+name: LeanQEC
+repo_url: https://github.com/yezhuoyang/LeanQEC
+system: Lean 4
+role: verifier
+verifies:
+- error correction
+description: A Lean development proving properties of quantum error correction codes.
+paper: unknown
+authors: unknown
+licence: MIT (from API; LICENSE file not yet read)
+stars: 1
+last_commit: '2026-07-04'
+status: active
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: Name collision with VerifiedQC/Lean-QEC (a distinct project).

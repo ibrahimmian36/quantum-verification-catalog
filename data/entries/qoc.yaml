@@ -1,0 +1,19 @@
+name: qoc (Quantum Over Coq)
+repo_url: https://github.com/mdxtoc/qoc
+system: Coq/Rocq
+role: library
+verifies:
+- program semantics
+description: A Coq development named Quantum Over Coq.
+paper: unknown
+authors: unknown
+licence: unknown
+stars: 1
+last_commit: '2022-02-01'
+status: dormant
+builds: not-attempted
+build_date: null
+toolchain: null
+source: github-search
+automated: false
+notes: null
