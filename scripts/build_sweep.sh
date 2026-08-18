@@ -44,7 +44,19 @@ if [ -f lakefile.lean ] || [ -f lakefile.toml ]; then
       [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="lake build failed"; }
     fi
   else reason="lake not installed on this machine"; fi
-elif [ -f _CoqProject ] || ls *.opam >/dev/null 2>&1 || [ -f Makefile.coq ] || [ -f dune-project ]; then
+elif ls *.opam >/dev/null 2>&1 && command -v opam >/dev/null; then
+  # Prefer the project's own declared build recipe (its opam package) over a guess.
+  tool="coq $(coqc --version 2>/dev/null | head -1 || echo unknown) via opam"
+  if run opam install -y --deps-only . && run opam install -y --assume-depexts .; then
+    outcome=yes; reason="built and installed via the project's own opam package"
+  else
+    [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || {
+      # fall back to the project's default make/dune target
+      if run make -j8 || run dune build; then outcome=yes; reason="built with the project's default target";
+      else outcome=no; reason="opam install and default build target both failed"; fi
+    }
+  fi
+elif [ -f _CoqProject ] || [ -f Makefile.coq ] || [ -f dune-project ]; then
   tool="coq $(coqc --version 2>/dev/null | head -1 || echo unknown)"
   if command -v coqc >/dev/null || command -v dune >/dev/null; then
     if [ -f dune-project ] && command -v dune >/dev/null; then cmd="dune build";
@@ -76,11 +88,39 @@ elif [ -f stack.yaml ]; then
       [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="stack build failed"; }
     fi
   else reason="stack not installed on this machine"; fi
-elif [ -f pyproject.toml ] || [ -f setup.py ]; then
+elif ls *.agda-lib >/dev/null 2>&1 || [ -f Everything.agda ]; then
+  tool="agda $(agda --version 2>/dev/null | head -1 || echo unknown)"
+  if command -v agda >/dev/null; then
+    main=$(ls *.agda-lib 2>/dev/null | head -1)
+    if run bash -c 'agda $(grep -h "^include" '"$main"' >/dev/null 2>&1; ls *.agda | head -1)'; then outcome=yes; reason="type-checked the top-level module"; else
+      [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="agda type-check failed"; }
+    fi
+  else reason="agda not installed on this machine"; fi
+elif [ -f pyproject.toml ] || [ -f setup.py ] || [ -f requirements.txt ]; then
   tool="pip $(python3 -m pip --version 2>/dev/null | awk '{print $2}')"
-  if run python3 -m pip install --break-system-packages -e .; then outcome=yes; reason="pip install of the package succeeded"; else
+  if [ -f pyproject.toml ] || [ -f setup.py ]; then piptarget="-e ."; else piptarget="-r requirements.txt"; fi
+  if run python3 -m pip install --break-system-packages $piptarget; then outcome=yes; reason="dependencies installed and package importable"; else
     [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="pip install failed"; }
   fi
+elif [ -f configure ] || [ -f configure.ac ] || [ -f autogen.sh ]; then
+  tool="autotools + make"
+  [ -f autogen.sh ] && run bash autogen.sh
+  [ -f configure ] || run autoreconf -i
+  if run ./configure && run make -j8; then outcome=yes; reason=""; else
+    [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="configure/make failed"; }
+  fi
+elif [ -f Makefile ] || [ -f makefile ] || [ -f GNUmakefile ]; then
+  tool="make"
+  if run make -j8; then outcome=yes; reason=""; else
+    [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="make failed"; }
+  fi
+elif [ -f package.yaml ] || ls *.cabal >/dev/null 2>&1; then
+  tool="cabal/stack"
+  if command -v stack >/dev/null; then
+    if run stack build --no-terminal; then outcome=yes; reason=""; else
+      [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="stack build failed"; }
+    fi
+  else reason="stack not installed on this machine"; fi
 elif [ -f ROOT ] || [ -f ROOTS ]; then
   tool="isabelle $(isabelle version 2>/dev/null || echo unknown)"
   if command -v isabelle >/dev/null; then
