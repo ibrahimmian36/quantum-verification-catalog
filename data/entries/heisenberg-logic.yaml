@@ -18,3 +18,5 @@ source: seed-list; github-org-sweep
 automated: false
 notes: null
 build_note: repository artifacts were compiled with a different prover version
+depends_on:
+- quantumlib

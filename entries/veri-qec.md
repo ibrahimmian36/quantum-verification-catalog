@@ -18,6 +18,7 @@ A tool for formal verification of quantum error-correcting programs: a program l
 - **Build note**: declared dependencies could not be resolved in this environment
 - **Discovered via**: seed-list; PLDI; quantumpl-bib
 - **Notes**: Hybrid design: interactive Coq proofs plus SMT automation.
+- **Builds on**: [CoqQ](coqq.md)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 

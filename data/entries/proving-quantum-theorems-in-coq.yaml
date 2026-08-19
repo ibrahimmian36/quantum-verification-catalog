@@ -19,3 +19,5 @@ source: github-search; contents inspected 2026-08-18
 automated: false
 notes: null
 build_note: built and installed via the project's own opam package
+depends_on:
+- quantumlib

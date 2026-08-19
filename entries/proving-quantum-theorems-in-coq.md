@@ -19,6 +19,7 @@ Rocq proofs of the no-cloning theorem, a Heisenberg uncertainty relation, and ph
 - **Toolchain**: coq The Coq Proof Assistant, version 8.19.2 via opam
 - **Build note**: built and installed via the project's own opam package
 - **Discovered via**: github-search; contents inspected 2026-08-18
+- **Builds on**: [QuantumLib](quantumlib.md)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 

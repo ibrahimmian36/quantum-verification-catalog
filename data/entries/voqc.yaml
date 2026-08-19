@@ -20,3 +20,6 @@ automated: false
 notes: Proofs live in the SQIR repository; extracted OCaml is packaged at github.com/inQWIRE/mlvoqc and
   a Python wrapper at github.com/inQWIRE/pyvoqc.
 build_note: built and installed via the project's own opam package
+depends_on:
+- sqir
+- quantumlib

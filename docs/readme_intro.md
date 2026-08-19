@@ -54,7 +54,8 @@ Lewis, Soudjani, Zuliani,
 and *A Review of Formal Methods in Quantum-Circuit Verification* (Electronics, 2026).
 Those map the papers; this maps the code.
 
-<!-- TODO(ibby): credit Robert Rand for suggesting the catalog, pending his ok -->
+This catalog was suggested by [Robert Rand](https://rand.cs.uchicago.edu/)
+(University of Chicago), whose feedback also shaped its structure.
 
 Maintained by [Millennium Research](https://millenniumresearch.ai)
 (Ibby Mian, Shayaan Siddique). Contact: ibrahimnmian@gmail.com

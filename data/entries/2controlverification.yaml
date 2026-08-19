@@ -20,3 +20,5 @@ automated: false
 notes: null
 build_note: a proof step in Helpers/AlgebraHelpers.v (line 717) fails under Coq 8.19.2 with QuantumLib
   1.8.0; the repository does not declare a required toolchain version
+depends_on:
+- quantumlib

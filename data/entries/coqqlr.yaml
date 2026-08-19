@@ -19,3 +19,5 @@ source: github-search; contents inspected 2026-08-18
 automated: false
 notes: Builds on a vendored copy of QuantumLib.
 build_note: a required build tool was not installed in this environment
+depends_on:
+- quantumlib

@@ -18,6 +18,7 @@ A Coq formalization of a Hoare logic for local reasoning about classical-quantum
 - **Build note**: a required build tool was not installed in this environment
 - **Discovered via**: github-search; contents inspected 2026-08-18
 - **Notes**: Builds on a vendored copy of QuantumLib.
+- **Builds on**: [QuantumLib](quantumlib.md)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 

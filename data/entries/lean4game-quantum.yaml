@@ -19,3 +19,5 @@ toolchain: null
 source: github-search; contents inspected 2026-08-18
 automated: false
 notes: Builds on the PhysLean QuantumInfo library.
+depends_on:
+- physlib

@@ -20,6 +20,7 @@ A verified formalization of the ZX-calculus in Coq, building toward a verified g
 - **Build note**: built and installed via the project's own opam package
 - **Discovered via**: seed-list; QPL; github-org-sweep
 - **Notes**: Depends on QuantumLib; a VS Code visualizer lives at github.com/inQWIRE/ViZX.
+- **Builds on**: [QuantumLib](quantumlib.md), [ViCAR](vicar.md)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 

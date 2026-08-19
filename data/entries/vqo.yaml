@@ -20,3 +20,5 @@ source: seed-list; OOPSLA; quantumpl-bib
 automated: false
 notes: Includes oracles used in Shor's and Grover's algorithms; joint inQWIRE/UMD project.
 build_note: appears to target a different prover version than the one used here
+depends_on:
+- sqir

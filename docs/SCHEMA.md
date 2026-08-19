@@ -25,6 +25,7 @@ source:       # where this entry was discovered (survey arXiv id, quantumpl-bib,
               # afp, github-org-sweep, github-search, venue name, seed-list)
 automated:    # true if SMT/model-checking rather than an interactive proof assistant
 notes:        # factual only; e.g. "superseded by SQIR"
+depends_on:   # optional: slugs of other catalog entries this project builds on
 ```
 
 Two hard rules: `description` is what the thing does, never how good it is.

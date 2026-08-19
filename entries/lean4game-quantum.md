@@ -17,6 +17,7 @@ An educational Lean 4 game whose levels formalize superposition, measurement pro
 - **Build result**: not-attempted
 - **Discovered via**: github-search; contents inspected 2026-08-18
 - **Notes**: Builds on the PhysLean QuantumInfo library.
+- **Builds on**: [Physlib](physlib.md)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 

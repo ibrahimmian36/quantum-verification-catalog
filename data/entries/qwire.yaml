@@ -24,3 +24,5 @@ notes: The ReQWIRE development on reversible/ancilla circuits (DOI 10.4204/EPTCS
 build_note: the Coq standard library became unresolvable partway through the build (a switch-configuration
   fault of this environment); the project states Coq 8.19 compatibility and 40+ files compiled before
   the fault
+depends_on:
+- quantumlib

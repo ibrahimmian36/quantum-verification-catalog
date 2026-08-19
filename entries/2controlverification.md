@@ -19,6 +19,7 @@ A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates w
 - **Toolchain**: coq The Coq Proof Assistant, version 8.19.2
 - **Build note**: a proof step in Helpers/AlgebraHelpers.v (line 717) fails under Coq 8.19.2 with QuantumLib 1.8.0; the repository does not declare a required toolchain version
 - **Discovered via**: github-search
+- **Builds on**: [QuantumLib](quantumlib.md)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 

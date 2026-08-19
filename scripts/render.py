@@ -43,16 +43,31 @@ def system_key(e):
 
 BUILD_MARK = {"yes": "builds", "no": "did not build", "not-attempted": "not attempted"}
 
+def paper_link(e):
+    """Compact clickable paper reference for the table."""
+    paper = str(e.get("paper") or "")
+    m = ARXIV.search(paper)
+    if m:
+        return f"[arXiv:{m.group(1)}](https://arxiv.org/abs/{m.group(1)})"
+    d = DOI.search(paper)
+    if d:
+        return f"[DOI](https://doi.org/{d.group(1)})"
+    return "—" if paper in ("", "unknown", "none") else "see entry"
+
+def last_activity(e):
+    v = e.get("last_commit")
+    return v if v and v != "unknown" else "—"
+
 def table(rows):
-    head = ("| Name | Role | Verifies | Activity | Build | Description |\n"
-            "|---|---|---|---|---|---|")
+    head = ("| Name | Role | Verifies | Last activity | Build | Paper | Description |\n"
+            "|---|---|---|---|---|---|---|")
     lines = [head]
     for e in rows:
         name = f"[{fmt(e.get('name'))}](entries/{e['_slug']}.md)"
         build = BUILD_MARK.get(e.get("builds"), "not attempted")
         lines.append("| " + " | ".join([
             name, fmt(e.get("role")), fmt(e.get("verifies")),
-            fmt(e.get("status")), build,
+            last_activity(e), build, paper_link(e),
             fmt(e.get("description")).replace("|", "\\|"),
         ]) + " |")
     return "\n".join(lines)
@@ -75,6 +90,8 @@ LABELS = {
     "notes": "Notes",
 }
 
+NAMES = {}  # slug -> display name, filled by main()
+
 def render_page(e):
     order = ["repo_url", "system", "role", "verifies", "paper", "authors", "licence",
              "stars", "last_commit", "status", "builds", "build_date", "toolchain",
@@ -94,6 +111,10 @@ def render_page(e):
         elif f in ("paper", "notes", "source"):
             val = linkify(val)
         lines.append(f"- **{LABELS.get(f, f)}**: {val}")
+    deps = e.get("depends_on") or []
+    if deps:
+        links = ", ".join(f"[{NAMES.get(d, d)}]({d}.md)" for d in deps)
+        lines.append(f"- **Builds on**: {links}")
     lines += ["",
               "Something wrong here? Corrections are welcome — please "
               "[open an issue](../../../issues/new/choose) and we will fix it.",
@@ -102,6 +123,7 @@ def render_page(e):
 
 def main():
     entries = load()
+    NAMES.update({e["_slug"]: str(e.get("name") or e["_slug"]) for e in entries})
     intro = (ROOT / "docs" / "readme_intro.md").read_text()
 
     interactive = [e for e in entries if not e.get("automated")]

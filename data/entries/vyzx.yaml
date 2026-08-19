@@ -21,3 +21,6 @@ source: seed-list; QPL; github-org-sweep
 automated: false
 notes: Depends on QuantumLib; a VS Code visualizer lives at github.com/inQWIRE/ViZX.
 build_note: built and installed via the project's own opam package
+depends_on:
+- quantumlib
+- vicar

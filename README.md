@@ -54,7 +54,8 @@ Lewis, Soudjani, Zuliani,
 and *A Review of Formal Methods in Quantum-Circuit Verification* (Electronics, 2026).
 Those map the papers; this maps the code.
 
-<!-- TODO(ibby): credit Robert Rand for suggesting the catalog, pending his ok -->
+This catalog was suggested by [Robert Rand](https://rand.cs.uchicago.edu/)
+(University of Chicago), whose feedback also shaped its structure.
 
 Maintained by [Millennium Research](https://millenniumresearch.ai)
 (Ibby Mian, Shayaan Siddique). Contact: ibrahimnmian@gmail.com
@@ -75,282 +76,282 @@ related resources — so that "missing" is distinguishable from "not found".
 
 ### Coq/Rocq
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [2ControlVerification](entries/2controlverification.md) | verifier | circuits, mathematics | active | did not build | A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates with Two Controls'. |
-| [CatQM](entries/catqm.md) | library | mathematics | dormant | not attempted | A Coq formalization of categorical quantum mechanics in the style of Abramsky and Coecke. |
-| [CoqQ](entries/coqq.md) | verifier | program semantics | dormant | not attempted | A foundational verification framework for quantum programs: a quantum Hoare logic proved sound against a denotational semantics built on MathComp, with case studies including HHL, Grover, QPE, and hidden subgroup. |
-| [CoqQLR](entries/coqqlr.md) | verifier | program semantics | active | not attempted | A Coq formalization of a Hoare logic for local reasoning about classical-quantum programs, with verified examples including Shor's algorithm, HHL, and order finding. |
-| [DiracRepr](entries/diracrepr.md) | verifier | program semantics | dormant | not attempted | A Coq formalization of a simple quantum imperative language with a Hoare-style logic. |
-| [GottesmanTypes](entries/gottesmantypes.md) | library | program semantics | dormant | builds | A Coq development of Gottesman/Heisenberg-representation types for stabilizer quantum programs. |
-| [Heisenberg-Logic](entries/heisenberg-logic.md) | library | program semantics | active | not attempted | A Coq development of the basics of the Heisenberg representation of quantum computing. |
-| [PQASM](entries/pqasm.md) | language | program semantics | active | not attempted | A Coq-certified language for quantum state preparation, extending the OQASM/VQO line, with property-based validation via QuickChick. |
-| [Proto-Quipper metatheory (Hybrid)](entries/protoquipper-metatheory.md) | verifier | program semantics | unknown | not attempted | A Coq formalization (in the Hybrid framework) of the metatheory of the Proto-Quipper quantum programming language, proving type soundness in a linear specification logic. |
-| [proving-quantum-theorems-in-coq](entries/proving-quantum-theorems-in-coq.md) | verifier | mathematics | active | builds | Rocq proofs of the no-cloning theorem, a Heisenberg uncertainty relation, and phase kickback, built on QuantumLib. |
-| [QAM](entries/qam.md) | library | program semantics | dormant | not attempted | A Coq development of a Quantum Abstract Machine. |
-| [QNP](entries/qnp.md) | library | program semantics | active | not attempted | Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning related to the Qafny line of work. |
-| [qoc (Quantum Over Coq)](entries/qoc.md) | library | program semantics | dormant | not attempted | A Coq development named Quantum Over Coq. |
-| [quantum-hoare-logic (sr-lab)](entries/sr-lab-quantum-hoare-logic.md) | verifier | program semantics | dormant | not attempted | A Coq prototype of an expectation-based quantum Hoare logic with a soundness proof and verified examples including Deutsch, Grover, GHZ, and teleportation. |
-| [QuantumHoareLogic](entries/quantumhoarelogic-fiedorek.md) | verifier | program semantics | dormant | not attempted | An implementation of a Hoare-logic verification system for quantum programs embedded in Coq. |
-| [QuantumLib](entries/quantumlib.md) | library | mathematics | active | builds | A Coq library of linear algebra, complex numbers, and matrix infrastructure used as the shared foundation of the inQWIRE developments (QWIRE, SQIR/VOQC, VyZX). |
-| [Qunity (Coq formalization)](entries/qunity-coq.md) | language | program semantics | active | not attempted | A Coq formalization of the Qunity quantum programming language's syntax and type system, with a formally verified soundness proof for its typechecker. |
-| [QWIRE](entries/qwire.md) | language | program semantics, circuits | active | not attempted | A linear-typed quantum circuit language embedded in Coq with a density-matrix denotational semantics for verifying quantum circuits. |
-| [Selinger](entries/selinger-gate.md) | verifier | mathematics | active | builds | A Rocq formalisation of a Selinger proof about quantum gates. |
-| [SQIR](entries/sqir.md) | language | program semantics, circuits | active | builds | A small quantum intermediate representation deeply embedded in Coq, with semantics used to prove quantum programs (Grover, QPE, GHZ, teleportation) correct. |
-| [TensorRocq](entries/tensorrocq.md) | library | mathematics | active | not attempted | A small tensor library for working with diagrammatic calculi within Rocq. |
-| [Vectorial lambda-calculus Coq proofs](entries/vectorial-coq.md) | verifier | program semantics, mathematics | unknown | not attempted | Coq formalizations of metatheory for the vectorial and algebraic-linear lambda-calculi, quantum-motivated calculi in the Arrighi-Diaz-Caro-Valiron line. |
-| [Veri-QEC](entries/veri-qec.md) | verifier | error correction | active | not attempted | A tool for formal verification of quantum error-correcting programs: a program logic formalized in Coq on top of CoqQ, paired with a Python/SMT automated verifier for fault-tolerant scenarios. |
-| [ViCAR](entries/vicar.md) | library | mathematics | dormant | builds | A Coq library for category theory used as categorical infrastructure by VyZX. |
-| [VOQC](entries/voqc.md) | compiler | compiler passes | active | builds | A verified optimizer for quantum circuits whose optimizations are proved semantics-preserving over SQIR. |
-| [VQC (Verified Quantum Computing)](entries/vqc.md) | library | program semantics, circuits | unknown | not attempted | An interactive textbook on verified quantum computing in Coq, in the style of Software Foundations, covering matrix semantics, Deutsch's algorithm, and quantum teleportation. |
-| [VQO](entries/vqo.md) | compiler | compiler passes, program semantics | dormant | not attempted | A verified framework for compiling quantum oracles: the OQASM oracle assembly language with verified compilers from OQIMP to OQASM to SQIR. |
-| [VyZX](entries/vyzx.md) | verifier | mathematics, circuits | active | builds | A verified formalization of the ZX-calculus in Coq, building toward a verified graphical quantum-circuit optimizer. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [2ControlVerification](entries/2controlverification.md) | verifier | circuits, mathematics | 2025-04-05 | did not build | — | A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates with Two Controls'. |
+| [CatQM](entries/catqm.md) | library | mathematics | 2021-06-29 | not attempted | — | A Coq formalization of categorical quantum mechanics in the style of Abramsky and Coecke. |
+| [CoqQ](entries/coqq.md) | verifier | program semantics | 2024-12-29 | not attempted | [arXiv:2207.11350](https://arxiv.org/abs/2207.11350) | A foundational verification framework for quantum programs: a quantum Hoare logic proved sound against a denotational semantics built on MathComp, with case studies including HHL, Grover, QPE, and hidden subgroup. |
+| [CoqQLR](entries/coqqlr.md) | verifier | program semantics | 2026-08-01 | not attempted | [arXiv:2308.04741](https://arxiv.org/abs/2308.04741) | A Coq formalization of a Hoare logic for local reasoning about classical-quantum programs, with verified examples including Shor's algorithm, HHL, and order finding. |
+| [DiracRepr](entries/diracrepr.md) | verifier | program semantics | 2021-05-06 | not attempted | — | A Coq formalization of a simple quantum imperative language with a Hoare-style logic. |
+| [GottesmanTypes](entries/gottesmantypes.md) | library | program semantics | 2020-09-11 | builds | — | A Coq development of Gottesman/Heisenberg-representation types for stabilizer quantum programs. |
+| [Heisenberg-Logic](entries/heisenberg-logic.md) | library | program semantics | 2026-04-24 | not attempted | — | A Coq development of the basics of the Heisenberg representation of quantum computing. |
+| [PQASM](entries/pqasm.md) | language | program semantics | 2026-06-06 | not attempted | [arXiv:2501.05616](https://arxiv.org/abs/2501.05616) | A Coq-certified language for quantum state preparation, extending the OQASM/VQO line, with property-based validation via QuickChick. |
+| [Proto-Quipper metatheory (Hybrid)](entries/protoquipper-metatheory.md) | verifier | program semantics | — | not attempted | [arXiv:1812.03624](https://arxiv.org/abs/1812.03624) | A Coq formalization (in the Hybrid framework) of the metatheory of the Proto-Quipper quantum programming language, proving type soundness in a linear specification logic. |
+| [proving-quantum-theorems-in-coq](entries/proving-quantum-theorems-in-coq.md) | verifier | mathematics | 2026-07-23 | builds | — | Rocq proofs of the no-cloning theorem, a Heisenberg uncertainty relation, and phase kickback, built on QuantumLib. |
+| [QAM](entries/qam.md) | library | program semantics | 2023-05-11 | not attempted | — | A Coq development of a Quantum Abstract Machine. |
+| [QNP](entries/qnp.md) | library | program semantics | 2025-04-22 | not attempted | — | Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning related to the Qafny line of work. |
+| [qoc (Quantum Over Coq)](entries/qoc.md) | library | program semantics | 2022-02-01 | not attempted | — | A Coq development named Quantum Over Coq. |
+| [quantum-hoare-logic (sr-lab)](entries/sr-lab-quantum-hoare-logic.md) | verifier | program semantics | 2021-11-30 | not attempted | — | A Coq prototype of an expectation-based quantum Hoare logic with a soundness proof and verified examples including Deutsch, Grover, GHZ, and teleportation. |
+| [QuantumHoareLogic](entries/quantumhoarelogic-fiedorek.md) | verifier | program semantics | 2020-09-13 | not attempted | — | An implementation of a Hoare-logic verification system for quantum programs embedded in Coq. |
+| [QuantumLib](entries/quantumlib.md) | library | mathematics | 2026-04-03 | builds | see entry | A Coq library of linear algebra, complex numbers, and matrix infrastructure used as the shared foundation of the inQWIRE developments (QWIRE, SQIR/VOQC, VyZX). |
+| [Qunity (Coq formalization)](entries/qunity-coq.md) | language | program semantics | 2025-05-13 | not attempted | [DOI](https://doi.org/10.1145/3571225) | A Coq formalization of the Qunity quantum programming language's syntax and type system, with a formally verified soundness proof for its typechecker. |
+| [QWIRE](entries/qwire.md) | language | program semantics, circuits | 2025-05-11 | not attempted | [arXiv:1803.00699](https://arxiv.org/abs/1803.00699) | A linear-typed quantum circuit language embedded in Coq with a density-matrix denotational semantics for verifying quantum circuits. |
+| [Selinger](entries/selinger-gate.md) | verifier | mathematics | 2026-01-30 | builds | — | A Rocq formalisation of a Selinger proof about quantum gates. |
+| [SQIR](entries/sqir.md) | language | program semantics, circuits | 2026-04-02 | builds | [arXiv:2010.01240](https://arxiv.org/abs/2010.01240) | A small quantum intermediate representation deeply embedded in Coq, with semantics used to prove quantum programs (Grover, QPE, GHZ, teleportation) correct. |
+| [TensorRocq](entries/tensorrocq.md) | library | mathematics | 2026-08-14 | not attempted | — | A small tensor library for working with diagrammatic calculi within Rocq. |
+| [Vectorial lambda-calculus Coq proofs](entries/vectorial-coq.md) | verifier | program semantics, mathematics | — | not attempted | see entry | Coq formalizations of metatheory for the vectorial and algebraic-linear lambda-calculi, quantum-motivated calculi in the Arrighi-Diaz-Caro-Valiron line. |
+| [Veri-QEC](entries/veri-qec.md) | verifier | error correction | 2025-05-30 | not attempted | [arXiv:2504.07732](https://arxiv.org/abs/2504.07732) | A tool for formal verification of quantum error-correcting programs: a program logic formalized in Coq on top of CoqQ, paired with a Python/SMT automated verifier for fault-tolerant scenarios. |
+| [ViCAR](entries/vicar.md) | library | mathematics | 2024-10-09 | builds | — | A Coq library for category theory used as categorical infrastructure by VyZX. |
+| [VOQC](entries/voqc.md) | compiler | compiler passes | 2026-04-02 | builds | [arXiv:1912.02250](https://arxiv.org/abs/1912.02250) | A verified optimizer for quantum circuits whose optimizations are proved semantics-preserving over SQIR. |
+| [VQC (Verified Quantum Computing)](entries/vqc.md) | library | program semantics, circuits | — | not attempted | — | An interactive textbook on verified quantum computing in Coq, in the style of Software Foundations, covering matrix semantics, Deutsch's algorithm, and quantum teleportation. |
+| [VQO](entries/vqo.md) | compiler | compiler passes, program semantics | 2023-09-22 | not attempted | [arXiv:2112.06700](https://arxiv.org/abs/2112.06700) | A verified framework for compiling quantum oracles: the OQASM oracle assembly language with verified compilers from OQIMP to OQASM to SQIR. |
+| [VyZX](entries/vyzx.md) | verifier | mathematics, circuits | 2026-01-16 | builds | [arXiv:2205.05781](https://arxiv.org/abs/2205.05781) | A verified formalization of the ZX-calculus in Coq, building toward a verified graphical quantum-circuit optimizer. |
 
 ### Lean 4
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Abramsky_Coecke_Lean](entries/abramsky-coecke-lean.md) | library | mathematics, protocols | active | not attempted | A Lean 4 formalization toward categorical quantum protocols (teleportation), after Abramsky and Coecke 2004. |
-| [Categorical-Quantum-Mechanics](entries/categorical-quantum-mechanics.md) | library | mathematics | active | not attempted | An early-stage Lean 4 formalization of categorical quantum mechanics: dagger categories with projections, isometries, and unitaries, and standard gates proved unitary. |
-| [kscert](entries/kscert.md) | verifier | mathematics | active | builds | Kernel-checked Lean 4 certificates for a Kochen-Specker vector system in R^3 with 24 vectors. |
-| [lean-czx](entries/lean-czx.md) | verifier | mathematics | active | not attempted | A Lean 4 formalization of the completeness of the ZX-calculus for finite-dimensional Hilbert spaces. |
-| [Lean-QEC](entries/lean-qec.md) | library | error correction | active | not attempted | A Lean 4 formalization of quantum error correction. |
-| [lean-quantum (Yamasaki group)](entries/lean-quantum-yamasaki.md) | library | mathematics | active | not attempted | A Lean formalization of the theory of quantum information and quantum computation. |
-| [Lean-QuantumInfo](entries/lean-quantuminfo.md) | library | mathematics | active | not attempted | A Mathlib-based formalization of quantum information theory in Lean 4: distances, entropies, and capacities, with the Generalized Quantum Stein's Lemma as a guiding result. |
-| [lean4-quantum](entries/lean4-quantum.md) | library | mathematics | active | not attempted | An implementation of the theory of quantum computing in Lean 4. |
-| [lean4game-quantum](entries/lean4game-quantum.md) | library | mathematics, protocols | active | not attempted | An educational Lean 4 game whose levels formalize superposition, measurement probabilities, and mutually unbiased bases, culminating in a verified idealized model of the BB84 protocol. |
-| [LeanQEC](entries/leanqec-yezhuoyang.md) | verifier | error correction | active | not attempted | A Lean development proving properties of quantum error correction codes. |
-| [LeanQuantum](entries/leanquantum.md) | library | mathematics, circuits | active | builds | A quantum computing library in Lean 4 from the inQWIRE group. |
-| [Physlib](entries/physlib.md) | library | mathematics | active | not attempted | A Lean 4 physics library whose QuantumInfo module formalizes quantum information theory; formed by merging PhysLean with Lean-QuantumInfo. |
-| [Project_qec_lean](entries/project-qec-lean.md) | verifier | error correction, mathematics | active | not attempted | A formal verification of the CSS code-chain complex correspondence over F2, in Lean 4 with Mathlib. |
-| [QECLean](entries/qeclean.md) | library | error correction | active | not attempted | A formalization project on quantum error correction in Lean. |
-| [QHilbert](entries/qhilbert.md) | library | mathematics | active | not attempted | A Lean 4 formalization over Mathlib of Hilbert-space foundations for quantum computing: qubit states, standard gates, density operators, tensor products, and partial trace. |
-| [QHL-Lean](entries/qhl-lean.md) | verifier | program semantics | active | not attempted | A quantum Hoare logic and quantum program verification tool in Lean 4. |
-| [qhlean](entries/qhlean.md) | verifier | program semantics | active | not attempted | An implementation of quantum Hoare logic with classical variables in Lean 4. |
-| [qldpc](entries/qldpc.md) | verifier | error correction | active | not attempted | Kernel-checked certification of QLDPC decoder outputs: Lean 4 verified checkers producing two-sided per-run certificates. |
-| [quantum-computing-in-Lean4](entries/quantum-computing-in-lean4.md) | verifier | circuits | active | not attempted | Formalized quantum algorithms in Lean 4, including Deutsch-Jozsa, Bernstein-Vazirani, Simon, and Grover. |
-| [quantum-computing-lean](entries/quantum-computing-lean.md) | library | mathematics, circuits | active | not attempted | A formalization of quantum computing in the Lean theorem prover. |
-| [quantum-system](entries/quantum-system.md) | library | mathematics | active | not attempted | A Lean 4 formalization of operator-algebraic quantum theory, including the GNS construction, the Gelfand-Naimark theorem, the bicommutant theorem, and von Neumann entropy results including strong subadditivity. |
-| [quantum_computer_3_qubits](entries/quantum-computer-3-qubits.md) | verifier | program semantics | active | not attempted | A Lean 4 formalization of a three-qubit quantum computer with a QWhile-style language and Hoare logic, including a verified Hoare triple for the Deutsch-Jozsa algorithm. |
-| [QuantumOptimization](entries/quantumoptimization.md) | library | mathematics | active | not attempted | Machine-verified Lean 4 / Mathlib formalizations in quantum optimization. |
-| [SCurveQEC-Lean](entries/scurveqec-lean.md) | verifier | error correction, mathematics | active | not attempted | A Lean 4 formalization of structural properties of weight-conditional logical error rates for stabilizer codes under perfect matching decoding. |
-| [VerifyFT](entries/verifyft.md) | verifier | error correction | active | not attempted | Verification of quantum fault tolerance using Lean/Coq and an SMT solver. |
-| [vqc_in_lean](entries/vqc-in-lean.md) | library | program semantics | active | not attempted | A work-in-progress Lean 4 port of the Verified Quantum Computing course material. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Abramsky_Coecke_Lean](entries/abramsky-coecke-lean.md) | library | mathematics, protocols | 2026-07-19 | not attempted | — | A Lean 4 formalization toward categorical quantum protocols (teleportation), after Abramsky and Coecke 2004. |
+| [Categorical-Quantum-Mechanics](entries/categorical-quantum-mechanics.md) | library | mathematics | 2026-08-04 | not attempted | — | An early-stage Lean 4 formalization of categorical quantum mechanics: dagger categories with projections, isometries, and unitaries, and standard gates proved unitary. |
+| [kscert](entries/kscert.md) | verifier | mathematics | 2026-07-24 | builds | [arXiv:2607.26413](https://arxiv.org/abs/2607.26413) | Kernel-checked Lean 4 certificates for a Kochen-Specker vector system in R^3 with 24 vectors. |
+| [lean-czx](entries/lean-czx.md) | verifier | mathematics | 2026-07-19 | not attempted | — | A Lean 4 formalization of the completeness of the ZX-calculus for finite-dimensional Hilbert spaces. |
+| [Lean-QEC](entries/lean-qec.md) | library | error correction | 2026-08-12 | not attempted | [arXiv:2605.16523](https://arxiv.org/abs/2605.16523) | A Lean 4 formalization of quantum error correction. |
+| [lean-quantum (Yamasaki group)](entries/lean-quantum-yamasaki.md) | library | mathematics | 2026-07-20 | not attempted | — | A Lean formalization of the theory of quantum information and quantum computation. |
+| [Lean-QuantumInfo](entries/lean-quantuminfo.md) | library | mathematics | 2026-07-09 | not attempted | — | A Mathlib-based formalization of quantum information theory in Lean 4: distances, entropies, and capacities, with the Generalized Quantum Stein's Lemma as a guiding result. |
+| [lean4-quantum](entries/lean4-quantum.md) | library | mathematics | 2025-07-08 | not attempted | — | An implementation of the theory of quantum computing in Lean 4. |
+| [lean4game-quantum](entries/lean4game-quantum.md) | library | mathematics, protocols | 2026-08-07 | not attempted | — | An educational Lean 4 game whose levels formalize superposition, measurement probabilities, and mutually unbiased bases, culminating in a verified idealized model of the BB84 protocol. |
+| [LeanQEC](entries/leanqec-yezhuoyang.md) | verifier | error correction | 2026-07-04 | not attempted | — | A Lean development proving properties of quantum error correction codes. |
+| [LeanQuantum](entries/leanquantum.md) | library | mathematics, circuits | 2026-07-14 | builds | — | A quantum computing library in Lean 4 from the inQWIRE group. |
+| [Physlib](entries/physlib.md) | library | mathematics | 2026-08-18 | not attempted | — | A Lean 4 physics library whose QuantumInfo module formalizes quantum information theory; formed by merging PhysLean with Lean-QuantumInfo. |
+| [Project_qec_lean](entries/project-qec-lean.md) | verifier | error correction, mathematics | 2026-02-12 | not attempted | — | A formal verification of the CSS code-chain complex correspondence over F2, in Lean 4 with Mathlib. |
+| [QECLean](entries/qeclean.md) | library | error correction | 2026-08-11 | not attempted | — | A formalization project on quantum error correction in Lean. |
+| [QHilbert](entries/qhilbert.md) | library | mathematics | 2026-04-14 | not attempted | — | A Lean 4 formalization over Mathlib of Hilbert-space foundations for quantum computing: qubit states, standard gates, density operators, tensor products, and partial trace. |
+| [QHL-Lean](entries/qhl-lean.md) | verifier | program semantics | 2025-08-17 | not attempted | — | A quantum Hoare logic and quantum program verification tool in Lean 4. |
+| [qhlean](entries/qhlean.md) | verifier | program semantics | 2026-08-08 | not attempted | — | An implementation of quantum Hoare logic with classical variables in Lean 4. |
+| [qldpc](entries/qldpc.md) | verifier | error correction | 2026-07-06 | not attempted | — | Kernel-checked certification of QLDPC decoder outputs: Lean 4 verified checkers producing two-sided per-run certificates. |
+| [quantum-computing-in-Lean4](entries/quantum-computing-in-lean4.md) | verifier | circuits | 2026-07-19 | not attempted | — | Formalized quantum algorithms in Lean 4, including Deutsch-Jozsa, Bernstein-Vazirani, Simon, and Grover. |
+| [quantum-computing-lean](entries/quantum-computing-lean.md) | library | mathematics, circuits | 2026-08-15 | not attempted | — | A formalization of quantum computing in the Lean theorem prover. |
+| [quantum-system](entries/quantum-system.md) | library | mathematics | 2026-08-17 | not attempted | — | A Lean 4 formalization of operator-algebraic quantum theory, including the GNS construction, the Gelfand-Naimark theorem, the bicommutant theorem, and von Neumann entropy results including strong subadditivity. |
+| [quantum_computer_3_qubits](entries/quantum-computer-3-qubits.md) | verifier | program semantics | 2025-07-29 | not attempted | — | A Lean 4 formalization of a three-qubit quantum computer with a QWhile-style language and Hoare logic, including a verified Hoare triple for the Deutsch-Jozsa algorithm. |
+| [QuantumOptimization](entries/quantumoptimization.md) | library | mathematics | 2026-06-29 | not attempted | — | Machine-verified Lean 4 / Mathlib formalizations in quantum optimization. |
+| [SCurveQEC-Lean](entries/scurveqec-lean.md) | verifier | error correction, mathematics | 2026-04-13 | not attempted | — | A Lean 4 formalization of structural properties of weight-conditional logical error rates for stabilizer codes under perfect matching decoding. |
+| [VerifyFT](entries/verifyft.md) | verifier | error correction | 2025-09-18 | not attempted | — | Verification of quantum fault tolerance using Lean/Coq and an SMT solver. |
+| [vqc_in_lean](entries/vqc-in-lean.md) | library | program semantics | 2026-02-16 | not attempted | — | A work-in-progress Lean 4 port of the Verified Quantum Computing course material. |
 
 ### Isabelle/HOL
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Complex Bounded Operators](entries/complex-bounded-operators.md) | library | mathematics | active | not attempted | A formalization of complex Hilbert spaces and bounded operators, the mathematical foundation used by the quantum registers, Kraus maps, and qrhl-tool developments. |
-| [Compressed Oracles](entries/compressed-oracles.md) | library | protocols | active | not attempted | A formalization of the compressed-oracle methodology for reasoning about quantum random oracles in cryptographic proofs, including hardness of zero-finding and collision-finding. |
-| [Hilbert Space Tensor Product](entries/hilbert-space-tensor-product.md) | library | mathematics | active | not attempted | A formalization of tensor products of Hilbert spaces, operators, and von Neumann algebras, including the infinite-dimensional case, underlying the quantum registers and Kraus maps entries. |
-| [hksu-verification](entries/hksu-verification.md) | verifier | protocols | active | not attempted | A machine-checked post-quantum security proof, in the qrhl-tool, of the Fujisaki-Okamoto transform variant by Hoevelmanns, Kiltz, Schaege, and Unruh. |
-| [Isabelle Marries Dirac](entries/isabelle-marries-dirac.md) | library | mathematics, protocols | active | not attempted | A matrix-based library for quantum computation and quantum information formalizing the no-cloning theorem, quantum teleportation, the Deutsch and Deutsch-Jozsa algorithms, and the quantum Prisoner's Dilemma. |
-| [Kraus Maps](entries/kraus-maps.md) | library | mathematics | active | not attempted | A formalization of quantum channels as Kraus maps over arbitrary (not necessarily finite-dimensional) Hilbert spaces, with their equivalence to completely positive maps. |
-| [One-way to Hiding (O2H)](entries/oneway2hiding.md) | verifier | protocols | active | not attempted | A formalization of the One-way to Hiding theorem, a foundational lemma for security proofs against quantum adversaries in the quantum random oracle model. |
-| [Projective Measurements and CHSH](entries/projective-measurements.md) | library | mathematics | active | not attempted | A formalization of quantum projective measurements based on spectral theory, and of the CHSH inequality showing quantum mechanics admits no local hidden-variable model. |
-| [QHLProver](entries/qhlprover.md) | verifier | program semantics | active | not attempted | A formalization of the syntax and denotational semantics of a simple quantum program model with a quantum Hoare logic proved sound and complete for partial correctness, applied to verify Grover's algorithm. |
-| [qrhl-local-variables-isabelle](entries/qrhl-local-variables.md) | verifier | protocols | dormant | not attempted | The Isabelle/HOL development accompanying the paper 'Local Variables and Quantum Relational Hoare Logic'. |
-| [qrhl-tool](entries/qrhl-tool.md) | verifier | protocols | active | not attempted | An interactive proof assistant for quantum relational Hoare logic, built on Isabelle/HOL, for verifying the security of quantum and post-quantum cryptographic protocols. |
-| [Quantum Fourier Transform](entries/quantum-fourier-transform.md) | verifier | circuits | active | not attempted | A formalization of the Quantum Fourier Transform with proofs of correctness and unitarity, building on the Isabelle Marries Dirac library. |
-| [Quatum-Computing-Reasoning](entries/quatum-computing-reasoning.md) | verifier | program semantics | dormant | not attempted | An Isabelle/HOL semantics and Hoare logic with separation for reasoning about quantum computing. |
-| [Registers (Quantum and Classical)](entries/registers.md) | library | program semantics | active | not attempted | A generic theory of registers (mutable parts of program state) instantiated for classical and quantum settings, with register composition and an analysis of quantum teleportation. |
-| [Tsirelson's Bound](entries/tsirelson-bound.md) | library | mathematics | active | not attempted | A formalization of density matrices, projective measurements, and Tsirelson's proof that the maximum quantum violation of the CHSH inequality is 2*sqrt(2). |
-| [Uncertainty Principle](entries/uncertainty-principle.md) | library | mathematics | active | not attempted | A formal verification of the quantum-mechanical uncertainty principle over complex vector spaces, following the proof in Nielsen and Chuang. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Complex Bounded Operators](entries/complex-bounded-operators.md) | library | mathematics | — | not attempted | [arXiv:2512.05878](https://arxiv.org/abs/2512.05878) | A formalization of complex Hilbert spaces and bounded operators, the mathematical foundation used by the quantum registers, Kraus maps, and qrhl-tool developments. |
+| [Compressed Oracles](entries/compressed-oracles.md) | library | protocols | — | not attempted | see entry | A formalization of the compressed-oracle methodology for reasoning about quantum random oracles in cryptographic proofs, including hardness of zero-finding and collision-finding. |
+| [Hilbert Space Tensor Product](entries/hilbert-space-tensor-product.md) | library | mathematics | — | not attempted | — | A formalization of tensor products of Hilbert spaces, operators, and von Neumann algebras, including the infinite-dimensional case, underlying the quantum registers and Kraus maps entries. |
+| [hksu-verification](entries/hksu-verification.md) | verifier | protocols | 2025-07-03 | not attempted | — | A machine-checked post-quantum security proof, in the qrhl-tool, of the Fujisaki-Okamoto transform variant by Hoevelmanns, Kiltz, Schaege, and Unruh. |
+| [Isabelle Marries Dirac](entries/isabelle-marries-dirac.md) | library | mathematics, protocols | — | not attempted | [DOI](https://doi.org/10.1007/s10817-020-09584-7) | A matrix-based library for quantum computation and quantum information formalizing the no-cloning theorem, quantum teleportation, the Deutsch and Deutsch-Jozsa algorithms, and the quantum Prisoner's Dilemma. |
+| [Kraus Maps](entries/kraus-maps.md) | library | mathematics | — | not attempted | — | A formalization of quantum channels as Kraus maps over arbitrary (not necessarily finite-dimensional) Hilbert spaces, with their equivalence to completely positive maps. |
+| [One-way to Hiding (O2H)](entries/oneway2hiding.md) | verifier | protocols | — | not attempted | [DOI](https://doi.org/10.1145/3703595.3705887) | A formalization of the One-way to Hiding theorem, a foundational lemma for security proofs against quantum adversaries in the quantum random oracle model. |
+| [Projective Measurements and CHSH](entries/projective-measurements.md) | library | mathematics | — | not attempted | [arXiv:2103.08535](https://arxiv.org/abs/2103.08535) | A formalization of quantum projective measurements based on spectral theory, and of the CHSH inequality showing quantum mechanics admits no local hidden-variable model. |
+| [QHLProver](entries/qhlprover.md) | verifier | program semantics | — | not attempted | [DOI](https://doi.org/10.1007/978-3-030-25543-5_12) | A formalization of the syntax and denotational semantics of a simple quantum program model with a quantum Hoare logic proved sound and complete for partial correctness, applied to verify Grover's algorithm. |
+| [qrhl-local-variables-isabelle](entries/qrhl-local-variables.md) | verifier | protocols | 2023-07-15 | not attempted | see entry | The Isabelle/HOL development accompanying the paper 'Local Variables and Quantum Relational Hoare Logic'. |
+| [qrhl-tool](entries/qrhl-tool.md) | verifier | protocols | 2026-05-24 | not attempted | [arXiv:1802.03188](https://arxiv.org/abs/1802.03188) | An interactive proof assistant for quantum relational Hoare logic, built on Isabelle/HOL, for verifying the security of quantum and post-quantum cryptographic protocols. |
+| [Quantum Fourier Transform](entries/quantum-fourier-transform.md) | verifier | circuits | — | not attempted | — | A formalization of the Quantum Fourier Transform with proofs of correctness and unitarity, building on the Isabelle Marries Dirac library. |
+| [Quatum-Computing-Reasoning](entries/quatum-computing-reasoning.md) | verifier | program semantics | 2024-12-09 | not attempted | — | An Isabelle/HOL semantics and Hoare logic with separation for reasoning about quantum computing. |
+| [Registers (Quantum and Classical)](entries/registers.md) | library | program semantics | — | not attempted | [arXiv:2105.10914](https://arxiv.org/abs/2105.10914) | A generic theory of registers (mutable parts of program state) instantiated for classical and quantum settings, with register composition and an analysis of quantum teleportation. |
+| [Tsirelson's Bound](entries/tsirelson-bound.md) | library | mathematics | — | not attempted | [arXiv:2306.12535](https://arxiv.org/abs/2306.12535) | A formalization of density matrices, projective measurements, and Tsirelson's proof that the maximum quantum violation of the CHSH inequality is 2*sqrt(2). |
+| [Uncertainty Principle](entries/uncertainty-principle.md) | library | mathematics | — | not attempted | — | A formal verification of the quantum-mechanical uncertainty principle over complex vector spaces, following the proof in Nielsen and Chuang. |
 
 ### F*
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Q* (qsharp-verifier)](entries/qstar.md) | verifier | program semantics | archived | not attempted | A prototype for verifying Q# programs in F*. |
-| [ReVerC](entries/reverc.md) | compiler | compiler passes | archived | not attempted | A compiler from the Revs language to space-efficient reversible circuits, with machine-checked correctness including verified ancilla cleanup. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Q* (qsharp-verifier)](entries/qstar.md) | verifier | program semantics | 2022-09-15 | not attempted | — | A prototype for verifying Q# programs in F*. |
+| [ReVerC](entries/reverc.md) | compiler | compiler passes | 2019-03-05 | not attempted | [arXiv:1603.01635](https://arxiv.org/abs/1603.01635) | A compiler from the Revs language to space-efficient reversible circuits, with machine-checked correctness including verified ancilla cleanup. |
 
 ### other (ACL2(r))
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Quantum circuit interpreter (ACL2)](entries/acl2-quantum-circuits.md) | verifier | circuits | active | not attempted | An ACL2(r) interpreter for quantum-circuit netlists with states as vectors and gates as unitaries, including a proof of correctness of the quantum teleportation circuit. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Quantum circuit interpreter (ACL2)](entries/acl2-quantum-circuits.md) | verifier | circuits | 2026-08-18 | not attempted | [arXiv:1304.7860](https://arxiv.org/abs/1304.7860) | An ACL2(r) interpreter for quantum-circuit netlists with states as vectors and gates as unitaries, including a proof of correctness of the quantum teleportation circuit. |
 
 ### other (Agda)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [popl22-symmetries-artifact](entries/popl22-symmetries.md) | verifier | mathematics | dormant | not attempted | An Agda (cubical) formalization of symmetric rig groupoid semantics for the reversible language Pi, a foundation for quantum extensions of Pi. |
-| [QIO Agda](entries/qio-agda.md) | language | program semantics | dormant | not attempted | The Quantum IO monad formalized in Agda, toward a verified functional quantum programming language. |
-| [SqrtPi](entries/sqrtpi.md) | verifier | mathematics | dormant | not attempted | An Agda formalization (in agda-categories) of completeness and expressivity results for the reversible language Pi extended with square roots, capturing unitary quantum computing. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [popl22-symmetries-artifact](entries/popl22-symmetries.md) | verifier | mathematics | 2021-11-10 | not attempted | [arXiv:2110.05404](https://arxiv.org/abs/2110.05404) | An Agda (cubical) formalization of symmetric rig groupoid semantics for the reversible language Pi, a foundation for quantum extensions of Pi. |
+| [QIO Agda](entries/qio-agda.md) | language | program semantics | 2013-05-11 | not attempted | see entry | The Quantum IO monad formalized in Agda, toward a verified functional quantum programming language. |
+| [SqrtPi](entries/sqrtpi.md) | verifier | mathematics | 2024-10-17 | not attempted | [arXiv:2310.14056](https://arxiv.org/abs/2310.14056) | An Agda formalization (in agda-categories) of completeness and expressivity results for the reversible language Pi extended with square roots, capturing unitary quantum computing. |
 
 ### other (diagrammatic proof assistant)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [chyp](entries/chyp.md) | verifier | mathematics | active | builds | An interactive theorem prover for string diagrams, representing morphisms as cospans of hypergraphs, used for equational reasoning in the ZX-calculus and quantum software line. |
-| [Quantomatic](entries/quantomatic.md) | verifier | mathematics | archived | not attempted | A diagrammatic proof assistant for equational reasoning about string diagrams such as the ZX-calculus, with user-defined equational theories and rewrite strategies. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [chyp](entries/chyp.md) | verifier | mathematics | 2026-05-25 | builds | — | An interactive theorem prover for string diagrams, representing morphisms as cospans of hypergraphs, used for equational reasoning in the ZX-calculus and quantum software line. |
+| [Quantomatic](entries/quantomatic.md) | verifier | mathematics | 2026-03-13 | not attempted | [arXiv:1503.01034](https://arxiv.org/abs/1503.01034) | A diagrammatic proof assistant for equational reasoning about string diagrams such as the ZX-calculus, with user-defined equational theories and rewrite strategies. |
 
 ### other (HOL Light)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Quantum optics framework (HOL Light)](entries/hol-light-quantum-optics.md) | verifier | circuits | unknown | not attempted | A HOL Light framework for verifying optical quantum gates and circuits, including CNOT, Mach-Zehnder, a quantum full adder, and a Grover oracle circuit, with tensor-product infrastructure and a decision procedure. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Quantum optics framework (HOL Light)](entries/hol-light-quantum-optics.md) | verifier | circuits | — | not attempted | see entry | A HOL Light framework for verifying optical quantum gates and circuits, including CNOT, Mach-Zehnder, a quantum full adder, and a Grover oracle circuit, with tensor-product infrastructure and a decision procedure. |
 
 ## Automated and SMT-backed tools
 
 ### Why3
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [QBricks](entries/qbricks.md) | verifier | circuits, program semantics | active | not attempted | A deductive verification framework for circuit-building quantum programs in Why3, with proof obligations discharged largely automatically by SMT solvers; verified developments include Deutsch-Jozsa, QPE, Grover, and Shor order-finding. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [QBricks](entries/qbricks.md) | verifier | circuits, program semantics | 2026-05-14 | not attempted | [arXiv:2003.05841](https://arxiv.org/abs/2003.05841) | A deductive verification framework for circuit-building quantum programs in Why3, with proof obligations discharged largely automatically by SMT solvers; verified developments include Deutsch-Jozsa, QPE, Grover, and Shor order-finding. |
 
 ### Dafny
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Qafny](entries/qafny.md) | verifier | program semantics | active | builds | A quantum-program verifier that translates quantum operations to classical array operations in a separation-logic style, discharging proofs through Dafny; verified components include quantum walk, Grover, and Shor. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Qafny](entries/qafny.md) | verifier | program semantics | 2026-02-02 | builds | [arXiv:2211.06411](https://arxiv.org/abs/2211.06411) | A quantum-program verifier that translates quantum operations to classical array operations in a separation-logic style, discharging proofs through Dafny; verified components include quantum walk, Grover, and Shor. |
 
 ### other (BDDs)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [SliQEC](entries/sliqec.md) | model-checker | circuits | active | not attempted | A BDD-based quantum circuit equivalence checker supporting full and partial equivalence checking over OpenQASM input. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [SliQEC](entries/sliqec.md) | model-checker | circuits | 2026-06-29 | not attempted | see entry | A BDD-based quantum circuit equivalence checker supporting full and partial equivalence checking over OpenQASM input. |
 
 ### other (decision diagrams + ZX)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [MQT QCEC](entries/mqt-qcec.md) | model-checker | circuits, compiler passes | active | builds | An equivalence checker for quantum circuits combining decision-diagram and ZX-calculus techniques, used to verify compilation results including Qiskit flows. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [MQT QCEC](entries/mqt-qcec.md) | model-checker | circuits, compiler passes | 2026-08-17 | builds | [DOI](https://doi.org/10.1109/TCAD.2020.3032630) | An equivalence checker for quantum circuits combining decision-diagram and ZX-calculus techniques, used to verify compilation results including Qiskit flows. |
 
 ### other (decision diagrams)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [FeynmanDD](entries/feynmandd.md) | model-checker | circuits | active | not attempted | A quantum circuit analysis tool using classical decision diagrams over the path-integral formulation, supporting equivalence checking and simulation. |
-| [Q-Sylvan](entries/q-sylvan.md) | model-checker | circuits | active | not attempted | A parallel decision-diagram package for quantum computing with built-in circuit equivalence checking alongside simulation. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [FeynmanDD](entries/feynmandd.md) | model-checker | circuits | 2025-07-23 | not attempted | [arXiv:2509.08276](https://arxiv.org/abs/2509.08276) | A quantum circuit analysis tool using classical decision diagrams over the path-integral formulation, supporting equivalence checking and simulation. |
+| [Q-Sylvan](entries/q-sylvan.md) | model-checker | circuits | 2025-12-23 | not attempted | [arXiv:2508.00514](https://arxiv.org/abs/2508.00514) | A parallel decision-diagram package for quantum computing with built-in circuit equivalence checking alongside simulation. |
 
 ### other (equational rewriting)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [D-Hammer](entries/d-hammer.md) | verifier | mathematics | archived | not attempted | A C++ equational prover for labelled Dirac notation, automating operator-level reasoning about quantum computations. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [D-Hammer](entries/d-hammer.md) | verifier | mathematics | 2025-04-13 | not attempted | [arXiv:2505.08633](https://arxiv.org/abs/2505.08633) | A C++ equational prover for labelled Dirac notation, automating operator-level reasoning about quantum computations. |
 
 ### other (exact robustness algorithms)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [VeriQR](entries/veriqr.md) | verifier | program semantics | dormant | not attempted | A tool for robustness verification of quantum machine learning models, checking local and global robustness under noise. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [VeriQR](entries/veriqr.md) | verifier | program semantics | 2024-06-21 | not attempted | [arXiv:2407.13533](https://arxiv.org/abs/2407.13533) | A tool for robustness verification of quantum machine learning models, checking local and global robustness under noise. |
 
 ### other (Haskell translator)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Entangle](entries/entangle.md) | model-checker | protocols | dormant | not attempted | A translator from Quipper programs to quantum Markov chains for model checking with QPMC, tested on protocols including BB84. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Entangle](entries/entangle.md) | model-checker | protocols | 2017-11-21 | not attempted | [arXiv:1708.06312](https://arxiv.org/abs/1708.06312) | A translator from Quipper programs to quantum Markov chains for model checking with QPMC, tested on protocols including BB84. |
 
 ### other (Haskell, equational theory)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [BellKAT](entries/bellkat.md) | verifier | protocols | dormant | not attempted | A verification tool for quantum-network entanglement-distribution protocols based on a sound and complete equational theory in the Kleene-algebra family. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [BellKAT](entries/bellkat.md) | verifier | protocols | 2024-04-05 | not attempted | [DOI](https://doi.org/10.1145/3656430) | A verification tool for quantum-network entanglement-distribution protocols based on a sound and complete equational theory in the Kleene-algebra family. |
 
 ### other (Julia + SMT)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [QuantumSE.jl](entries/quantumse-jl.md) | verifier | error correction | dormant | not attempted | A prototype tool for symbolic execution of quantum programs using symbolic stabilizer states, applied to debugging quantum error correction programs at scale. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [QuantumSE.jl](entries/quantumse-jl.md) | verifier | error correction | 2024-08-23 | not attempted | [arXiv:2311.11313](https://arxiv.org/abs/2311.11313) | A prototype tool for symbolic execution of quantum programs using symbolic stabilizer states, applied to debugging quantum error correction programs at scale. |
 
 ### other (Julia)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [vftqecc](entries/vftqecc.md) | verifier | error correction | active | not attempted | A Julia tool for verifying fault tolerance of quantum error correction codes. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [vftqecc](entries/vftqecc.md) | verifier | error correction | 2025-05-24 | not attempted | — | A Julia tool for verifying fault tolerance of quantum error correction codes. |
 
 ### other (LP/SOS optimization)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Quantum barrier certificates](entries/quantum-barrier-certificates.md) | verifier | program semantics, circuits | dormant | not attempted | Tools generating barrier certificates that verify properties of quantum systems and circuits via linear programming and sum-of-squares optimization. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Quantum barrier certificates](entries/quantum-barrier-certificates.md) | verifier | program semantics, circuits | 2023-06-03 | not attempted | [arXiv:2307.07307](https://arxiv.org/abs/2307.07307) | Tools generating barrier certificates that verify properties of quantum systems and circuits via linear programming and sum-of-squares optimization. |
 
 ### other (Mathematica + Coq-verified rules)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [DiracDec](entries/diracdec.md) | verifier | mathematics | unknown | not attempted | A decision procedure for equational proofs in Dirac notation, with the soundness of its rewrite system mechanized in CoqQ. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [DiracDec](entries/diracdec.md) | verifier | mathematics | — | not attempted | [arXiv:2411.11617](https://arxiv.org/abs/2411.11617) | A decision procedure for equational proofs in Dirac notation, with the soundness of its rewrite system mechanized in CoqQ. |
 
 ### other (Maude)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [cdql](entries/cdql.md) | model-checker | protocols | dormant | not attempted | An automated tool for quantum protocol verification using concurrent dynamic quantum logic, built on the Maude rewriting-logic system. |
-| [smc4qc](entries/smc4qc.md) | model-checker | circuits, protocols | dormant | not attempted | Symbolic model checking of quantum circuits in Maude with Dirac-notation symbolic states, checking teleportation, superdense coding, secret sharing, entanglement swapping, and network coding. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [cdql](entries/cdql.md) | model-checker | protocols | 2024-01-29 | not attempted | — | An automated tool for quantum protocol verification using concurrent dynamic quantum logic, built on the Maude rewriting-logic system. |
+| [smc4qc](entries/smc4qc.md) | model-checker | circuits, protocols | 2024-03-06 | not attempted | see entry | Symbolic model checking of quantum circuits in Maude with Dirac-notation symbolic states, checking teleportation, superdense coding, secret sharing, entanglement swapping, and network coding. |
 
 ### other (numerical quantum Hoare logic)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [NQPV](entries/nqpv.md) | verifier | program semantics | archived | builds | An assistant tool for formal verification of partial correctness of nondeterministic quantum programs, using numerical methods over quantum Hoare logic. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [NQPV](entries/nqpv.md) | verifier | program semantics | 2023-01-28 | builds | [arXiv:2302.07973](https://arxiv.org/abs/2302.07973) | An assistant tool for formal verification of partial correctness of nondeterministic quantum programs, using numerical methods over quantum Hoare logic. |
 
 ### other (path sums)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Feynman](entries/feynman.md) | verifier | circuits | active | not attempted | A Haskell toolkit for quantum circuit analysis based on the sum-over-paths representation, supporting functional verification, equivalence checking, and optimization. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Feynman](entries/feynman.md) | verifier | circuits | 2026-07-20 | not attempted | [arXiv:1805.06908](https://arxiv.org/abs/1805.06908) | A Haskell toolkit for quantum circuit analysis based on the sum-over-paths representation, supporting functional verification, equivalence checking, and optimization. |
 
 ### other (polynomial identity testing)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [QUESO](entries/queso.md) | compiler | compiler passes | archived | not attempted | A tool that synthesizes quantum-circuit optimizers whose rewrite rules are automatically verified via polynomial-identity-testing equivalence, per gate set. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [QUESO](entries/queso.md) | compiler | compiler passes | 2025-01-30 | not attempted | [arXiv:2211.09691](https://arxiv.org/abs/2211.09691) | A tool that synthesizes quantum-circuit optimizers whose rewrite rules are automatically verified via polynomial-identity-testing equivalence, per gate set. |
 
 ### other (Python proof tool)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Prove-It](entries/prove-it.md) | verifier | circuits, mathematics | active | builds | A Python-based tool for proving and organizing general theorems, whose flagship application is proofs about quantum circuits and algorithms. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Prove-It](entries/prove-it.md) | verifier | circuits, mathematics | 2026-08-14 | builds | [arXiv:2304.02183](https://arxiv.org/abs/2304.02183) | A Python-based tool for proving and organizing general theorems, whose flagship application is proofs about quantum circuits and algorithms. |
 
 ### other (SMT + Coq rewrite-rule proofs)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Giallar](entries/giallar.md) | verifier | compiler passes | dormant | not attempted | A push-button verification toolkit for the Qiskit quantum compiler that verified 44 of 56 compiler passes against semantics preservation, using Z3 automation over Coq-proved circuit rewrite rules. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Giallar](entries/giallar.md) | verifier | compiler passes | 2022-11-26 | not attempted | [arXiv:2205.00661](https://arxiv.org/abs/2205.00661) | A push-button verification toolkit for the Qiskit quantum compiler that verified 44 of 56 compiler passes against semantics preservation, using Z3 automation over Coq-proved circuit rewrite rules. |
 
 ### other (SMT)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Cartesian-array theory for quantum circuits (Princess)](entries/princess-cartesian-arrays.md) | verifier | circuits | unknown | not attempted | An SMT theory of Cartesian arrays, implemented in the Princess solver, that encodes quantum gate semantics for verifying circuit correctness. |
-| [Quartz](entries/quartz.md) | compiler | compiler passes | active | not attempted | A quantum circuit superoptimizer that automatically generates and formally verifies circuit transformations with an SMT solver. |
-| [SilVer](entries/silver.md) | verifier | program semantics | active | builds | An automated tool for verifying Silq programs against specifications written in the companion silspeq language, using SMT solvers. |
-| [symQV](entries/symqv.md) | verifier | circuits, program semantics | dormant | not attempted | A tool for automated symbolic verification of quantum programs against first-order specifications, via an SMT encoding of a symbolic quantum program model. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Cartesian-array theory for quantum circuits (Princess)](entries/princess-cartesian-arrays.md) | verifier | circuits | — | not attempted | see entry | An SMT theory of Cartesian arrays, implemented in the Princess solver, that encodes quantum gate semantics for verifying circuit correctness. |
+| [Quartz](entries/quartz.md) | compiler | compiler passes | 2026-06-09 | not attempted | [DOI](https://doi.org/10.1145/3519939.3523433) | A quantum circuit superoptimizer that automatically generates and formally verifies circuit transformations with an SMT solver. |
+| [SilVer](entries/silver.md) | verifier | program semantics | 2025-09-23 | builds | [arXiv:2406.03119](https://arxiv.org/abs/2406.03119) | An automated tool for verifying Silq programs against specifications written in the companion silspeq language, using SMT solvers. |
+| [symQV](entries/symqv.md) | verifier | circuits, program semantics | 2022-12-06 | not attempted | [arXiv:2212.02267](https://arxiv.org/abs/2212.02267) | A tool for automated symbolic verification of quantum programs against first-order specifications, via an SMT encoding of a symbolic quantum program model. |
 
 ### other (SMT, dReal)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Finding Photonics Circuits via delta-weakening SMT](entries/photonics-smt.md) | compiler | circuits | unknown | not attempted | A dReal-based tool for finding photonic circuits that emulate quantum gates, with guarantees obtained through delta-weakening SMT. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Finding Photonics Circuits via delta-weakening SMT](entries/photonics-smt.md) | compiler | circuits | — | not attempted | [arXiv:2509.11678](https://arxiv.org/abs/2509.11678) | A dReal-based tool for finding photonic circuits that emulate quantum gates, with guarantees obtained through delta-weakening SMT. |
 
 ### other (tableau + tensor methods)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [qsyn](entries/qsyn.md) | compiler | circuits | active | not attempted | A C++ framework for synthesizing and optimizing quantum circuits that includes a formal equivalence checker based on stabilizer-tableau reduction with an exact tensor-contraction fallback. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [qsyn](entries/qsyn.md) | compiler | circuits | 2026-07-30 | not attempted | — | A C++ framework for synthesizing and optimizing quantum circuits that includes a formal equivalence checker based on stabilizer-tableau reduction with an exact tensor-contraction fallback. |
 
 ### other (tree automata)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [AutoQ](entries/autoq.md) | model-checker | circuits, program semantics | active | not attempted | An automata-based quantum circuit verifier using Hoare-style pre- and post-conditions represented as tree automata; version 2.0 extends to quantum programs with measurement, branching, and loop invariants. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [AutoQ](entries/autoq.md) | model-checker | circuits, program semantics | 2026-07-18 | not attempted | [arXiv:2411.09121](https://arxiv.org/abs/2411.09121) | An automata-based quantum circuit verifier using Hoare-style pre- and post-conditions represented as tree automata; version 2.0 extends to quantum programs with measurement, branching, and loop invariants. |
 
 ### other (weighted model counting)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [Quokka#](entries/quokka-sharp.md) | model-checker | circuits | active | not attempted | An equivalence checker and simulator for universal quantum circuits based on reductions to weighted model counting solved with #SAT solvers. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [Quokka#](entries/quokka-sharp.md) | model-checker | circuits | 2026-07-26 | not attempted | [arXiv:2403.18813](https://arxiv.org/abs/2403.18813) | An equivalence checker and simulator for universal quantum circuits based on reductions to weighted model counting solved with #SAT solvers. |
 
 ### other (weighted tree automata)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [AutoQ-Para](entries/autoq-para.md) | model-checker | circuits | active | not attempted | A verifier for parameterized quantum circuits using synchronized weighted tree automata, providing automatic relational verification and equivalence checking. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [AutoQ-Para](entries/autoq-para.md) | model-checker | circuits | 2026-02-23 | not attempted | [arXiv:2511.19897](https://arxiv.org/abs/2511.19897) | A verifier for parameterized quantum circuits using synchronized weighted tree automata, providing automatic relational verification and equivalence checking. |
 
 ### other (ZX-calculus rewriting)
 
-| Name | Role | Verifies | Activity | Build | Description |
-|---|---|---|---|---|---|
-| [PyZX](entries/pyzx.md) | verifier | circuits | active | builds | A Python library for quantum circuit rewriting and optimisation using the ZX-calculus, including equivalence checking by diagram rewriting. |
+| Name | Role | Verifies | Last activity | Build | Paper | Description |
+|---|---|---|---|---|---|---|
+| [PyZX](entries/pyzx.md) | verifier | circuits | 2026-08-16 | builds | [arXiv:1904.04735](https://arxiv.org/abs/1904.04735) | A Python library for quantum circuit rewriting and optimisation using the ZX-calculus, including equivalence checking by diagram rewriting. |

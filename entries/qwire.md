@@ -18,6 +18,7 @@ A linear-typed quantum circuit language embedded in Coq with a density-matrix de
 - **Build note**: the Coq standard library became unresolvable partway through the build (a switch-configuration fault of this environment); the project states Coq 8.19 compatibility and 40+ files compiled before the fault
 - **Discovered via**: seed-list; 2109.06493; 2110.01320; electronics-2026; quantumpl-bib
 - **Notes**: The ReQWIRE development on reversible/ancilla circuits ([DOI 10.4204/EPTCS.287.17)](https://doi.org/10.4204/EPTCS.287.17)) lives in this repository; a QPL 2017 artifact snapshot exists at github.com/jpaykin/QWIRE-QPL2017.
+- **Builds on**: [QuantumLib](quantumlib.md)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 

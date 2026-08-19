@@ -20,3 +20,5 @@ source: seed-list; PLDI; quantumpl-bib
 automated: false
 notes: 'Hybrid design: interactive Coq proofs plus SMT automation.'
 build_note: declared dependencies could not be resolved in this environment
+depends_on:
+- coqq

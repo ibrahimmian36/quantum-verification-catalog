@@ -18,6 +18,7 @@ A verified framework for compiling quantum oracles: the OQASM oracle assembly la
 - **Build note**: appears to target a different prover version than the one used here
 - **Discovered via**: seed-list; OOPSLA; quantumpl-bib
 - **Notes**: Includes oracles used in Shor's and Grover's algorithms; joint inQWIRE/UMD project.
+- **Builds on**: [SQIR](sqir.md)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 
