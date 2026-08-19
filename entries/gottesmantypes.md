@@ -4,18 +4,20 @@
 
 A Coq development of Gottesman/Heisenberg-representation types for stabilizer quantum programs.
 
-- **repo url**: <https://github.com/inQWIRE/GottesmanTypes>
-- **system**: Coq/Rocq
-- **role**: library
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 2
-- **last commit**: 2020-09-11
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: github-org-sweep
-- **notes**: Compare Gottesman Types for Quantum Programs (DOI 10.4204/EPTCS.340.14); the paper-to-repo correspondence has not been confirmed from the repository itself.
+- **Repository**: [https://github.com/inQWIRE/GottesmanTypes](https://github.com/inQWIRE/GottesmanTypes)
+- **Proof system**: Coq/Rocq
+- **Role**: library
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 2
+- **Last commit**: 2020-09-11
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: github-org-sweep
+- **Notes**: Compare Gottesman Types for Quantum Programs ([DOI 10.4204/EPTCS.340.14)](https://doi.org/10.4204/EPTCS.340.14)); the paper-to-repo correspondence has not been confirmed from the repository itself.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

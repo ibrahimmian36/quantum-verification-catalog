@@ -4,18 +4,19 @@
 
 A quantum circuit superoptimizer that automatically generates and formally verifies circuit transformations with an SMT solver.
 
-- **repo url**: <https://github.com/quantum-compiler/quartz>
-- **system**: other (SMT)
-- **role**: compiler
-- **verifies**: compiler passes
-- **paper**: Quartz: Superoptimization of Quantum Circuits, PLDI 2022, DOI 10.1145/3519939.3523433
-- **authors**: unknown
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 92
-- **last commit**: 2026-06-09
-- **status**: active
-- **builds**: not-attempted
-- **source**: electronics-2026
-- **notes**: unknown
+- **Repository**: [https://github.com/quantum-compiler/quartz](https://github.com/quantum-compiler/quartz)
+- **Proof system**: other (SMT)
+- **Role**: compiler
+- **Verifies**: compiler passes
+- **Paper**: Quartz: Superoptimization of Quantum Circuits, PLDI 2022, [DOI 10.1145/3519939.3523433](https://doi.org/10.1145/3519939.3523433)
+- **Authors**: unknown
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 92
+- **Last commit**: 2026-06-09
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: electronics-2026
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

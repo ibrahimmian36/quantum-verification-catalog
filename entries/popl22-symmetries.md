@@ -4,18 +4,20 @@
 
 An Agda (cubical) formalization of symmetric rig groupoid semantics for the reversible language Pi, a foundation for quantum extensions of Pi.
 
-- **repo url**: <https://github.com/vikraman/popl22-symmetries-artifact>
-- **system**: other (Agda)
-- **role**: verifier
-- **verifies**: mathematics
-- **paper**: Symmetries in Reversible Programming, POPL 2022, DOI 10.1145/3498667, arXiv:2110.05404
-- **authors**: Vikraman Choudhury, Jacek Karwowski, Amr Sabry
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 9
-- **last commit**: 2021-11-10
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: quantumpl-bib; POPL
-- **notes**: Also archived at Zenodo, DOI 10.5281/zenodo.5671746.
+- **Repository**: [https://github.com/vikraman/popl22-symmetries-artifact](https://github.com/vikraman/popl22-symmetries-artifact)
+- **Proof system**: other (Agda)
+- **Role**: verifier
+- **Verifies**: mathematics
+- **Paper**: Symmetries in Reversible Programming, POPL 2022, [DOI 10.1145/3498667](https://doi.org/10.1145/3498667), [arXiv:2110.05404](https://arxiv.org/abs/2110.05404)
+- **Authors**: Vikraman Choudhury, Jacek Karwowski, Amr Sabry
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 9
+- **Last commit**: 2021-11-10
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: quantumpl-bib; POPL
+- **Notes**: Also archived at Zenodo, [DOI 10.5281/zenodo.5671746.](https://doi.org/10.5281/zenodo.5671746.)
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 A tool that synthesizes quantum-circuit optimizers whose rewrite rules are automatically verified via polynomial-identity-testing equivalence, per gate set.
 
-- **repo url**: <https://github.com/qqq-wisc/queso>
-- **system**: other (polynomial identity testing)
-- **role**: compiler
-- **verifies**: compiler passes
-- **paper**: Synthesizing Quantum-Circuit Optimizers, PLDI 2023, arXiv:2211.09691; artifact Zenodo 7809285
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 10
-- **last commit**: 2025-01-30
-- **status**: archived
-- **builds**: not-attempted
-- **source**: completeness-review 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/qqq-wisc/queso](https://github.com/qqq-wisc/queso)
+- **Proof system**: other (polynomial identity testing)
+- **Role**: compiler
+- **Verifies**: compiler passes
+- **Paper**: Synthesizing Quantum-Circuit Optimizers, PLDI 2023, [arXiv:2211.09691](https://arxiv.org/abs/2211.09691); artifact Zenodo 7809285
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 10
+- **Last commit**: 2025-01-30
+- **Activity**: archived
+- **Build result**: not-attempted
+- **Discovered via**: completeness-review 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

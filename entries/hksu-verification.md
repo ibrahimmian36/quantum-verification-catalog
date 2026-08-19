@@ -4,18 +4,19 @@
 
 A machine-checked post-quantum security proof, in the qrhl-tool, of the Fujisaki-Okamoto transform variant by Hoevelmanns, Kiltz, Schaege, and Unruh.
 
-- **repo url**: <https://github.com/dominique-unruh/hksu-verification>
-- **system**: Isabelle/HOL
-- **role**: verifier
-- **verifies**: protocols
-- **paper**: unknown
-- **authors**: Dominique Unruh
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 3
-- **last commit**: 2025-07-03
-- **status**: active
-- **builds**: not-attempted
-- **source**: proof-assistant sweep 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/dominique-unruh/hksu-verification](https://github.com/dominique-unruh/hksu-verification)
+- **Proof system**: Isabelle/HOL
+- **Role**: verifier
+- **Verifies**: protocols
+- **Paper**: unknown
+- **Authors**: Dominique Unruh
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 3
+- **Last commit**: 2025-07-03
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: proof-assistant sweep 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

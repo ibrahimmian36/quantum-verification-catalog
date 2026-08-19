@@ -4,18 +4,20 @@
 
 An SMT theory of Cartesian arrays, implemented in the Princess solver, that encodes quantum gate semantics for verifying circuit correctness.
 
-- **repo url**: <https://doi.org/10.5281/zenodo.7970588>
-- **system**: other (SMT)
-- **role**: verifier
-- **verifies**: circuits
-- **paper**: A Theory of Cartesian Arrays (with Applications in Quantum Circuit Verification), CADE-29, 2023
-- **authors**: Yu-Fang Chen, Philipp Ruemmer, Wei-Lun Tsai
-- **licence**: unknown
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: unknown
-- **builds**: not-attempted
-- **source**: zenodo sweep 2026-08-18
-- **notes**: Artifact archived on Zenodo; no separate code repository located.
+- **Repository**: [https://doi.org/10.5281/zenodo.7970588](https://doi.org/10.5281/zenodo.7970588)
+- **Proof system**: other (SMT)
+- **Role**: verifier
+- **Verifies**: circuits
+- **Paper**: A Theory of Cartesian Arrays (with Applications in Quantum Circuit Verification), CADE-29, 2023
+- **Authors**: Yu-Fang Chen, Philipp Ruemmer, Wei-Lun Tsai
+- **Licence**: unknown
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: unknown
+- **Build result**: not-attempted
+- **Discovered via**: zenodo sweep 2026-08-18
+- **Notes**: Artifact archived on Zenodo; no separate code repository located.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

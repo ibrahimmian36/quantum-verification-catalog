@@ -4,18 +4,20 @@
 
 A linear-typed quantum circuit language embedded in Coq with a density-matrix denotational semantics for verifying quantum circuits.
 
-- **repo url**: <https://github.com/inQWIRE/QWIRE>
-- **system**: Coq/Rocq
-- **role**: language
-- **verifies**: program semantics, circuits
-- **paper**: QWIRE: A Core Language for Quantum Circuits, POPL 2017, DOI 10.1145/3009837.3009894; QWIRE Practice, QPL 2017, DOI 10.4204/EPTCS.266.8, arXiv:1803.00699
-- **authors**: Jennifer Paykin, Robert Rand, Steve Zdancewic
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 111
-- **last commit**: 2025-05-11
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; 2109.06493; 2110.01320; electronics-2026; quantumpl-bib
-- **notes**: The ReQWIRE development on reversible/ancilla circuits (DOI 10.4204/EPTCS.287.17) lives in this repository; a QPL 2017 artifact snapshot exists at github.com/jpaykin/QWIRE-QPL2017.
+- **Repository**: [https://github.com/inQWIRE/QWIRE](https://github.com/inQWIRE/QWIRE)
+- **Proof system**: Coq/Rocq
+- **Role**: language
+- **Verifies**: program semantics, circuits
+- **Paper**: QWIRE: A Core Language for Quantum Circuits, POPL 2017, [DOI 10.1145/3009837.3009894](https://doi.org/10.1145/3009837.3009894); QWIRE Practice, QPL 2017, [DOI 10.4204/EPTCS.266.8](https://doi.org/10.4204/EPTCS.266.8), [arXiv:1803.00699](https://arxiv.org/abs/1803.00699)
+- **Authors**: Jennifer Paykin, Robert Rand, Steve Zdancewic
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 111
+- **Last commit**: 2025-05-11
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; 2109.06493; 2110.01320; electronics-2026; quantumpl-bib
+- **Notes**: The ReQWIRE development on reversible/ancilla circuits ([DOI 10.4204/EPTCS.287.17)](https://doi.org/10.4204/EPTCS.287.17)) lives in this repository; a QPL 2017 artifact snapshot exists at github.com/jpaykin/QWIRE-QPL2017.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

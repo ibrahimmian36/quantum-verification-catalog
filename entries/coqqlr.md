@@ -4,18 +4,20 @@
 
 A Coq formalization of a Hoare logic for local reasoning about classical-quantum programs, with verified examples including Shor's algorithm, HHL, and order finding.
 
-- **repo url**: <https://github.com/fox9909/CoqQLR>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: Local Reasoning about Probabilistic Behaviour for Classical-Quantum Programs, arXiv:2308.04741
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 1
-- **last commit**: 2026-08-01
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search; contents inspected 2026-08-18
-- **notes**: Builds on a vendored copy of QuantumLib.
+- **Repository**: [https://github.com/fox9909/CoqQLR](https://github.com/fox9909/CoqQLR)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: Local Reasoning about Probabilistic Behaviour for Classical-Quantum Programs, [arXiv:2308.04741](https://arxiv.org/abs/2308.04741)
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 1
+- **Last commit**: 2026-08-01
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search; contents inspected 2026-08-18
+- **Notes**: Builds on a vendored copy of QuantumLib.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

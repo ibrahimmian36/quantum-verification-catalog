@@ -4,18 +4,19 @@
 
 A Python library for quantum circuit rewriting and optimisation using the ZX-calculus, including equivalence checking by diagram rewriting.
 
-- **repo url**: <https://github.com/zxcalc/pyzx>
-- **system**: other (ZX-calculus rewriting)
-- **role**: verifier
-- **verifies**: circuits
-- **paper**: PyZX: Large Scale Automated Diagrammatic Reasoning, QPL 2019, arXiv:1904.04735
-- **authors**: Aleks Kissinger, John van de Wetering, and contributors
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 539
-- **last commit**: 2026-08-16
-- **status**: active
-- **builds**: not-attempted
-- **source**: 2109.06493; 2110.01320
-- **notes**: unknown
+- **Repository**: [https://github.com/zxcalc/pyzx](https://github.com/zxcalc/pyzx)
+- **Proof system**: other (ZX-calculus rewriting)
+- **Role**: verifier
+- **Verifies**: circuits
+- **Paper**: PyZX: Large Scale Automated Diagrammatic Reasoning, QPL 2019, [arXiv:1904.04735](https://arxiv.org/abs/1904.04735)
+- **Authors**: Aleks Kissinger, John van de Wetering, and contributors
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 539
+- **Last commit**: 2026-08-16
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: 2109.06493; 2110.01320
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

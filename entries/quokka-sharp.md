@@ -4,18 +4,19 @@
 
 An equivalence checker and simulator for universal quantum circuits based on reductions to weighted model counting solved with #SAT solvers.
 
-- **repo url**: <https://github.com/System-Verification-Lab/Quokka-Sharp>
-- **system**: other (weighted model counting)
-- **role**: model-checker
-- **verifies**: circuits
-- **paper**: Equivalence Checking of Quantum Circuits by Model Counting, IJCAR 2024, DOI 10.1007/978-3-031-63501-4_21, arXiv:2403.18813; Quokka#: Quantum Computing with #SAT, CAV 2026, DOI 10.1007/978-3-032-32537-2_19
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 11
-- **last commit**: 2026-07-26
-- **status**: active
-- **builds**: not-attempted
-- **source**: completeness-review; venue sweep 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/System-Verification-Lab/Quokka-Sharp](https://github.com/System-Verification-Lab/Quokka-Sharp)
+- **Proof system**: other (weighted model counting)
+- **Role**: model-checker
+- **Verifies**: circuits
+- **Paper**: Equivalence Checking of Quantum Circuits by Model Counting, IJCAR 2024, [DOI 10.1007/978-3-031-63501-4_21](https://doi.org/10.1007/978-3-031-63501-4_21), [arXiv:2403.18813](https://arxiv.org/abs/2403.18813); Quokka#: Quantum Computing with #SAT, CAV 2026, [DOI 10.1007/978-3-032-32537-2_19](https://doi.org/10.1007/978-3-032-32537-2_19)
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 11
+- **Last commit**: 2026-07-26
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: completeness-review; venue sweep 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

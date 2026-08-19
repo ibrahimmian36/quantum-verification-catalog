@@ -4,18 +4,19 @@
 
 A quantum circuit analysis tool using classical decision diagrams over the path-integral formulation, supporting equivalence checking and simulation.
 
-- **repo url**: <https://github.com/cqs-thu/feynman-decision-diagram>
-- **system**: other (decision diagrams)
-- **role**: model-checker
-- **verifies**: circuits
-- **paper**: FeynmanDD: Quantum Circuit Analysis with Classical Decision Diagrams, CAV 2025, DOI 10.1007/978-3-031-98685-7_2, arXiv:2509.08276
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 5
-- **last commit**: 2025-07-23
-- **status**: active
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/cqs-thu/feynman-decision-diagram](https://github.com/cqs-thu/feynman-decision-diagram)
+- **Proof system**: other (decision diagrams)
+- **Role**: model-checker
+- **Verifies**: circuits
+- **Paper**: FeynmanDD: Quantum Circuit Analysis with Classical Decision Diagrams, CAV 2025, [DOI 10.1007/978-3-031-98685-7_2](https://doi.org/10.1007/978-3-031-98685-7_2), [arXiv:2509.08276](https://arxiv.org/abs/2509.08276)
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 5
+- **Last commit**: 2025-07-23
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 An implementation of quantum Hoare logic with classical variables in Lean 4.
 
-- **repo url**: <https://github.com/dnngky/qhlean>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 0
-- **last commit**: 2026-08-08
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/dnngky/qhlean](https://github.com/dnngky/qhlean)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2026-08-08
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

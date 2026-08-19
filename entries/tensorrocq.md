@@ -4,18 +4,19 @@
 
 A small tensor library for working with diagrammatic calculi within Rocq.
 
-- **repo url**: <https://github.com/inQWIRE/TensorRocq>
-- **system**: Coq/Rocq
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 3
-- **last commit**: 2026-08-14
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; github-org-sweep
-- **notes**: unknown
+- **Repository**: [https://github.com/inQWIRE/TensorRocq](https://github.com/inQWIRE/TensorRocq)
+- **Proof system**: Coq/Rocq
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 3
+- **Last commit**: 2026-08-14
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; github-org-sweep
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,20 @@
 
 A formalization of complex Hilbert spaces and bounded operators, the mathematical foundation used by the quantum registers, Kraus maps, and qrhl-tool developments.
 
-- **repo url**: <https://www.isa-afp.org/entries/Complex_Bounded_Operators.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: mathematics
-- **paper**: Complex Bounded Operators in Isabelle/HOL, ITP 2026, DOI 10.4230/LIPIcs.ITP.2026.3, arXiv:2512.05878
-- **authors**: Jose Manuel Rodriguez Caballero, Dominique Unruh
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp
-- **notes**: General functional analysis by stated purpose; included as the substrate of several cataloged quantum developments, in the same way ViCAR is included as VyZX's substrate.
+- **Repository**: [https://www.isa-afp.org/entries/Complex_Bounded_Operators.html](https://www.isa-afp.org/entries/Complex_Bounded_Operators.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: Complex Bounded Operators in Isabelle/HOL, ITP 2026, [DOI 10.4230/LIPIcs.ITP.2026.3](https://doi.org/10.4230/LIPIcs.ITP.2026.3), [arXiv:2512.05878](https://arxiv.org/abs/2512.05878)
+- **Authors**: Jose Manuel Rodriguez Caballero, Dominique Unruh
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp
+- **Notes**: General functional analysis by stated purpose; included as the substrate of several cataloged quantum developments, in the same way ViCAR is included as VyZX's substrate.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

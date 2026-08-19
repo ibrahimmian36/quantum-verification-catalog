@@ -4,18 +4,19 @@
 
 A Lean 4 formalization of the completeness of the ZX-calculus for finite-dimensional Hilbert spaces.
 
-- **repo url**: <https://github.com/lean-cqm/lean-czx>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 0
-- **last commit**: 2026-07-19
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/lean-cqm/lean-czx](https://github.com/lean-cqm/lean-czx)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2026-07-19
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

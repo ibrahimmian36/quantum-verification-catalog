@@ -4,18 +4,20 @@
 
 A formalization of the compressed-oracle methodology for reasoning about quantum random oracles in cryptographic proofs, including hardness of zero-finding and collision-finding.
 
-- **repo url**: <https://www.isa-afp.org/entries/Compressed_Oracles.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: protocols
-- **paper**: based on Zhandry, How to Record Quantum Queries (Crypto 2019); entry-specific paper unknown
-- **authors**: Dominique Unruh
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp
-- **notes**: AFP entry (submitted 2025-12-31).
+- **Repository**: [https://www.isa-afp.org/entries/Compressed_Oracles.html](https://www.isa-afp.org/entries/Compressed_Oracles.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: protocols
+- **Paper**: based on Zhandry, How to Record Quantum Queries (Crypto 2019); entry-specific paper unknown
+- **Authors**: Dominique Unruh
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp
+- **Notes**: AFP entry (submitted 2025-12-31).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

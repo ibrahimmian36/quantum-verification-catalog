@@ -4,18 +4,19 @@
 
 A C++ equational prover for labelled Dirac notation, automating operator-level reasoning about quantum computations.
 
-- **repo url**: <https://github.com/LucianoXu/D-Hammer>
-- **system**: other (equational rewriting)
-- **role**: verifier
-- **verifies**: mathematics
-- **paper**: D-Hammer, CAV 2025, arXiv:2505.08633
-- **authors**: Yingte Xu, Gilles Barthe, Li Zhou (per paper listing)
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 2
-- **last commit**: 2025-04-13
-- **status**: archived
-- **builds**: not-attempted
-- **source**: completeness-review 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/LucianoXu/D-Hammer](https://github.com/LucianoXu/D-Hammer)
+- **Proof system**: other (equational rewriting)
+- **Role**: verifier
+- **Verifies**: mathematics
+- **Paper**: D-Hammer, CAV 2025, [arXiv:2505.08633](https://arxiv.org/abs/2505.08633)
+- **Authors**: Yingte Xu, Gilles Barthe, Li Zhou (per paper listing)
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 2
+- **Last commit**: 2025-04-13
+- **Activity**: archived
+- **Build result**: not-attempted
+- **Discovered via**: completeness-review 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

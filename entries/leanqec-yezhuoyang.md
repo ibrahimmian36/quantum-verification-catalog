@@ -4,18 +4,20 @@
 
 A Lean development proving properties of quantum error correction codes.
 
-- **repo url**: <https://github.com/yezhuoyang/LeanQEC>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: error correction
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 1
-- **last commit**: 2026-07-04
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: Name collision with VerifiedQC/Lean-QEC (a distinct project).
+- **Repository**: [https://github.com/yezhuoyang/LeanQEC](https://github.com/yezhuoyang/LeanQEC)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: error correction
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 1
+- **Last commit**: 2026-07-04
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
+- **Notes**: Name collision with VerifiedQC/Lean-QEC (a distinct project).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

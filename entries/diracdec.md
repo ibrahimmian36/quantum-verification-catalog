@@ -4,18 +4,20 @@
 
 A decision procedure for equational proofs in Dirac notation, with the soundness of its rewrite system mechanized in CoqQ.
 
-- **repo url**: <https://doi.org/10.5281/zenodo.13924906>
-- **system**: other (Mathematica + Coq-verified rules)
-- **role**: verifier
-- **verifies**: mathematics
-- **paper**: Automating Equational Proofs in Dirac Notation, POPL 2025, arXiv:2411.11617
-- **authors**: unknown
-- **licence**: unknown
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: unknown
-- **builds**: not-attempted
-- **source**: completeness-review 2026-08-18
-- **notes**: Artifact archived on Zenodo; no separate code repository located. Distinct from the DiracRepr entry.
+- **Repository**: [https://doi.org/10.5281/zenodo.13924906](https://doi.org/10.5281/zenodo.13924906)
+- **Proof system**: other (Mathematica + Coq-verified rules)
+- **Role**: verifier
+- **Verifies**: mathematics
+- **Paper**: Automating Equational Proofs in Dirac Notation, POPL 2025, [arXiv:2411.11617](https://arxiv.org/abs/2411.11617)
+- **Authors**: unknown
+- **Licence**: unknown
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: unknown
+- **Build result**: not-attempted
+- **Discovered via**: completeness-review 2026-08-18
+- **Notes**: Artifact archived on Zenodo; no separate code repository located. Distinct from the DiracRepr entry.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

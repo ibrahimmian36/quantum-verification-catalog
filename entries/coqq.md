@@ -4,18 +4,20 @@
 
 A foundational verification framework for quantum programs: a quantum Hoare logic proved sound against a denotational semantics built on MathComp, with case studies including HHL, Grover, QPE, and hidden subgroup.
 
-- **repo url**: <https://github.com/coq-quantum/CoqQ>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: CoqQ: Foundational Verification of Quantum Programs, POPL 2023, DOI 10.1145/3571222, arXiv:2207.11350
-- **authors**: Li Zhou, Gilles Barthe, Pierre-Yves Strub, Junyi Liu, Mingsheng Ying
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 30
-- **last commit**: 2024-12-29
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: seed-list; POPL; 2110.01320; quantumpl-bib
-- **notes**: Serves as the base of Veri-QEC.
+- **Repository**: [https://github.com/coq-quantum/CoqQ](https://github.com/coq-quantum/CoqQ)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: CoqQ: Foundational Verification of Quantum Programs, POPL 2023, [DOI 10.1145/3571222](https://doi.org/10.1145/3571222), [arXiv:2207.11350](https://arxiv.org/abs/2207.11350)
+- **Authors**: Li Zhou, Gilles Barthe, Pierre-Yves Strub, Junyi Liu, Mingsheng Ying
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 30
+- **Last commit**: 2024-12-29
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; POPL; 2110.01320; quantumpl-bib
+- **Notes**: Serves as the base of Veri-QEC.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

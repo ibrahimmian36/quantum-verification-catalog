@@ -4,18 +4,19 @@
 
 A Julia tool for verifying fault tolerance of quantum error correction codes.
 
-- **repo url**: <https://github.com/vftqc/vftqecc>
-- **system**: other (Julia)
-- **role**: verifier
-- **verifies**: error correction
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 7
-- **last commit**: 2025-05-24
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/vftqc/vftqecc](https://github.com/vftqc/vftqecc)
+- **Proof system**: other (Julia)
+- **Role**: verifier
+- **Verifies**: error correction
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 7
+- **Last commit**: 2025-05-24
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

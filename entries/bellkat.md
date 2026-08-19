@@ -4,18 +4,20 @@
 
 A verification tool for quantum-network entanglement-distribution protocols based on a sound and complete equational theory in the Kleene-algebra family.
 
-- **repo url**: <https://github.com/swystems/bellkat>
-- **system**: other (Haskell, equational theory)
-- **role**: verifier
-- **verifies**: protocols
-- **paper**: BellKAT: a Kleene Algebra with Tests for quantum entanglement distribution protocols, PLDI 2024, DOI 10.1145/3656430
-- **authors**: Anita Buckley, Pavel Chuprikov, Rodrigo Otoni, Robert Rand, Robert Soule, Patrick Eugster (per paper listing)
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 2
-- **last commit**: 2024-04-05
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: completeness-review 2026-08-18
-- **notes**: A probabilistic successor is developed at github.com/swystems/prob-bellkat.
+- **Repository**: [https://github.com/swystems/bellkat](https://github.com/swystems/bellkat)
+- **Proof system**: other (Haskell, equational theory)
+- **Role**: verifier
+- **Verifies**: protocols
+- **Paper**: BellKAT: a Kleene Algebra with Tests for quantum entanglement distribution protocols, PLDI 2024, [DOI 10.1145/3656430](https://doi.org/10.1145/3656430)
+- **Authors**: Anita Buckley, Pavel Chuprikov, Rodrigo Otoni, Robert Rand, Robert Soule, Patrick Eugster (per paper listing)
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 2
+- **Last commit**: 2024-04-05
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: completeness-review 2026-08-18
+- **Notes**: A probabilistic successor is developed at github.com/swystems/prob-bellkat.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

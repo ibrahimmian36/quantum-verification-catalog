@@ -4,18 +4,19 @@
 
 A Coq-certified language for quantum state preparation, extending the OQASM/VQO line, with property-based validation via QuickChick.
 
-- **repo url**: <https://github.com/qafny/pqasm>
-- **system**: Coq/Rocq
-- **role**: language
-- **verifies**: program semantics
-- **paper**: Validating Quantum State Preparation Programs, arXiv:2501.05616, DOI 10.1007/978-3-032-22720-1_16
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 2
-- **last commit**: 2026-06-06
-- **status**: active
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18; contents inspected (125 Coq files)
-- **notes**: unknown
+- **Repository**: [https://github.com/qafny/pqasm](https://github.com/qafny/pqasm)
+- **Proof system**: Coq/Rocq
+- **Role**: language
+- **Verifies**: program semantics
+- **Paper**: Validating Quantum State Preparation Programs, [arXiv:2501.05616](https://arxiv.org/abs/2501.05616), [DOI 10.1007/978-3-032-22720-1_16](https://doi.org/10.1007/978-3-032-22720-1_16)
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 2
+- **Last commit**: 2026-06-06
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18; contents inspected (125 Coq files)
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

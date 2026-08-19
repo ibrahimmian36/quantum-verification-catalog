@@ -4,18 +4,19 @@
 
 Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning related to the Qafny line of work.
 
-- **repo url**: <https://github.com/plum-umd/QNP>
-- **system**: Coq/Rocq
-- **role**: library
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 3
-- **last commit**: 2025-04-22
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; github-org-sweep
-- **notes**: unknown
+- **Repository**: [https://github.com/plum-umd/QNP](https://github.com/plum-umd/QNP)
+- **Proof system**: Coq/Rocq
+- **Role**: library
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 3
+- **Last commit**: 2025-04-22
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; github-org-sweep
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

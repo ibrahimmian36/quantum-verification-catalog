@@ -4,18 +4,19 @@
 
 A Lean formalization of the theory of quantum information and quantum computation.
 
-- **repo url**: <https://github.com/Hayata-Yamasaki-Group/lean-quantum>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: Hayata Yamasaki group
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 28
-- **last commit**: 2026-07-20
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/Hayata-Yamasaki-Group/lean-quantum](https://github.com/Hayata-Yamasaki-Group/lean-quantum)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: Hayata Yamasaki group
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 28
+- **Last commit**: 2026-07-20
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

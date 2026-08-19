@@ -4,18 +4,20 @@
 
 A push-button verification toolkit for the Qiskit quantum compiler that verified 44 of 56 compiler passes against semantics preservation, using Z3 automation over Coq-proved circuit rewrite rules.
 
-- **repo url**: <https://github.com/taorunz/Giallar>
-- **system**: other (SMT + Coq rewrite-rule proofs)
-- **role**: verifier
-- **verifies**: compiler passes
-- **paper**: Giallar: Push-button Verification for the Qiskit Quantum Compiler, PLDI 2022, DOI 10.1145/3519939.3523431, arXiv:2205.00661
-- **authors**: Runzhou Tao, Yunong Shi, Jianan Yao, John Li, Ali Javadi-Abhari, Andrew Cross, Frederic Chong, Ronghui Gu
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 8
-- **last commit**: 2022-11-26
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: PLDI; quantumpl-bib; electronics-2026
-- **notes**: Successor to CertiQ, which has no public repository.
+- **Repository**: [https://github.com/taorunz/Giallar](https://github.com/taorunz/Giallar)
+- **Proof system**: other (SMT + Coq rewrite-rule proofs)
+- **Role**: verifier
+- **Verifies**: compiler passes
+- **Paper**: Giallar: Push-button Verification for the Qiskit Quantum Compiler, PLDI 2022, [DOI 10.1145/3519939.3523431](https://doi.org/10.1145/3519939.3523431), [arXiv:2205.00661](https://arxiv.org/abs/2205.00661)
+- **Authors**: Runzhou Tao, Yunong Shi, Jianan Yao, John Li, Ali Javadi-Abhari, Andrew Cross, Frederic Chong, Ronghui Gu
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 8
+- **Last commit**: 2022-11-26
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: PLDI; quantumpl-bib; electronics-2026
+- **Notes**: Successor to CertiQ, which has no public repository.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

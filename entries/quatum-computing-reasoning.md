@@ -4,18 +4,20 @@
 
 An Isabelle/HOL semantics and Hoare logic with separation for reasoning about quantum computing.
 
-- **repo url**: <https://github.com/DavidSanan/Quatum-Computing-Reasoning>
-- **system**: Isabelle/HOL
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: David Sanan
-- **licence**: GPL-3.0 (LICENSE file read 2026-08-18)
-- **stars**: 0
-- **last commit**: 2024-12-09
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: The repository name contains the typo 'Quatum'.
+- **Repository**: [https://github.com/DavidSanan/Quatum-Computing-Reasoning](https://github.com/DavidSanan/Quatum-Computing-Reasoning)
+- **Proof system**: Isabelle/HOL
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: David Sanan
+- **Licence**: GPL-3.0 (LICENSE file read 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2024-12-09
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: github-search
+- **Notes**: The repository name contains the typo 'Quatum'.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

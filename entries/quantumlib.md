@@ -4,18 +4,20 @@
 
 A Coq library of linear algebra, complex numbers, and matrix infrastructure used as the shared foundation of the inQWIRE developments (QWIRE, SQIR/VOQC, VyZX).
 
-- **repo url**: <https://github.com/inQWIRE/QuantumLib>
-- **system**: Coq/Rocq
-- **role**: library
-- **verifies**: mathematics
-- **paper**: QuantumLib: A Library for Quantum Computing in Coq, Coq Workshop 2022
-- **authors**: Jacob Zweifler, Kesha Hietala, Robert Rand, and contributors
-- **licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
-- **stars**: 41
-- **last commit**: 2026-04-03
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; Coq Workshop; github-org-sweep
-- **notes**: Distributed on opam as coq-quantumlib.
+- **Repository**: [https://github.com/inQWIRE/QuantumLib](https://github.com/inQWIRE/QuantumLib)
+- **Proof system**: Coq/Rocq
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: QuantumLib: A Library for Quantum Computing in Coq, Coq Workshop 2022
+- **Authors**: Jacob Zweifler, Kesha Hietala, Robert Rand, and contributors
+- **Licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
+- **Stars**: 41
+- **Last commit**: 2026-04-03
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; Coq Workshop; github-org-sweep
+- **Notes**: Distributed on opam as coq-quantumlib.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

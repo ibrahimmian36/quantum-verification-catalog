@@ -4,18 +4,19 @@
 
 A Coq formalization of categorical quantum mechanics in the style of Abramsky and Coecke.
 
-- **repo url**: <https://github.com/jabberabbe/CatQM>
-- **system**: Coq/Rocq
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 0
-- **last commit**: 2021-06-29
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/jabberabbe/CatQM](https://github.com/jabberabbe/CatQM)
+- **Proof system**: Coq/Rocq
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2021-06-29
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

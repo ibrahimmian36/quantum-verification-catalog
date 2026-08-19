@@ -4,18 +4,20 @@
 
 An interactive theorem prover for string diagrams, representing morphisms as cospans of hypergraphs, used for equational reasoning in the ZX-calculus and quantum software line.
 
-- **repo url**: <https://github.com/akissinger/chyp>
-- **system**: other (diagrammatic proof assistant)
-- **role**: verifier
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: Aleks Kissinger
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 129
-- **last commit**: 2026-05-25
-- **status**: active
-- **builds**: not-attempted
-- **source**: completeness-review 2026-08-18
-- **notes**: Companion prover to the Picturing Quantum Software line; successor in spirit to Quantomatic.
+- **Repository**: [https://github.com/akissinger/chyp](https://github.com/akissinger/chyp)
+- **Proof system**: other (diagrammatic proof assistant)
+- **Role**: verifier
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: Aleks Kissinger
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 129
+- **Last commit**: 2026-05-25
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: completeness-review 2026-08-18
+- **Notes**: Companion prover to the Picturing Quantum Software line; successor in spirit to Quantomatic.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

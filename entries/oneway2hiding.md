@@ -4,18 +4,20 @@
 
 A formalization of the One-way to Hiding theorem, a foundational lemma for security proofs against quantum adversaries in the quantum random oracle model.
 
-- **repo url**: <https://www.isa-afp.org/entries/Oneway2Hiding.html>
-- **system**: Isabelle/HOL
-- **role**: verifier
-- **verifies**: protocols
-- **paper**: Formalizing the One-Way to Hiding Theorem, CPP 2025, DOI 10.1145/3703595.3705887
-- **authors**: Katharina Kreuzer, Dominique Unruh
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp; CPP
-- **notes**: AFP entry (submitted 2025-06-27).
+- **Repository**: [https://www.isa-afp.org/entries/Oneway2Hiding.html](https://www.isa-afp.org/entries/Oneway2Hiding.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: verifier
+- **Verifies**: protocols
+- **Paper**: Formalizing the One-Way to Hiding Theorem, CPP 2025, [DOI 10.1145/3703595.3705887](https://doi.org/10.1145/3703595.3705887)
+- **Authors**: Katharina Kreuzer, Dominique Unruh
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp; CPP
+- **Notes**: AFP entry (submitted 2025-06-27).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

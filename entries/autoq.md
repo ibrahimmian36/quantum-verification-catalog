@@ -4,18 +4,20 @@
 
 An automata-based quantum circuit verifier using Hoare-style pre- and post-conditions represented as tree automata; version 2.0 extends to quantum programs with measurement, branching, and loop invariants.
 
-- **repo url**: <https://github.com/fmlab-iis/AutoQ>
-- **system**: other (tree automata)
-- **role**: model-checker
-- **verifies**: circuits, program semantics
-- **paper**: AutoQ: An Automata-Based Quantum Circuit Verifier, CAV 2023, DOI 10.1007/978-3-031-37709-9_7; AutoQ 2.0, TACAS 2025, DOI 10.1007/978-3-031-90660-2_5, arXiv:2411.09121
-- **authors**: Yu-Fang Chen, Kai-Min Chung, Ondrej Lengal, Jyun-Ao Lin, Wei-Lun Tsai, and collaborators
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 29
-- **last commit**: 2026-07-18
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; CAV; TACAS; electronics-2026
-- **notes**: github.com/alan23273850/AutoQ redirects here. The related POPL 2025 level-synchronized tree automata artifact is archived at Zenodo, DOI 10.5281/zenodo.13957472.
+- **Repository**: [https://github.com/fmlab-iis/AutoQ](https://github.com/fmlab-iis/AutoQ)
+- **Proof system**: other (tree automata)
+- **Role**: model-checker
+- **Verifies**: circuits, program semantics
+- **Paper**: AutoQ: An Automata-Based Quantum Circuit Verifier, CAV 2023, [DOI 10.1007/978-3-031-37709-9_7](https://doi.org/10.1007/978-3-031-37709-9_7); AutoQ 2.0, TACAS 2025, [DOI 10.1007/978-3-031-90660-2_5](https://doi.org/10.1007/978-3-031-90660-2_5), [arXiv:2411.09121](https://arxiv.org/abs/2411.09121)
+- **Authors**: Yu-Fang Chen, Kai-Min Chung, Ondrej Lengal, Jyun-Ao Lin, Wei-Lun Tsai, and collaborators
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 29
+- **Last commit**: 2026-07-18
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; CAV; TACAS; electronics-2026
+- **Notes**: github.com/alan23273850/AutoQ redirects here. The related POPL 2025 level-synchronized tree automata artifact is archived at Zenodo, [DOI 10.5281/zenodo.13957472.](https://doi.org/10.5281/zenodo.13957472.)
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

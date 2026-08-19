@@ -4,18 +4,19 @@
 
 A prototype tool for symbolic execution of quantum programs using symbolic stabilizer states, applied to debugging quantum error correction programs at scale.
 
-- **repo url**: <https://github.com/njuwfang/QuantumSE.jl>
-- **system**: other (Julia + SMT)
-- **role**: verifier
-- **verifies**: error correction
-- **paper**: Symbolic Execution for Quantum Error Correction Programs, PLDI 2024, DOI 10.1145/3656419, arXiv:2311.11313
-- **authors**: Wang Fang, Mingsheng Ying
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 16
-- **last commit**: 2024-08-23
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: quantumpl-bib; PLDI
-- **notes**: unknown
+- **Repository**: [https://github.com/njuwfang/QuantumSE.jl](https://github.com/njuwfang/QuantumSE.jl)
+- **Proof system**: other (Julia + SMT)
+- **Role**: verifier
+- **Verifies**: error correction
+- **Paper**: Symbolic Execution for Quantum Error Correction Programs, PLDI 2024, [DOI 10.1145/3656419](https://doi.org/10.1145/3656419), [arXiv:2311.11313](https://arxiv.org/abs/2311.11313)
+- **Authors**: Wang Fang, Mingsheng Ying
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 16
+- **Last commit**: 2024-08-23
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: quantumpl-bib; PLDI
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,20 @@
 
 A diagrammatic proof assistant for equational reasoning about string diagrams such as the ZX-calculus, with user-defined equational theories and rewrite strategies.
 
-- **repo url**: <https://github.com/zxcalc/quantomatic>
-- **system**: other (diagrammatic proof assistant)
-- **role**: verifier
-- **verifies**: mathematics
-- **paper**: Quantomatic: A Proof Assistant for Diagrammatic Reasoning, CADE 2015, arXiv:1503.01034
-- **authors**: Aleks Kissinger, Vladimir Zamdzhiev, and contributors
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 175
-- **last commit**: 2026-03-13
-- **status**: archived
-- **builds**: not-attempted
-- **source**: 2109.06493
-- **notes**: Repository archived; the ZX-calculus tooling lineage continues in PyZX.
+- **Repository**: [https://github.com/zxcalc/quantomatic](https://github.com/zxcalc/quantomatic)
+- **Proof system**: other (diagrammatic proof assistant)
+- **Role**: verifier
+- **Verifies**: mathematics
+- **Paper**: Quantomatic: A Proof Assistant for Diagrammatic Reasoning, CADE 2015, [arXiv:1503.01034](https://arxiv.org/abs/1503.01034)
+- **Authors**: Aleks Kissinger, Vladimir Zamdzhiev, and contributors
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 175
+- **Last commit**: 2026-03-13
+- **Activity**: archived
+- **Build result**: not-attempted
+- **Discovered via**: 2109.06493
+- **Notes**: Repository archived; the ZX-calculus tooling lineage continues in PyZX.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,20 @@
 
 A verifier for parameterized quantum circuits using synchronized weighted tree automata, providing automatic relational verification and equivalence checking.
 
-- **repo url**: <https://github.com/VeriFIT/AutoQ-Para>
-- **system**: other (weighted tree automata)
-- **role**: model-checker
-- **verifies**: circuits
-- **paper**: Parameterized Verification of Quantum Circuits, POPL 2026, DOI 10.1145/3776712, arXiv:2511.19897
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 0
-- **last commit**: 2026-02-23
-- **status**: active
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18
-- **notes**: A separate development from AutoQ, by an overlapping group.
+- **Repository**: [https://github.com/VeriFIT/AutoQ-Para](https://github.com/VeriFIT/AutoQ-Para)
+- **Proof system**: other (weighted tree automata)
+- **Role**: model-checker
+- **Verifies**: circuits
+- **Paper**: Parameterized Verification of Quantum Circuits, POPL 2026, [DOI 10.1145/3776712](https://doi.org/10.1145/3776712), [arXiv:2511.19897](https://arxiv.org/abs/2511.19897)
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2026-02-23
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18
+- **Notes**: A separate development from AutoQ, by an overlapping group.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,20 @@
 
 A formalization of the syntax and denotational semantics of a simple quantum program model with a quantum Hoare logic proved sound and complete for partial correctness, applied to verify Grover's algorithm.
 
-- **repo url**: <https://www.isa-afp.org/entries/QHLProver.html>
-- **system**: Isabelle/HOL
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: Formal Verification of Quantum Algorithms Using Quantum Hoare Logic, CAV 2019, DOI 10.1007/978-3-030-25543-5_12
-- **authors**: Junyi Liu, Bohua Zhan, Shuling Wang, Shenggang Ying, Tao Liu, Yangjia Li, Mingsheng Ying, Naijun Zhan
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; afp; CAV; 2109.06493; 2110.01320
-- **notes**: AFP entry (submitted 2019-03-24), maintained against each Isabelle release.
+- **Repository**: [https://www.isa-afp.org/entries/QHLProver.html](https://www.isa-afp.org/entries/QHLProver.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: Formal Verification of Quantum Algorithms Using Quantum Hoare Logic, CAV 2019, [DOI 10.1007/978-3-030-25543-5_12](https://doi.org/10.1007/978-3-030-25543-5_12)
+- **Authors**: Junyi Liu, Bohua Zhan, Shuling Wang, Shenggang Ying, Tao Liu, Yangjia Li, Mingsheng Ying, Naijun Zhan
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; afp; CAV; 2109.06493; 2110.01320
+- **Notes**: AFP entry (submitted 2019-03-24), maintained against each Isabelle release.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

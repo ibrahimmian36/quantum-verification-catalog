@@ -4,18 +4,20 @@
 
 A Lean 4 physics library whose QuantumInfo module formalizes quantum information theory; formed by merging PhysLean with Lean-QuantumInfo.
 
-- **repo url**: <https://github.com/leanprover-community/physlib>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: Lean community; QuantumInfo module by Alex Meiburg and contributors
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 696
-- **last commit**: 2026-08-18
-- **status**: active
-- **builds**: not-attempted
-- **source**: proof-assistant sweep 2026-08-18
-- **notes**: The QuantumInfo directory is a stated top-level module and default build target; absorbed Timeroot/Lean-QuantumInfo in March 2026.
+- **Repository**: [https://github.com/leanprover-community/physlib](https://github.com/leanprover-community/physlib)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: Lean community; QuantumInfo module by Alex Meiburg and contributors
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 696
+- **Last commit**: 2026-08-18
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: proof-assistant sweep 2026-08-18
+- **Notes**: The QuantumInfo directory is a stated top-level module and default build target; absorbed Timeroot/Lean-QuantumInfo in March 2026.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

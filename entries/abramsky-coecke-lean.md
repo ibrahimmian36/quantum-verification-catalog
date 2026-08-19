@@ -4,18 +4,19 @@
 
 A Lean 4 formalization toward categorical quantum protocols (teleportation), after Abramsky and Coecke 2004.
 
-- **repo url**: <https://github.com/JamesSquires0/Abramsky_Coecke_Lean>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: mathematics, protocols
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 2
-- **last commit**: 2026-07-19
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/JamesSquires0/Abramsky_Coecke_Lean](https://github.com/JamesSquires0/Abramsky_Coecke_Lean)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: mathematics, protocols
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 2
+- **Last commit**: 2026-07-19
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

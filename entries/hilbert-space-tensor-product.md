@@ -4,18 +4,20 @@
 
 A formalization of tensor products of Hilbert spaces, operators, and von Neumann algebras, including the infinite-dimensional case, underlying the quantum registers and Kraus maps entries.
 
-- **repo url**: <https://www.isa-afp.org/entries/Hilbert_Space_Tensor_Product.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: Dominique Unruh
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp
-- **notes**: General functional analysis by stated purpose; included as substrate of cataloged quantum developments.
+- **Repository**: [https://www.isa-afp.org/entries/Hilbert_Space_Tensor_Product.html](https://www.isa-afp.org/entries/Hilbert_Space_Tensor_Product.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: Dominique Unruh
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp
+- **Notes**: General functional analysis by stated purpose; included as substrate of cataloged quantum developments.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 An implementation of a Hoare-logic verification system for quantum programs embedded in Coq.
 
-- **repo url**: <https://github.com/rcraigfiedorek/QuantumHoareLogic>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 1
-- **last commit**: 2020-09-13
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/rcraigfiedorek/QuantumHoareLogic](https://github.com/rcraigfiedorek/QuantumHoareLogic)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 1
+- **Last commit**: 2020-09-13
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

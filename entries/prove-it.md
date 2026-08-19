@@ -4,18 +4,19 @@
 
 A Python-based tool for proving and organizing general theorems, whose flagship application is proofs about quantum circuits and algorithms.
 
-- **repo url**: <https://github.com/sandialabs/Prove-It>
-- **system**: other (Python proof tool)
-- **role**: verifier
-- **verifies**: circuits, mathematics
-- **paper**: Prove-It: A Proof Assistant for Organizing and Verifying General Mathematical Knowledge, arXiv:2304.02183
-- **authors**: Wayne Witzel and collaborators (Sandia National Laboratories)
-- **licence**: nonstandard licence in license.txt (read 2026-08-18; see file)
-- **stars**: 37
-- **last commit**: 2026-08-14
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/sandialabs/Prove-It](https://github.com/sandialabs/Prove-It)
+- **Proof system**: other (Python proof tool)
+- **Role**: verifier
+- **Verifies**: circuits, mathematics
+- **Paper**: Prove-It: A Proof Assistant for Organizing and Verifying General Mathematical Knowledge, [arXiv:2304.02183](https://arxiv.org/abs/2304.02183)
+- **Authors**: Wayne Witzel and collaborators (Sandia National Laboratories)
+- **Licence**: nonstandard licence in license.txt (read 2026-08-18; see file)
+- **Stars**: 37
+- **Last commit**: 2026-08-14
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

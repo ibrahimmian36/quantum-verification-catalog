@@ -4,18 +4,20 @@
 
 A formalization of quantum channels as Kraus maps over arbitrary (not necessarily finite-dimensional) Hilbert spaces, with their equivalence to completely positive maps.
 
-- **repo url**: <https://www.isa-afp.org/entries/Kraus_Maps.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: Dominique Unruh
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp
-- **notes**: AFP entry (submitted 2025-06-26).
+- **Repository**: [https://www.isa-afp.org/entries/Kraus_Maps.html](https://www.isa-afp.org/entries/Kraus_Maps.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: Dominique Unruh
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp
+- **Notes**: AFP entry (submitted 2025-06-26).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 A formal verification of the CSS code-chain complex correspondence over F2, in Lean 4 with Mathlib.
 
-- **repo url**: <https://github.com/Ruizsolveall/Project_qec_lean>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: error correction, mathematics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 1
-- **last commit**: 2026-02-12
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/Ruizsolveall/Project_qec_lean](https://github.com/Ruizsolveall/Project_qec_lean)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: error correction, mathematics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 1
+- **Last commit**: 2026-02-12
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 A Coq formalization of a simple quantum imperative language with a Hoare-style logic.
 
-- **repo url**: <https://github.com/Vickyswj/DiracRepr>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
-- **stars**: 2
-- **last commit**: 2021-05-06
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/Vickyswj/DiracRepr](https://github.com/Vickyswj/DiracRepr)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
+- **Stars**: 2
+- **Last commit**: 2021-05-06
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 An assistant tool for formal verification of partial correctness of nondeterministic quantum programs, using numerical methods over quantum Hoare logic.
 
-- **repo url**: <https://github.com/LucianoXu/NQPV>
-- **system**: other (numerical quantum Hoare logic)
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: Verification of Nondeterministic Quantum Programs, ASPLOS 2023, DOI 10.1145/3582016.3582039, arXiv:2302.07973
-- **authors**: unknown
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 5
-- **last commit**: 2023-01-28
-- **status**: archived
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/LucianoXu/NQPV](https://github.com/LucianoXu/NQPV)
+- **Proof system**: other (numerical quantum Hoare logic)
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: Verification of Nondeterministic Quantum Programs, ASPLOS 2023, [DOI 10.1145/3582016.3582039](https://doi.org/10.1145/3582016.3582039), [arXiv:2302.07973](https://arxiv.org/abs/2302.07973)
+- **Authors**: unknown
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 5
+- **Last commit**: 2023-01-28
+- **Activity**: archived
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

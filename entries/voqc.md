@@ -4,18 +4,20 @@
 
 A verified optimizer for quantum circuits whose optimizations are proved semantics-preserving over SQIR.
 
-- **repo url**: <https://github.com/inQWIRE/SQIR>
-- **system**: Coq/Rocq
-- **role**: compiler
-- **verifies**: compiler passes
-- **paper**: A Verified Optimizer for Quantum Circuits, POPL 2021, DOI 10.1145/3434318, arXiv:1912.02250
-- **authors**: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 100
-- **last commit**: 2026-04-02
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; POPL; 2109.06493; quantumpl-bib
-- **notes**: Proofs live in the SQIR repository; extracted OCaml is packaged at github.com/inQWIRE/mlvoqc and a Python wrapper at github.com/inQWIRE/pyvoqc.
+- **Repository**: [https://github.com/inQWIRE/SQIR](https://github.com/inQWIRE/SQIR)
+- **Proof system**: Coq/Rocq
+- **Role**: compiler
+- **Verifies**: compiler passes
+- **Paper**: A Verified Optimizer for Quantum Circuits, POPL 2021, [DOI 10.1145/3434318](https://doi.org/10.1145/3434318), [arXiv:1912.02250](https://arxiv.org/abs/1912.02250)
+- **Authors**: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 100
+- **Last commit**: 2026-04-02
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; POPL; 2109.06493; quantumpl-bib
+- **Notes**: Proofs live in the SQIR repository; extracted OCaml is packaged at github.com/inQWIRE/mlvoqc and a Python wrapper at github.com/inQWIRE/pyvoqc.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 A translator from Quipper programs to quantum Markov chains for model checking with QPMC, tested on protocols including BB84.
 
-- **repo url**: <https://github.com/miniBill/entangle>
-- **system**: other (Haskell translator)
-- **role**: model-checker
-- **verifies**: protocols
-- **paper**: Entangle: A Translation Framework from Quipper Programs to Quantum Markov Chains, DOI 10.1007/978-3-319-91632-3_9, arXiv:1708.06312
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 3
-- **last commit**: 2017-11-21
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: 2110.01320; electronics-2026
-- **notes**: unknown
+- **Repository**: [https://github.com/miniBill/entangle](https://github.com/miniBill/entangle)
+- **Proof system**: other (Haskell translator)
+- **Role**: model-checker
+- **Verifies**: protocols
+- **Paper**: Entangle: A Translation Framework from Quipper Programs to Quantum Markov Chains, [DOI 10.1007/978-3-319-91632-3_9](https://doi.org/10.1007/978-3-319-91632-3_9), [arXiv:1708.06312](https://arxiv.org/abs/1708.06312)
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 3
+- **Last commit**: 2017-11-21
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: 2110.01320; electronics-2026
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

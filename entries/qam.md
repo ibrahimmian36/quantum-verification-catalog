@@ -4,18 +4,19 @@
 
 A Coq development of a Quantum Abstract Machine.
 
-- **repo url**: <https://github.com/plum-umd/QAM>
-- **system**: Coq/Rocq
-- **role**: library
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 1
-- **last commit**: 2023-05-11
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: github-org-sweep
-- **notes**: unknown
+- **Repository**: [https://github.com/plum-umd/QAM](https://github.com/plum-umd/QAM)
+- **Proof system**: Coq/Rocq
+- **Role**: library
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 1
+- **Last commit**: 2023-05-11
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: github-org-sweep
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

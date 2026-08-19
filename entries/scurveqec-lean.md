@@ -4,18 +4,20 @@
 
 A Lean 4 formalization of structural properties of weight-conditional logical error rates for stabilizer codes under perfect matching decoding.
 
-- **repo url**: <https://github.com/yezhuoyang/SCurveQEC-Lean>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: error correction, mathematics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 0
-- **last commit**: 2026-04-13
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search; contents inspected 2026-08-18
-- **notes**: Companion paper draft in the repository; the README labels later phases as work in progress.
+- **Repository**: [https://github.com/yezhuoyang/SCurveQEC-Lean](https://github.com/yezhuoyang/SCurveQEC-Lean)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: error correction, mathematics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2026-04-13
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search; contents inspected 2026-08-18
+- **Notes**: Companion paper draft in the repository; the README labels later phases as work in progress.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

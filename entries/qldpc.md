@@ -4,18 +4,19 @@
 
 Kernel-checked certification of QLDPC decoder outputs: Lean 4 verified checkers producing two-sided per-run certificates.
 
-- **repo url**: <https://github.com/j-arndt/qldpc>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: error correction
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
-- **stars**: 0
-- **last commit**: 2026-07-06
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/j-arndt/qldpc](https://github.com/j-arndt/qldpc)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: error correction
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
+- **Stars**: 0
+- **Last commit**: 2026-07-06
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

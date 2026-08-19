@@ -4,18 +4,19 @@
 
 An interactive proof assistant for quantum relational Hoare logic, built on Isabelle/HOL, for verifying the security of quantum and post-quantum cryptographic protocols.
 
-- **repo url**: <https://github.com/dominique-unruh/qrhl-tool>
-- **system**: Isabelle/HOL
-- **role**: verifier
-- **verifies**: protocols
-- **paper**: Quantum Relational Hoare Logic, POPL 2019, DOI 10.1145/3290346, arXiv:1802.03188
-- **authors**: Dominique Unruh
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 25
-- **last commit**: 2026-05-24
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; POPL; github-search; 2109.06493; quantumpl-bib
-- **notes**: unknown
+- **Repository**: [https://github.com/dominique-unruh/qrhl-tool](https://github.com/dominique-unruh/qrhl-tool)
+- **Proof system**: Isabelle/HOL
+- **Role**: verifier
+- **Verifies**: protocols
+- **Paper**: Quantum Relational Hoare Logic, POPL 2019, [DOI 10.1145/3290346](https://doi.org/10.1145/3290346), [arXiv:1802.03188](https://arxiv.org/abs/1802.03188)
+- **Authors**: Dominique Unruh
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 25
+- **Last commit**: 2026-05-24
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; POPL; github-search; 2109.06493; quantumpl-bib
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

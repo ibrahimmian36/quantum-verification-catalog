@@ -4,18 +4,20 @@
 
 A deductive verification framework for circuit-building quantum programs in Why3, with proof obligations discharged largely automatically by SMT solvers; verified developments include Deutsch-Jozsa, QPE, Grover, and Shor order-finding.
 
-- **repo url**: <https://github.com/Qbricks/qbricks.github.io>
-- **system**: Why3
-- **role**: verifier
-- **verifies**: circuits, program semantics
-- **paper**: An Automated Deductive Verification Framework for Circuit-building Quantum Programs, ESOP 2021, DOI 10.1007/978-3-030-72019-3_6, arXiv:2003.05841
-- **authors**: Christophe Chareton, Sebastien Bardin, Francois Bobot, Valentin Perrelle, Benoit Valiron
-- **licence**: LGPL-2.1 (LICENSE file read 2026-08-18)
-- **stars**: 9
-- **last commit**: 2026-05-14
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; ESOP; 2109.06493; 2110.01320; quantumpl-bib
-- **notes**: Interactive Why3 development with SMT automation; project site qbricks.github.io shares the repository.
+- **Repository**: [https://github.com/Qbricks/qbricks.github.io](https://github.com/Qbricks/qbricks.github.io)
+- **Proof system**: Why3
+- **Role**: verifier
+- **Verifies**: circuits, program semantics
+- **Paper**: An Automated Deductive Verification Framework for Circuit-building Quantum Programs, ESOP 2021, [DOI 10.1007/978-3-030-72019-3_6](https://doi.org/10.1007/978-3-030-72019-3_6), [arXiv:2003.05841](https://arxiv.org/abs/2003.05841)
+- **Authors**: Christophe Chareton, Sebastien Bardin, Francois Bobot, Valentin Perrelle, Benoit Valiron
+- **Licence**: LGPL-2.1 (LICENSE file read 2026-08-18)
+- **Stars**: 9
+- **Last commit**: 2026-05-14
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; ESOP; 2109.06493; 2110.01320; quantumpl-bib
+- **Notes**: Interactive Why3 development with SMT automation; project site qbricks.github.io shares the repository.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

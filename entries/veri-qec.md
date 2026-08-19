@@ -4,18 +4,20 @@
 
 A tool for formal verification of quantum error-correcting programs: a program logic formalized in Coq on top of CoqQ, paired with a Python/SMT automated verifier for fault-tolerant scenarios.
 
-- **repo url**: <https://github.com/Chesterhuang1999/Veri-qec>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: error correction
-- **paper**: Efficient Formal Verification of Quantum Error Correcting Programs, PLDI 2025, DOI 10.1145/3729293, arXiv:2504.07732
-- **authors**: Chester Huang, Li Zhou, Wang Fang, Yuxuan Zhao, Mingsheng Ying (per paper listing)
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 9
-- **last commit**: 2025-05-30
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; PLDI; quantumpl-bib
-- **notes**: Hybrid design: interactive Coq proofs plus SMT automation.
+- **Repository**: [https://github.com/Chesterhuang1999/Veri-qec](https://github.com/Chesterhuang1999/Veri-qec)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: error correction
+- **Paper**: Efficient Formal Verification of Quantum Error Correcting Programs, PLDI 2025, [DOI 10.1145/3729293](https://doi.org/10.1145/3729293), [arXiv:2504.07732](https://arxiv.org/abs/2504.07732)
+- **Authors**: Chester Huang, Li Zhou, Wang Fang, Yuxuan Zhao, Mingsheng Ying (per paper listing)
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 9
+- **Last commit**: 2025-05-30
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; PLDI; quantumpl-bib
+- **Notes**: Hybrid design: interactive Coq proofs plus SMT automation.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

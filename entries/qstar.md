@@ -4,18 +4,20 @@
 
 A prototype for verifying Q# programs in F*.
 
-- **repo url**: <https://github.com/microsoft/qsharp-verifier>
-- **system**: F*
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 7
-- **last commit**: 2022-09-15
-- **status**: archived
-- **builds**: not-attempted
-- **source**: seed-list; github-search
-- **notes**: Repository archived by Microsoft (last push 2022-09-15).
+- **Repository**: [https://github.com/microsoft/qsharp-verifier](https://github.com/microsoft/qsharp-verifier)
+- **Proof system**: F*
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 7
+- **Last commit**: 2022-09-15
+- **Activity**: archived
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; github-search
+- **Notes**: Repository archived by Microsoft (last push 2022-09-15).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

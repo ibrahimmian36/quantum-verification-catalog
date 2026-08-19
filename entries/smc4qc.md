@@ -4,18 +4,19 @@
 
 Symbolic model checking of quantum circuits in Maude with Dirac-notation symbolic states, checking teleportation, superdense coding, secret sharing, entanglement swapping, and network coding.
 
-- **repo url**: <https://github.com/canhminhdo/smc4qc>
-- **system**: other (Maude)
-- **role**: model-checker
-- **verifies**: circuits, protocols
-- **paper**: Symbolic model checking quantum circuits in Maude, PeerJ Computer Science 10:e2098, 2024
-- **authors**: Canh Minh Do, Kazuhiro Ogata
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 0
-- **last commit**: 2024-03-06
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/canhminhdo/smc4qc](https://github.com/canhminhdo/smc4qc)
+- **Proof system**: other (Maude)
+- **Role**: model-checker
+- **Verifies**: circuits, protocols
+- **Paper**: Symbolic model checking quantum circuits in Maude, PeerJ Computer Science 10:e2098, 2024
+- **Authors**: Canh Minh Do, Kazuhiro Ogata
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2024-03-06
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

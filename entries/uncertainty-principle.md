@@ -4,18 +4,20 @@
 
 A formal verification of the quantum-mechanical uncertainty principle over complex vector spaces, following the proof in Nielsen and Chuang.
 
-- **repo url**: <https://www.isa-afp.org/entries/Uncertainty_Principle.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: Alexander Treml
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp
-- **notes**: AFP entry (submitted 2024-03-26).
+- **Repository**: [https://www.isa-afp.org/entries/Uncertainty_Principle.html](https://www.isa-afp.org/entries/Uncertainty_Principle.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: Alexander Treml
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp
+- **Notes**: AFP entry (submitted 2024-03-26).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

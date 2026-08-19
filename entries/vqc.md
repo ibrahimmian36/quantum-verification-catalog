@@ -4,18 +4,20 @@
 
 An interactive textbook on verified quantum computing in Coq, in the style of Software Foundations, covering matrix semantics, Deutsch's algorithm, and quantum teleportation.
 
-- **repo url**: <http://people.cs.uchicago.edu/~rand/vqc/>
-- **system**: Coq/Rocq
-- **role**: library
-- **verifies**: program semantics, circuits
-- **paper**: unknown
-- **authors**: Robert Rand
-- **licence**: unknown
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: unknown
-- **builds**: not-attempted
-- **source**: completeness-review 2026-08-18
-- **notes**: Distributed as a tarball (vqc.tgz) from the author's page rather than a repository.
+- **Repository**: [http://people.cs.uchicago.edu/~rand/vqc/](http://people.cs.uchicago.edu/~rand/vqc/)
+- **Proof system**: Coq/Rocq
+- **Role**: library
+- **Verifies**: program semantics, circuits
+- **Paper**: unknown
+- **Authors**: Robert Rand
+- **Licence**: unknown
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: unknown
+- **Build result**: not-attempted
+- **Discovered via**: completeness-review 2026-08-18
+- **Notes**: Distributed as a tarball (vqc.tgz) from the author's page rather than a repository.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

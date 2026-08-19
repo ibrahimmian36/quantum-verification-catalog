@@ -4,18 +4,20 @@
 
 A quantum-program verifier that translates quantum operations to classical array operations in a separation-logic style, discharging proofs through Dafny; verified components include quantum walk, Grover, and Shor.
 
-- **repo url**: <https://github.com/qafny/qafny_impl>
-- **system**: Dafny
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: Qafny: A Quantum-Program Verifier, ECOOP 2024, DOI 10.4230/LIPIcs.ECOOP.2024.24, arXiv:2211.06411; follow-up at OOPSLA 2025, DOI 10.1145/3763157
-- **authors**: Liyi Li and collaborators (UMD/Iowa State)
-- **licence**: BSD-2-Clause (LICENSE file read 2026-08-18)
-- **stars**: 5
-- **last commit**: 2026-02-02
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; ECOOP; electronics-2026
-- **notes**: An earlier Haskell frontend exists at github.com/mzhu-zx/qafny-hs (archived).
+- **Repository**: [https://github.com/qafny/qafny_impl](https://github.com/qafny/qafny_impl)
+- **Proof system**: Dafny
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: Qafny: A Quantum-Program Verifier, ECOOP 2024, [DOI 10.4230/LIPIcs.ECOOP.2024.24](https://doi.org/10.4230/LIPIcs.ECOOP.2024.24), [arXiv:2211.06411](https://arxiv.org/abs/2211.06411); follow-up at OOPSLA 2025, [DOI 10.1145/3763157](https://doi.org/10.1145/3763157)
+- **Authors**: Liyi Li and collaborators (UMD/Iowa State)
+- **Licence**: BSD-2-Clause (LICENSE file read 2026-08-18)
+- **Stars**: 5
+- **Last commit**: 2026-02-02
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; ECOOP; electronics-2026
+- **Notes**: An earlier Haskell frontend exists at github.com/mzhu-zx/qafny-hs (archived).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

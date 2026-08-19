@@ -4,18 +4,20 @@
 
 A Coq formalization (in the Hybrid framework) of the metatheory of the Proto-Quipper quantum programming language, proving type soundness in a linear specification logic.
 
-- **repo url**: <https://www.site.uottawa.ca/~afelty/jar19/>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: Formalization of Metatheory of the Quipper Quantum Programming Language in a Linear Logic, J. Automated Reasoning, DOI 10.1007/s10817-019-09527-x, arXiv:1812.03624
-- **authors**: Mohamed Yousri Mahmoud, Amy Felty
-- **licence**: unknown
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: unknown
-- **builds**: not-attempted
-- **source**: quantumpl-bib
-- **notes**: Hosted as an electronic appendix on the author's site, not on GitHub.
+- **Repository**: [https://www.site.uottawa.ca/~afelty/jar19/](https://www.site.uottawa.ca/~afelty/jar19/)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: Formalization of Metatheory of the Quipper Quantum Programming Language in a Linear Logic, J. Automated Reasoning, [DOI 10.1007/s10817-019-09527-x](https://doi.org/10.1007/s10817-019-09527-x), [arXiv:1812.03624](https://arxiv.org/abs/1812.03624)
+- **Authors**: Mohamed Yousri Mahmoud, Amy Felty
+- **Licence**: unknown
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: unknown
+- **Build result**: not-attempted
+- **Discovered via**: quantumpl-bib
+- **Notes**: Hosted as an electronic appendix on the author's site, not on GitHub.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

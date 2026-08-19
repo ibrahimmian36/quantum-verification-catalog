@@ -4,18 +4,20 @@
 
 A formalization of quantum projective measurements based on spectral theory, and of the CHSH inequality showing quantum mechanics admits no local hidden-variable model.
 
-- **repo url**: <https://www.isa-afp.org/entries/Projective_Measurements.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: mathematics
-- **paper**: Quantum projective measurements and the CHSH inequality in Isabelle/HOL, arXiv:2103.08535
-- **authors**: Mnacho Echenim
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp; quantumpl-bib
-- **notes**: AFP entry (submitted 2021-03-03).
+- **Repository**: [https://www.isa-afp.org/entries/Projective_Measurements.html](https://www.isa-afp.org/entries/Projective_Measurements.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: Quantum projective measurements and the CHSH inequality in Isabelle/HOL, [arXiv:2103.08535](https://arxiv.org/abs/2103.08535)
+- **Authors**: Mnacho Echenim
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp; quantumpl-bib
+- **Notes**: AFP entry (submitted 2021-03-03).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

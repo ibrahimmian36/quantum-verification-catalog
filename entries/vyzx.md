@@ -4,18 +4,20 @@
 
 A verified formalization of the ZX-calculus in Coq, building toward a verified graphical quantum-circuit optimizer.
 
-- **repo url**: <https://github.com/inQWIRE/VyZX>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: mathematics, circuits
-- **paper**: VyZX: Formal Verification of a Graphical Quantum Language, TOPLAS, DOI 10.1145/3807780; arXiv:2205.05781, arXiv:2311.11571
-- **authors**: Adrian Lehmann, Ben Caldwell, Robert Rand, and contributors
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 21
-- **last commit**: 2026-01-16
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; QPL; github-org-sweep
-- **notes**: Depends on QuantumLib; a VS Code visualizer lives at github.com/inQWIRE/ViZX.
+- **Repository**: [https://github.com/inQWIRE/VyZX](https://github.com/inQWIRE/VyZX)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: mathematics, circuits
+- **Paper**: VyZX: Formal Verification of a Graphical Quantum Language, TOPLAS, [DOI 10.1145/3807780](https://doi.org/10.1145/3807780); [arXiv:2205.05781](https://arxiv.org/abs/2205.05781), [arXiv:2311.11571](https://arxiv.org/abs/2311.11571)
+- **Authors**: Adrian Lehmann, Ben Caldwell, Robert Rand, and contributors
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 21
+- **Last commit**: 2026-01-16
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; QPL; github-org-sweep
+- **Notes**: Depends on QuantumLib; a VS Code visualizer lives at github.com/inQWIRE/ViZX.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

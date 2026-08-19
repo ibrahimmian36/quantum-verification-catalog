@@ -4,18 +4,20 @@
 
 A formalization project on quantum error correction in Lean.
 
-- **repo url**: <https://github.com/Stavan-Jain/QECLean>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: error correction
-- **paper**: unknown
-- **authors**: Stavan Jain and contributors
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 39
-- **last commit**: 2026-08-11
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: Companion tutorial site at github.com/Stavan-Jain/lean-into-qec-site (IEEE QCE 2026).
+- **Repository**: [https://github.com/Stavan-Jain/QECLean](https://github.com/Stavan-Jain/QECLean)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: error correction
+- **Paper**: unknown
+- **Authors**: Stavan Jain and contributors
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 39
+- **Last commit**: 2026-08-11
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
+- **Notes**: Companion tutorial site at github.com/Stavan-Jain/lean-into-qec-site (IEEE QCE 2026).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 A tool for automated symbolic verification of quantum programs against first-order specifications, via an SMT encoding of a symbolic quantum program model.
 
-- **repo url**: <https://github.com/fabianbauermarquart/symQV>
-- **system**: other (SMT)
-- **role**: verifier
-- **verifies**: circuits, program semantics
-- **paper**: symQV: Automated Symbolic Verification of Quantum Programs, FM 2023, DOI 10.1007/978-3-031-27481-7_12, arXiv:2212.02267
-- **authors**: Fabian Bauer-Marquart, Stefan Leue, Christian Schilling
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 0
-- **last commit**: 2022-12-06
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: FM; github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/fabianbauermarquart/symQV](https://github.com/fabianbauermarquart/symQV)
+- **Proof system**: other (SMT)
+- **Role**: verifier
+- **Verifies**: circuits, program semantics
+- **Paper**: symQV: Automated Symbolic Verification of Quantum Programs, FM 2023, [DOI 10.1007/978-3-031-27481-7_12](https://doi.org/10.1007/978-3-031-27481-7_12), [arXiv:2212.02267](https://arxiv.org/abs/2212.02267)
+- **Authors**: Fabian Bauer-Marquart, Stefan Leue, Christian Schilling
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2022-12-06
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: FM; github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

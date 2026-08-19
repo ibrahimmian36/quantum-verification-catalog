@@ -4,18 +4,20 @@
 
 An equivalence checker for quantum circuits combining decision-diagram and ZX-calculus techniques, used to verify compilation results including Qiskit flows.
 
-- **repo url**: <https://github.com/munich-quantum-toolkit/qcec>
-- **system**: other (decision diagrams + ZX)
-- **role**: model-checker
-- **verifies**: circuits, compiler passes
-- **paper**: Advanced Equivalence Checking for Quantum Circuits, IEEE TCAD, DOI 10.1109/TCAD.2020.3032630
-- **authors**: Lukas Burgholzer, Robert Wille, and contributors
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 117
-- **last commit**: 2026-08-17
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search; 2110.01320; electronics-2026
-- **notes**: Part of the Munich Quantum Toolkit (formerly under the cda-tum organization).
+- **Repository**: [https://github.com/munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec)
+- **Proof system**: other (decision diagrams + ZX)
+- **Role**: model-checker
+- **Verifies**: circuits, compiler passes
+- **Paper**: Advanced Equivalence Checking for Quantum Circuits, IEEE TCAD, [DOI 10.1109/TCAD.2020.3032630](https://doi.org/10.1109/TCAD.2020.3032630)
+- **Authors**: Lukas Burgholzer, Robert Wille, and contributors
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 117
+- **Last commit**: 2026-08-17
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search; 2110.01320; electronics-2026
+- **Notes**: Part of the Munich Quantum Toolkit (formerly under the cda-tum organization).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

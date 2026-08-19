@@ -4,18 +4,20 @@
 
 The Quantum IO monad formalized in Agda, toward a verified functional quantum programming language.
 
-- **repo url**: <https://github.com/alexandersgreen/qio-agda>
-- **system**: other (Agda)
-- **role**: language
-- **verifies**: program semantics
-- **paper**: Towards a Formally Verified Functional Quantum Programming Language (Green, Altenkirch)
-- **authors**: Alexander S. Green, Thorsten Altenkirch
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 5
-- **last commit**: 2013-05-11
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: quantumpl-bib
-- **notes**: Companion Haskell implementation at github.com/alexandersgreen/qio-haskell.
+- **Repository**: [https://github.com/alexandersgreen/qio-agda](https://github.com/alexandersgreen/qio-agda)
+- **Proof system**: other (Agda)
+- **Role**: language
+- **Verifies**: program semantics
+- **Paper**: Towards a Formally Verified Functional Quantum Programming Language (Green, Altenkirch)
+- **Authors**: Alexander S. Green, Thorsten Altenkirch
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 5
+- **Last commit**: 2013-05-11
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: quantumpl-bib
+- **Notes**: Companion Haskell implementation at github.com/alexandersgreen/qio-haskell.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

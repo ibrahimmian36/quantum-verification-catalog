@@ -4,18 +4,20 @@
 
 A verified framework for compiling quantum oracles: the OQASM oracle assembly language with verified compilers from OQIMP to OQASM to SQIR.
 
-- **repo url**: <https://github.com/inQWIRE/VQO>
-- **system**: Coq/Rocq
-- **role**: compiler
-- **verifies**: compiler passes, program semantics
-- **paper**: Verified Compilation of Quantum Oracles, OOPSLA 2022, DOI 10.1145/3563309, arXiv:2112.06700
-- **authors**: Liyi Li, Finn Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 4
-- **last commit**: 2023-09-22
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: seed-list; OOPSLA; quantumpl-bib
-- **notes**: Includes oracles used in Shor's and Grover's algorithms; joint inQWIRE/UMD project.
+- **Repository**: [https://github.com/inQWIRE/VQO](https://github.com/inQWIRE/VQO)
+- **Proof system**: Coq/Rocq
+- **Role**: compiler
+- **Verifies**: compiler passes, program semantics
+- **Paper**: Verified Compilation of Quantum Oracles, OOPSLA 2022, [DOI 10.1145/3563309](https://doi.org/10.1145/3563309), [arXiv:2112.06700](https://arxiv.org/abs/2112.06700)
+- **Authors**: Liyi Li, Finn Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 4
+- **Last commit**: 2023-09-22
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; OOPSLA; quantumpl-bib
+- **Notes**: Includes oracles used in Shor's and Grover's algorithms; joint inQWIRE/UMD project.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

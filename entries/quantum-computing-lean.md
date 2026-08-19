@@ -4,18 +4,19 @@
 
 A formalization of quantum computing in the Lean theorem prover.
 
-- **repo url**: <https://github.com/duckki/quantum-computing-lean>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: mathematics, circuits
-- **paper**: unknown
-- **authors**: Duckki Oe
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 38
-- **last commit**: 2026-08-15
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/duckki/quantum-computing-lean](https://github.com/duckki/quantum-computing-lean)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: mathematics, circuits
+- **Paper**: unknown
+- **Authors**: Duckki Oe
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 38
+- **Last commit**: 2026-08-15
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

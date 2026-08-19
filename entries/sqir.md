@@ -4,18 +4,20 @@
 
 A small quantum intermediate representation deeply embedded in Coq, with semantics used to prove quantum programs (Grover, QPE, GHZ, teleportation) correct.
 
-- **repo url**: <https://github.com/inQWIRE/SQIR>
-- **system**: Coq/Rocq
-- **role**: language
-- **verifies**: program semantics, circuits
-- **paper**: Proving Quantum Programs Correct, ITP 2021, DOI 10.4230/LIPIcs.ITP.2021.21, arXiv:2010.01240
-- **authors**: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks, and contributors
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 100
-- **last commit**: 2026-04-02
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; ITP; 2109.06493; 2110.01320; quantumpl-bib
-- **notes**: Also home of the VOQC correctness proofs and of the formally certified end-to-end Shor's algorithm (examples/shor; PNAS 2023, DOI 10.1073/pnas.2218775120, arXiv:2204.07112).
+- **Repository**: [https://github.com/inQWIRE/SQIR](https://github.com/inQWIRE/SQIR)
+- **Proof system**: Coq/Rocq
+- **Role**: language
+- **Verifies**: program semantics, circuits
+- **Paper**: Proving Quantum Programs Correct, ITP 2021, [DOI 10.4230/LIPIcs.ITP.2021.21](https://doi.org/10.4230/LIPIcs.ITP.2021.21), [arXiv:2010.01240](https://arxiv.org/abs/2010.01240)
+- **Authors**: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks, and contributors
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 100
+- **Last commit**: 2026-04-02
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; ITP; 2109.06493; 2110.01320; quantumpl-bib
+- **Notes**: Also home of the VOQC correctness proofs and of the formally certified end-to-end Shor's algorithm (examples/shor; PNAS 2023, [DOI 10.1073/pnas.2218775120](https://doi.org/10.1073/pnas.2218775120), [arXiv:2204.07112](https://arxiv.org/abs/2204.07112)).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

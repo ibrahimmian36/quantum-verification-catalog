@@ -4,18 +4,19 @@
 
 Formalized quantum algorithms in Lean 4, including Deutsch-Jozsa, Bernstein-Vazirani, Simon, and Grover.
 
-- **repo url**: <https://github.com/Millennights/quantum-computing-in-Lean4>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: circuits
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 2
-- **last commit**: 2026-07-19
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/Millennights/quantum-computing-in-Lean4](https://github.com/Millennights/quantum-computing-in-Lean4)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: circuits
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 2
+- **Last commit**: 2026-07-19
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,20 @@
 
 An automated tool for verifying Silq programs against specifications written in the companion silspeq language, using SMT solvers.
 
-- **repo url**: <https://github.com/marco-lewis/silver>
-- **system**: other (SMT)
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: Automated Verification of Silq Quantum Programs using SMT Solvers, IEEE QSW 2024, arXiv:2406.03119
-- **authors**: Marco Lewis and collaborators
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 1
-- **last commit**: 2025-09-23
-- **status**: active
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18
-- **notes**: Specification language repository at github.com/marco-lewis/silspeq.
+- **Repository**: [https://github.com/marco-lewis/silver](https://github.com/marco-lewis/silver)
+- **Proof system**: other (SMT)
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: Automated Verification of Silq Quantum Programs using SMT Solvers, IEEE QSW 2024, [arXiv:2406.03119](https://arxiv.org/abs/2406.03119)
+- **Authors**: Marco Lewis and collaborators
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 1
+- **Last commit**: 2025-09-23
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18
+- **Notes**: Specification language repository at github.com/marco-lewis/silspeq.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

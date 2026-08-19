@@ -4,18 +4,20 @@
 
 A matrix-based library for quantum computation and quantum information formalizing the no-cloning theorem, quantum teleportation, the Deutsch and Deutsch-Jozsa algorithms, and the quantum Prisoner's Dilemma.
 
-- **repo url**: <https://www.isa-afp.org/entries/Isabelle_Marries_Dirac.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: mathematics, protocols
-- **paper**: Certified Quantum Computation in Isabelle/HOL, J. Automated Reasoning 65(5), 2021, DOI 10.1007/s10817-020-09584-7
-- **authors**: Anthony Bordg, Hanna Lachnitt, Yijun He
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; afp; 2109.06493; 2110.01320; quantumpl-bib
-- **notes**: AFP entry (submitted 2020-11-22), maintained against each Isabelle release; development repository at github.com/AnthonyBordg/Isabelle_marries_Dirac.
+- **Repository**: [https://www.isa-afp.org/entries/Isabelle_Marries_Dirac.html](https://www.isa-afp.org/entries/Isabelle_Marries_Dirac.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: mathematics, protocols
+- **Paper**: Certified Quantum Computation in Isabelle/HOL, J. Automated Reasoning 65(5), 2021, [DOI 10.1007/s10817-020-09584-7](https://doi.org/10.1007/s10817-020-09584-7)
+- **Authors**: Anthony Bordg, Hanna Lachnitt, Yijun He
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; afp; 2109.06493; 2110.01320; quantumpl-bib
+- **Notes**: AFP entry (submitted 2020-11-22), maintained against each Isabelle release; development repository at github.com/AnthonyBordg/Isabelle_marries_Dirac.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

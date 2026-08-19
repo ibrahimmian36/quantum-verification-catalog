@@ -4,18 +4,20 @@
 
 A formalization of the Quantum Fourier Transform with proofs of correctness and unitarity, building on the Isabelle Marries Dirac library.
 
-- **repo url**: <https://www.isa-afp.org/entries/Quantum_Fourier_Transform.html>
-- **system**: Isabelle/HOL
-- **role**: verifier
-- **verifies**: circuits
-- **paper**: unknown
-- **authors**: Pablo Manrique
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp
-- **notes**: AFP entry (submitted 2025-01-28); development repository at github.com/PabMM/Quantum_Fourier_Transform.
+- **Repository**: [https://www.isa-afp.org/entries/Quantum_Fourier_Transform.html](https://www.isa-afp.org/entries/Quantum_Fourier_Transform.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: verifier
+- **Verifies**: circuits
+- **Paper**: unknown
+- **Authors**: Pablo Manrique
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp
+- **Notes**: AFP entry (submitted 2025-01-28); development repository at github.com/PabMM/Quantum_Fourier_Transform.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,20 @@
 
 A C++ framework for synthesizing and optimizing quantum circuits that includes a formal equivalence checker based on stabilizer-tableau reduction with an exact tensor-contraction fallback.
 
-- **repo url**: <https://github.com/DVLab-NTU/qsyn>
-- **system**: other (tableau + tensor methods)
-- **role**: compiler
-- **verifies**: circuits
-- **paper**: unknown
-- **authors**: DVLab, National Taiwan University
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 198
-- **last commit**: 2026-07-30
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search; contents inspected 2026-08-18
-- **notes**: Equivalence checking is one component of a larger synthesis suite; the tensor-contraction fallback applies to small circuit widths only.
+- **Repository**: [https://github.com/DVLab-NTU/qsyn](https://github.com/DVLab-NTU/qsyn)
+- **Proof system**: other (tableau + tensor methods)
+- **Role**: compiler
+- **Verifies**: circuits
+- **Paper**: unknown
+- **Authors**: DVLab, National Taiwan University
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 198
+- **Last commit**: 2026-07-30
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search; contents inspected 2026-08-18
+- **Notes**: Equivalence checking is one component of a larger synthesis suite; the tensor-contraction fallback applies to small circuit widths only.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

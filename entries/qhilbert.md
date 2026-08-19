@@ -4,18 +4,19 @@
 
 A Lean 4 formalization over Mathlib of Hilbert-space foundations for quantum computing: qubit states, standard gates, density operators, tensor products, and partial trace.
 
-- **repo url**: <https://github.com/jam-khan/QHilbert>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 0
-- **last commit**: 2026-04-14
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search; contents inspected 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/jam-khan/QHilbert](https://github.com/jam-khan/QHilbert)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2026-04-14
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search; contents inspected 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

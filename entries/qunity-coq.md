@@ -4,18 +4,20 @@
 
 A Coq formalization of the Qunity quantum programming language's syntax and type system, with a formally verified soundness proof for its typechecker.
 
-- **repo url**: <https://gitlab.umiacs.umd.edu/finn/qunity>
-- **system**: Coq/Rocq
-- **role**: language
-- **verifies**: program semantics
-- **paper**: Qunity: A Unified Language for Quantum and Classical Computing, POPL 2023, DOI 10.1145/3571225; artifact DOI 10.5281/zenodo.7150283
-- **authors**: Finn Voichick, Liyi Li, Robert Rand, Michael Hicks
-- **licence**: GPL-3.0 (repository license file, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: 2025-05-13
-- **status**: active
-- **builds**: not-attempted
-- **source**: quantumpl-bib; POPL artifact; located 2026-08-18
-- **notes**: Hosted on GitLab (umiacs.umd.edu), not GitHub; POPL 2023 artifact (Available, Evaluated and Reusable). Verified compilation is listed as work in progress; the separate OCaml compiler at github.com/mikhailmints/qunity is validated by testing rather than proofs.
+- **Repository**: [https://gitlab.umiacs.umd.edu/finn/qunity](https://gitlab.umiacs.umd.edu/finn/qunity)
+- **Proof system**: Coq/Rocq
+- **Role**: language
+- **Verifies**: program semantics
+- **Paper**: Qunity: A Unified Language for Quantum and Classical Computing, POPL 2023, [DOI 10.1145/3571225](https://doi.org/10.1145/3571225); artifact [DOI 10.5281/zenodo.7150283](https://doi.org/10.5281/zenodo.7150283)
+- **Authors**: Finn Voichick, Liyi Li, Robert Rand, Michael Hicks
+- **Licence**: GPL-3.0 (repository license file, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: 2025-05-13
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: quantumpl-bib; POPL artifact; located 2026-08-18
+- **Notes**: Hosted on GitLab (umiacs.umd.edu), not GitHub; POPL 2023 artifact (Available, Evaluated and Reusable). Verified compilation is listed as work in progress; the separate OCaml compiler at github.com/mikhailmints/qunity is validated by testing rather than proofs.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

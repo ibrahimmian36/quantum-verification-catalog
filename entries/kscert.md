@@ -4,20 +4,21 @@
 
 Kernel-checked Lean 4 certificates for a Kochen-Specker vector system in R^3 with 24 vectors.
 
-- **repo url**: <https://github.com/shayaansiddique06/kscert>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: mathematics
-- **paper**: arXiv:2607.26413
-- **authors**: Shayaan Siddique, Ibby Mian
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 0
-- **last commit**: 2026-07-24
-- **status**: active
-- **builds**: yes
-- **build date**: 2026-08-18
-- **toolchain**: lean leanprover/lean4:v4.32.0
-- **source**: seed-list
-- **notes**: unknown
+- **Repository**: [https://github.com/shayaansiddique06/kscert](https://github.com/shayaansiddique06/kscert)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: mathematics
+- **Paper**: [arXiv:2607.26413](https://arxiv.org/abs/2607.26413)
+- **Authors**: Shayaan Siddique, Ibby Mian
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2026-07-24
+- **Activity**: active
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: lean leanprover/lean4:v4.32.0
+- **Discovered via**: seed-list
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,20 @@
 
 A formalization of density matrices, projective measurements, and Tsirelson's proof that the maximum quantum violation of the CHSH inequality is 2*sqrt(2).
 
-- **repo url**: <https://www.isa-afp.org/entries/TsirelsonBound.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: mathematics
-- **paper**: A formalization of the CHSH inequality and Tsirelson's upper-bound in Isabelle/HOL, J. Automated Reasoning 2023, arXiv:2306.12535
-- **authors**: Mnacho Echenim, Mehdi Mhalla, Coraline Mori
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp
-- **notes**: AFP entry (submitted 2023-04-18).
+- **Repository**: [https://www.isa-afp.org/entries/TsirelsonBound.html](https://www.isa-afp.org/entries/TsirelsonBound.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: A formalization of the CHSH inequality and Tsirelson's upper-bound in Isabelle/HOL, J. Automated Reasoning 2023, [arXiv:2306.12535](https://arxiv.org/abs/2306.12535)
+- **Authors**: Mnacho Echenim, Mehdi Mhalla, Coraline Mori
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp
+- **Notes**: AFP entry (submitted 2023-04-18).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

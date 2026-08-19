@@ -4,18 +4,19 @@
 
 A Haskell toolkit for quantum circuit analysis based on the sum-over-paths representation, supporting functional verification, equivalence checking, and optimization.
 
-- **repo url**: <https://github.com/meamy/feynman>
-- **system**: other (path sums)
-- **role**: verifier
-- **verifies**: circuits
-- **paper**: Towards Large-scale Functional Verification of Universal Quantum Circuits, QPL 2018, DOI 10.4204/EPTCS.287.1, arXiv:1805.06908
-- **authors**: Matthew Amy
-- **licence**: BSD-3-Clause (LICENSE file read 2026-08-18)
-- **stars**: 96
-- **last commit**: 2026-07-20
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search; 2110.01320; electronics-2026; quantumpl-bib
-- **notes**: unknown
+- **Repository**: [https://github.com/meamy/feynman](https://github.com/meamy/feynman)
+- **Proof system**: other (path sums)
+- **Role**: verifier
+- **Verifies**: circuits
+- **Paper**: Towards Large-scale Functional Verification of Universal Quantum Circuits, QPL 2018, [DOI 10.4204/EPTCS.287.1](https://doi.org/10.4204/EPTCS.287.1), [arXiv:1805.06908](https://arxiv.org/abs/1805.06908)
+- **Authors**: Matthew Amy
+- **Licence**: BSD-3-Clause (LICENSE file read 2026-08-18)
+- **Stars**: 96
+- **Last commit**: 2026-07-20
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search; 2110.01320; electronics-2026; quantumpl-bib
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

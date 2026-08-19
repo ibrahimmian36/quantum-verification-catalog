@@ -4,18 +4,19 @@
 
 A Lean 4 formalization of a three-qubit quantum computer with a QWhile-style language and Hoare logic, including a verified Hoare triple for the Deutsch-Jozsa algorithm.
 
-- **repo url**: <https://github.com/BalandinIlia/quantum_computer_3_qubits>
-- **system**: Lean 4
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 0
-- **last commit**: 2025-07-29
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search; contents inspected 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/BalandinIlia/quantum_computer_3_qubits](https://github.com/BalandinIlia/quantum_computer_3_qubits)
+- **Proof system**: Lean 4
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 0
+- **Last commit**: 2025-07-29
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search; contents inspected 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,20 @@
 
 A Mathlib-based formalization of quantum information theory in Lean 4: distances, entropies, and capacities, with the Generalized Quantum Stein's Lemma as a guiding result.
 
-- **repo url**: <https://github.com/Timeroot/Lean-QuantumInfo>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: mathematics
-- **paper**: unknown
-- **authors**: Alex Meiburg and contributors
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 141
-- **last commit**: 2026-07-09
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: Merged into github.com/leanprover-community/physlib in March 2026; this repository remains the development home referenced by the community.
+- **Repository**: [https://github.com/Timeroot/Lean-QuantumInfo](https://github.com/Timeroot/Lean-QuantumInfo)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: mathematics
+- **Paper**: unknown
+- **Authors**: Alex Meiburg and contributors
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 141
+- **Last commit**: 2026-07-09
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
+- **Notes**: Merged into github.com/leanprover-community/physlib in March 2026; this repository remains the development home referenced by the community.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

@@ -4,18 +4,19 @@
 
 An Agda formalization (in agda-categories) of completeness and expressivity results for the reversible language Pi extended with square roots, capturing unitary quantum computing.
 
-- **repo url**: <https://github.com/JacquesCarette/SqrtPi>
-- **system**: other (Agda)
-- **role**: verifier
-- **verifies**: mathematics
-- **paper**: With a Few Square Roots, Quantum Computing Is as Easy as Pi, POPL 2024, DOI 10.1145/3632861, arXiv:2310.14056
-- **authors**: Jacques Carette, Chris Heunen, Robin Kaarsgaard, Amr Sabry
-- **licence**: BSD-3-Clause (LICENSE file read 2026-08-18)
-- **stars**: 8
-- **last commit**: 2024-10-17
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: quantumpl-bib
-- **notes**: unknown
+- **Repository**: [https://github.com/JacquesCarette/SqrtPi](https://github.com/JacquesCarette/SqrtPi)
+- **Proof system**: other (Agda)
+- **Role**: verifier
+- **Verifies**: mathematics
+- **Paper**: With a Few Square Roots, Quantum Computing Is as Easy as Pi, POPL 2024, [DOI 10.1145/3632861](https://doi.org/10.1145/3632861), [arXiv:2310.14056](https://arxiv.org/abs/2310.14056)
+- **Authors**: Jacques Carette, Chris Heunen, Robin Kaarsgaard, Amr Sabry
+- **Licence**: BSD-3-Clause (LICENSE file read 2026-08-18)
+- **Stars**: 8
+- **Last commit**: 2024-10-17
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: quantumpl-bib
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

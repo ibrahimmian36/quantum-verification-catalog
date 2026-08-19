@@ -4,18 +4,20 @@
 
 Tools generating barrier certificates that verify properties of quantum systems and circuits via linear programming and sum-of-squares optimization.
 
-- **repo url**: <https://github.com/marco-lewis/quantum-barrier-certificates>
-- **system**: other (LP/SOS optimization)
-- **role**: verifier
-- **verifies**: program semantics, circuits
-- **paper**: Verification of Quantum Systems Using Barrier Certificates, QEST 2023, DOI 10.1007/978-3-031-43835-6_24, arXiv:2307.07307; discrete-time follow-up arXiv:2408.07591
-- **authors**: Marco Lewis and collaborators
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 2
-- **last commit**: 2023-06-03
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18
-- **notes**: Discrete-time follow-up at github.com/marco-lewis/discrete-quantum-bc.
+- **Repository**: [https://github.com/marco-lewis/quantum-barrier-certificates](https://github.com/marco-lewis/quantum-barrier-certificates)
+- **Proof system**: other (LP/SOS optimization)
+- **Role**: verifier
+- **Verifies**: program semantics, circuits
+- **Paper**: Verification of Quantum Systems Using Barrier Certificates, QEST 2023, [DOI 10.1007/978-3-031-43835-6_24](https://doi.org/10.1007/978-3-031-43835-6_24), [arXiv:2307.07307](https://arxiv.org/abs/2307.07307); discrete-time follow-up [arXiv:2408.07591](https://arxiv.org/abs/2408.07591)
+- **Authors**: Marco Lewis and collaborators
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 2
+- **Last commit**: 2023-06-03
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18
+- **Notes**: Discrete-time follow-up at github.com/marco-lewis/discrete-quantum-bc.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

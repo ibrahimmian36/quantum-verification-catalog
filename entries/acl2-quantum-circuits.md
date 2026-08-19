@@ -4,18 +4,20 @@
 
 An ACL2(r) interpreter for quantum-circuit netlists with states as vectors and gates as unitaries, including a proof of correctness of the quantum teleportation circuit.
 
-- **repo url**: <https://github.com/acl2/acl2/tree/master/books/nonstd/workshops/2013/helms-gamboa-quantum>
-- **system**: other (ACL2(r))
-- **role**: verifier
-- **verifies**: circuits
-- **paper**: An Interpreter for Quantum Circuits, ACL2 Workshop 2013 (proceedings arXiv:1304.7860)
-- **authors**: Lucas Helms, Ruben Gamboa
-- **licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
-- **stars**: 440
-- **last commit**: 2026-08-18
-- **status**: active
-- **builds**: not-attempted
-- **source**: proof-assistant sweep 2026-08-18
-- **notes**: Lives in the ACL2 community books (books/nonstd, requires ACL2(r)); GitHub statistics shown refer to the whole ACL2 repository.
+- **Repository**: [https://github.com/acl2/acl2/tree/master/books/nonstd/workshops/2013/helms-gamboa-quantum](https://github.com/acl2/acl2/tree/master/books/nonstd/workshops/2013/helms-gamboa-quantum)
+- **Proof system**: other (ACL2(r))
+- **Role**: verifier
+- **Verifies**: circuits
+- **Paper**: An Interpreter for Quantum Circuits, ACL2 Workshop 2013 (proceedings [arXiv:1304.7860](https://arxiv.org/abs/1304.7860))
+- **Authors**: Lucas Helms, Ruben Gamboa
+- **Licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
+- **Stars**: 440
+- **Last commit**: 2026-08-18
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: proof-assistant sweep 2026-08-18
+- **Notes**: Lives in the ACL2 community books (books/nonstd, requires ACL2(r)); GitHub statistics shown refer to the whole ACL2 repository.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

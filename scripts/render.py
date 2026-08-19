@@ -6,6 +6,7 @@ Everything this script writes carries a GENERATED marker; never hand-edit it.
 Sort: by system, then by name (case-insensitive). No ordering by stars, ever.
 """
 import pathlib
+import re
 
 import yaml
 
@@ -40,34 +41,63 @@ def system_key(e):
     except ValueError:
         return (1, 0, s.lower())
 
+BUILD_MARK = {"yes": "builds", "no": "did not build", "not-attempted": "not attempted"}
+
 def table(rows):
-    head = ("| Name | System | Role | Verifies | Status | Description |\n"
+    head = ("| Name | Role | Verifies | Activity | Build | Description |\n"
             "|---|---|---|---|---|---|")
     lines = [head]
     for e in rows:
         name = f"[{fmt(e.get('name'))}](entries/{e['_slug']}.md)"
+        build = BUILD_MARK.get(e.get("builds"), "not attempted")
         lines.append("| " + " | ".join([
-            name, fmt(e.get("system")), fmt(e.get("role")),
-            fmt(e.get("verifies")), fmt(e.get("status")),
+            name, fmt(e.get("role")), fmt(e.get("verifies")),
+            fmt(e.get("status")), build,
             fmt(e.get("description")).replace("|", "\\|"),
         ]) + " |")
     return "\n".join(lines)
 
+ARXIV = re.compile(r"arXiv:(\d{4}\.\d{4,5})")
+DOI = re.compile(r"DOI[: ]\s*(10\.\d{4,9}/[^\s,;]+)")
+
+def linkify(text):
+    """Make arXiv ids and DOIs clickable without altering the wording."""
+    text = ARXIV.sub(lambda m: f"[arXiv:{m.group(1)}](https://arxiv.org/abs/{m.group(1)})", text)
+    text = DOI.sub(lambda m: f"[DOI {m.group(1)}](https://doi.org/{m.group(1)})", text)
+    return text
+
+LABELS = {
+    "repo_url": "Repository", "system": "Proof system", "role": "Role",
+    "verifies": "Verifies", "paper": "Paper", "authors": "Authors",
+    "licence": "Licence", "stars": "Stars", "last_commit": "Last commit",
+    "status": "Activity", "builds": "Build result", "build_date": "Build attempted",
+    "toolchain": "Toolchain", "build_note": "Build note", "source": "Discovered via",
+    "notes": "Notes",
+}
+
 def render_page(e):
-    fields = ["repo_url", "system", "role", "verifies", "paper", "authors",
-              "licence", "stars", "last_commit", "status", "builds",
-              "build_date", "toolchain", "source", "notes"]
+    order = ["repo_url", "system", "role", "verifies", "paper", "authors", "licence",
+             "stars", "last_commit", "status", "builds", "build_date", "toolchain",
+             "build_note", "source", "notes"]
     lines = [MARKER, "", f"# {fmt(e.get('name'))}", "",
              fmt(e.get("description")), ""]
-    for f in fields:
+    for f in order:
         if f in ("build_date", "toolchain") and e.get("builds") in (None, "not-attempted"):
             continue
-        label = f.replace("_", " ")
+        if f == "build_note" and not e.get("build_note"):
+            continue
         val = fmt(e.get(f))
+        if val == "unknown" and f in ("notes", "build_note"):
+            continue
         if f == "repo_url" and val != "unknown":
-            val = f"<{val}>"
-        lines.append(f"- **{label}**: {val}")
-    lines += ["", "[Back to catalog](../README.md)", ""]
+            val = f"[{val}]({val})"
+        elif f in ("paper", "notes", "source"):
+            val = linkify(val)
+        lines.append(f"- **{LABELS.get(f, f)}**: {val}")
+    lines += ["",
+              "Something wrong here? Corrections are welcome — please "
+              "[open an issue](../../../issues/new/choose) and we will fix it.",
+              "", "[Back to the catalog](../README.md)", ""]
     return "\n".join(lines)
 
 def main():

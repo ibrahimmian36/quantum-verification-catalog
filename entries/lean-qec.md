@@ -4,18 +4,19 @@
 
 A Lean 4 formalization of quantum error correction.
 
-- **repo url**: <https://github.com/VerifiedQC/Lean-QEC>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: error correction
-- **paper**: arXiv:2605.16523
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 11
-- **last commit**: 2026-08-12
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/VerifiedQC/Lean-QEC](https://github.com/VerifiedQC/Lean-QEC)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: error correction
+- **Paper**: [arXiv:2605.16523](https://arxiv.org/abs/2605.16523)
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 11
+- **Last commit**: 2026-08-12
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

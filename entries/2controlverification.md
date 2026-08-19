@@ -4,18 +4,19 @@
 
 A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates with Two Controls'.
 
-- **repo url**: <https://github.com/kylechui/2ControlVerification>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: circuits, mathematics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 4
-- **last commit**: 2025-04-05
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search
-- **notes**: unknown
+- **Repository**: [https://github.com/kylechui/2ControlVerification](https://github.com/kylechui/2ControlVerification)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: circuits, mathematics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 4
+- **Last commit**: 2025-04-05
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

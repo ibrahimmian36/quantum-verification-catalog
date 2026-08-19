@@ -4,18 +4,20 @@
 
 A HOL Light framework for verifying optical quantum gates and circuits, including CNOT, Mach-Zehnder, a quantum full adder, and a Grover oracle circuit, with tensor-product infrastructure and a decision procedure.
 
-- **repo url**: <https://hvg.ece.concordia.ca/projects/optics/pr1/>
-- **system**: other (HOL Light)
-- **role**: verifier
-- **verifies**: circuits
-- **paper**: Hierarchical Verification of Quantum Circuits, NFM 2016; framework paper in Formal Aspects of Computing, 2019
-- **authors**: Mohamed Yousri Mahmoud, Sidi Mohamed Beillahi, Sofiene Tahar (Concordia HVG)
-- **licence**: unknown
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: unknown
-- **builds**: not-attempted
-- **source**: proof-assistant sweep 2026-08-18
-- **notes**: Code distributed as a zip archive from the group's project page, not a repository.
+- **Repository**: [https://hvg.ece.concordia.ca/projects/optics/pr1/](https://hvg.ece.concordia.ca/projects/optics/pr1/)
+- **Proof system**: other (HOL Light)
+- **Role**: verifier
+- **Verifies**: circuits
+- **Paper**: Hierarchical Verification of Quantum Circuits, NFM 2016; framework paper in Formal Aspects of Computing, 2019
+- **Authors**: Mohamed Yousri Mahmoud, Sidi Mohamed Beillahi, Sofiene Tahar (Concordia HVG)
+- **Licence**: unknown
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: unknown
+- **Build result**: not-attempted
+- **Discovered via**: proof-assistant sweep 2026-08-18
+- **Notes**: Code distributed as a zip archive from the group's project page, not a repository.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

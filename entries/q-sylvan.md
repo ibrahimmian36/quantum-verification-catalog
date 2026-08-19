@@ -4,18 +4,19 @@
 
 A parallel decision-diagram package for quantum computing with built-in circuit equivalence checking alongside simulation.
 
-- **repo url**: <https://github.com/System-Verification-Lab/q-sylvan>
-- **system**: other (decision diagrams)
-- **role**: model-checker
-- **verifies**: circuits
-- **paper**: Q-Sylvan: A Parallel Decision Diagram Package for Quantum Computing, ATVA 2025, DOI 10.1007/978-3-032-08707-2_12, arXiv:2508.00514
-- **authors**: unknown
-- **licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **stars**: 2
-- **last commit**: 2025-12-23
-- **status**: active
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/System-Verification-Lab/q-sylvan](https://github.com/System-Verification-Lab/q-sylvan)
+- **Proof system**: other (decision diagrams)
+- **Role**: model-checker
+- **Verifies**: circuits
+- **Paper**: Q-Sylvan: A Parallel Decision Diagram Package for Quantum Computing, ATVA 2025, [DOI 10.1007/978-3-032-08707-2_12](https://doi.org/10.1007/978-3-032-08707-2_12), [arXiv:2508.00514](https://arxiv.org/abs/2508.00514)
+- **Authors**: unknown
+- **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
+- **Stars**: 2
+- **Last commit**: 2025-12-23
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

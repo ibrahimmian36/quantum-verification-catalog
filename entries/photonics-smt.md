@@ -4,18 +4,20 @@
 
 A dReal-based tool for finding photonic circuits that emulate quantum gates, with guarantees obtained through delta-weakening SMT.
 
-- **repo url**: <https://doi.org/10.5281/zenodo.17233057>
-- **system**: other (SMT, dReal)
-- **role**: compiler
-- **verifies**: circuits
-- **paper**: Finding Photonics Circuits via delta-weakening SMT, VMCAI 2026, DOI 10.1007/978-3-032-15700-3_7, arXiv:2509.11678
-- **authors**: Marco Lewis, Benoit Valiron
-- **licence**: unknown
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: unknown
-- **builds**: not-attempted
-- **source**: venue sweep 2026-08-18
-- **notes**: Artifact archived on Zenodo.
+- **Repository**: [https://doi.org/10.5281/zenodo.17233057](https://doi.org/10.5281/zenodo.17233057)
+- **Proof system**: other (SMT, dReal)
+- **Role**: compiler
+- **Verifies**: circuits
+- **Paper**: Finding Photonics Circuits via delta-weakening SMT, VMCAI 2026, [DOI 10.1007/978-3-032-15700-3_7](https://doi.org/10.1007/978-3-032-15700-3_7), [arXiv:2509.11678](https://arxiv.org/abs/2509.11678)
+- **Authors**: Marco Lewis, Benoit Valiron
+- **Licence**: unknown
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: unknown
+- **Build result**: not-attempted
+- **Discovered via**: venue sweep 2026-08-18
+- **Notes**: Artifact archived on Zenodo.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

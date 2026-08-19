@@ -4,18 +4,20 @@
 
 A tool for robustness verification of quantum machine learning models, checking local and global robustness under noise.
 
-- **repo url**: <https://github.com/veriq-toolkit/VeriQR>
-- **system**: other (exact robustness algorithms)
-- **role**: verifier
-- **verifies**: program semantics
-- **paper**: VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models, arXiv:2407.13533
-- **authors**: unknown
-- **licence**: GPL-3.0 (LICENSE file read 2026-08-18)
-- **stars**: 4
-- **last commit**: 2024-06-21
-- **status**: dormant
-- **builds**: not-attempted
-- **source**: electronics-2026
-- **notes**: Formerly hosted under the Veri-Q organization.
+- **Repository**: [https://github.com/veriq-toolkit/VeriQR](https://github.com/veriq-toolkit/VeriQR)
+- **Proof system**: other (exact robustness algorithms)
+- **Role**: verifier
+- **Verifies**: program semantics
+- **Paper**: VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models, [arXiv:2407.13533](https://arxiv.org/abs/2407.13533)
+- **Authors**: unknown
+- **Licence**: GPL-3.0 (LICENSE file read 2026-08-18)
+- **Stars**: 4
+- **Last commit**: 2024-06-21
+- **Activity**: dormant
+- **Build result**: not-attempted
+- **Discovered via**: electronics-2026
+- **Notes**: Formerly hosted under the Veri-Q organization.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

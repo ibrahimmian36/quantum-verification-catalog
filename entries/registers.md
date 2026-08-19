@@ -4,18 +4,20 @@
 
 A generic theory of registers (mutable parts of program state) instantiated for classical and quantum settings, with register composition and an analysis of quantum teleportation.
 
-- **repo url**: <https://www.isa-afp.org/entries/Registers.html>
-- **system**: Isabelle/HOL
-- **role**: library
-- **verifies**: program semantics
-- **paper**: Quantum and classical registers, arXiv:2105.10914
-- **authors**: Dominique Unruh
-- **licence**: BSD (stated on AFP entry page, read 2026-08-18)
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: active
-- **builds**: not-attempted
-- **source**: afp; quantumpl-bib
-- **notes**: AFP entry (submitted 2021-10-28); development repository at github.com/dominique-unruh/registers.
+- **Repository**: [https://www.isa-afp.org/entries/Registers.html](https://www.isa-afp.org/entries/Registers.html)
+- **Proof system**: Isabelle/HOL
+- **Role**: library
+- **Verifies**: program semantics
+- **Paper**: Quantum and classical registers, [arXiv:2105.10914](https://arxiv.org/abs/2105.10914)
+- **Authors**: Dominique Unruh
+- **Licence**: BSD (stated on AFP entry page, read 2026-08-18)
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: afp; quantumpl-bib
+- **Notes**: AFP entry (submitted 2021-10-28); development repository at github.com/dominique-unruh/registers.
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

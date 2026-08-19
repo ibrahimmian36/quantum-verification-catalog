@@ -4,18 +4,19 @@
 
 A BDD-based quantum circuit equivalence checker supporting full and partial equivalence checking over OpenQASM input.
 
-- **repo url**: <https://github.com/NTU-ALComLab/SliQEC>
-- **system**: other (BDDs)
-- **role**: model-checker
-- **verifies**: circuits
-- **paper**: SliQEC (DAC 2022)
-- **authors**: NTU ALCom Lab
-- **licence**: no LICENSE file found (checked 2026-08-18)
-- **stars**: 15
-- **last commit**: 2026-06-29
-- **status**: active
-- **builds**: not-attempted
-- **source**: github-search; 2110.01320
-- **notes**: unknown
+- **Repository**: [https://github.com/NTU-ALComLab/SliQEC](https://github.com/NTU-ALComLab/SliQEC)
+- **Proof system**: other (BDDs)
+- **Role**: model-checker
+- **Verifies**: circuits
+- **Paper**: SliQEC (DAC 2022)
+- **Authors**: NTU ALCom Lab
+- **Licence**: no LICENSE file found (checked 2026-08-18)
+- **Stars**: 15
+- **Last commit**: 2026-06-29
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: github-search; 2110.01320
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

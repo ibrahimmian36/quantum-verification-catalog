@@ -4,18 +4,20 @@
 
 Coq formalizations of metatheory for the vectorial and algebraic-linear lambda-calculi, quantum-motivated calculi in the Arrighi-Diaz-Caro-Valiron line.
 
-- **repo url**: <https://www.monoidal.net/research.html>
-- **system**: Coq/Rocq
-- **role**: verifier
-- **verifies**: program semantics, mathematics
-- **paper**: System F accepting the vectorial lambda-calculus line (Arrighi, Diaz-Caro, Valiron)
-- **authors**: Pablo Arrighi, Alejandro Diaz-Caro, Benoit Valiron
-- **licence**: unknown
-- **stars**: unknown
-- **last commit**: unknown
-- **status**: unknown
-- **builds**: not-attempted
-- **source**: non-github sweep 2026-08-18
-- **notes**: Hosted as tarballs on the author's page (vectorial-lvec-coqproof.tar.bz2, vectorial-alglin-coqproof.tgz).
+- **Repository**: [https://www.monoidal.net/research.html](https://www.monoidal.net/research.html)
+- **Proof system**: Coq/Rocq
+- **Role**: verifier
+- **Verifies**: program semantics, mathematics
+- **Paper**: System F accepting the vectorial lambda-calculus line (Arrighi, Diaz-Caro, Valiron)
+- **Authors**: Pablo Arrighi, Alejandro Diaz-Caro, Benoit Valiron
+- **Licence**: unknown
+- **Stars**: unknown
+- **Last commit**: unknown
+- **Activity**: unknown
+- **Build result**: not-attempted
+- **Discovered via**: non-github sweep 2026-08-18
+- **Notes**: Hosted as tarballs on the author's page (vectorial-lvec-coqproof.tar.bz2, vectorial-alglin-coqproof.tgz).
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

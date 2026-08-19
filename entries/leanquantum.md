@@ -4,18 +4,19 @@
 
 A quantum computing library in Lean 4 from the inQWIRE group.
 
-- **repo url**: <https://github.com/inQWIRE/LeanQuantum>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: mathematics, circuits
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 18
-- **last commit**: 2026-07-14
-- **status**: active
-- **builds**: not-attempted
-- **source**: seed-list; github-org-sweep
-- **notes**: unknown
+- **Repository**: [https://github.com/inQWIRE/LeanQuantum](https://github.com/inQWIRE/LeanQuantum)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: mathematics, circuits
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 18
+- **Last commit**: 2026-07-14
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: seed-list; github-org-sweep
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)

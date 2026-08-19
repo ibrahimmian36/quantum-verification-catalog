@@ -4,18 +4,19 @@
 
 A work-in-progress Lean 4 port of the Verified Quantum Computing course material.
 
-- **repo url**: <https://github.com/Maokami/vqc_in_lean>
-- **system**: Lean 4
-- **role**: library
-- **verifies**: program semantics
-- **paper**: unknown
-- **authors**: unknown
-- **licence**: MIT (LICENSE file read 2026-08-18)
-- **stars**: 6
-- **last commit**: 2026-02-16
-- **status**: active
-- **builds**: not-attempted
-- **source**: completeness-review 2026-08-18
-- **notes**: unknown
+- **Repository**: [https://github.com/Maokami/vqc_in_lean](https://github.com/Maokami/vqc_in_lean)
+- **Proof system**: Lean 4
+- **Role**: library
+- **Verifies**: program semantics
+- **Paper**: unknown
+- **Authors**: unknown
+- **Licence**: MIT (LICENSE file read 2026-08-18)
+- **Stars**: 6
+- **Last commit**: 2026-02-16
+- **Activity**: active
+- **Build result**: not-attempted
+- **Discovered via**: completeness-review 2026-08-18
 
-[Back to catalog](../README.md)
+Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
+
+[Back to the catalog](../README.md)
