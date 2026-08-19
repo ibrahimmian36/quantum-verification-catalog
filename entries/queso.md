@@ -9,7 +9,7 @@ A tool that synthesizes quantum-circuit optimizers whose rewrite rules are autom
 - **Role**: compiler
 - **Verifies**: compiler passes
 - **Paper**: Synthesizing Quantum-Circuit Optimizers, PLDI 2023, [arXiv:2211.09691](https://arxiv.org/abs/2211.09691); artifact Zenodo 7809285
-- **Authors**: unknown
+- **Authors**: Amanda Xu, Abtin Molavi, Lauren Pick, Swamit Tannu, Aws Albarghouthi
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 10
 - **Last commit**: 2025-01-30

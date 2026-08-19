@@ -9,7 +9,7 @@ A Coq formalization of a Hoare logic for local reasoning about classical-quantum
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: Local Reasoning about Probabilistic Behaviour for Classical-Quantum Programs, [arXiv:2308.04741](https://arxiv.org/abs/2308.04741)
-- **Authors**: unknown
+- **Authors**: Huiling Wu, Yuxin Deng, Ming Xu
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 1
 - **Last commit**: 2026-08-01

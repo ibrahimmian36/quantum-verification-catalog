@@ -9,7 +9,7 @@ A decision procedure for equational proofs in Dirac notation, with the soundness
 - **Role**: verifier
 - **Verifies**: mathematics
 - **Paper**: Automating Equational Proofs in Dirac Notation, POPL 2025, [arXiv:2411.11617](https://arxiv.org/abs/2411.11617)
-- **Authors**: unknown
+- **Authors**: Yingte Xu, Gilles Barthe, Li Zhou
 - **Licence**: unknown
 - **Stars**: unknown
 - **Last commit**: unknown

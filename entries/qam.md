@@ -9,7 +9,7 @@ A Coq development of a Quantum Abstract Machine.
 - **Role**: library
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Liyi Li
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 1
 - **Last commit**: 2023-05-11

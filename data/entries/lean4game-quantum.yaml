@@ -8,7 +8,7 @@ verifies:
 description: An educational Lean 4 game whose levels formalize superposition, measurement probabilities,
   and mutually unbiased bases, culminating in a verified idealized model of the BB84 protocol.
 paper: unknown
-authors: unknown
+authors: iulian-birlica (GitHub)
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 0
 last_commit: '2026-08-07'

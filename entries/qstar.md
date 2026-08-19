@@ -9,7 +9,7 @@ A prototype for verifying Q# programs in F*.
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Kesha Hietala, Sarah Marshall, Robert Rand, Nikhil Swamy
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 7
 - **Last commit**: 2022-09-15

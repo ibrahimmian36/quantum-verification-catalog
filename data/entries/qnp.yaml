@@ -7,7 +7,7 @@ verifies:
 description: 'Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning related to
   the Qafny line of work.'
 paper: unknown
-authors: unknown
+authors: Liyi Li, Le Chang, Mingwei Zhu, Saitej Yavvari, Yi Lee
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 3
 last_commit: '2025-04-22'

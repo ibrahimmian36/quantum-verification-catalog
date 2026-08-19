@@ -9,7 +9,7 @@ Machine-verified Lean 4 / Mathlib formalizations in quantum optimization.
 - **Role**: library
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Uri Kol, Maor Ben-Shahar, Kfir Sulimany, Dirk Englund
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **Stars**: 8
 - **Last commit**: 2026-06-29

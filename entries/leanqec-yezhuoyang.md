@@ -9,7 +9,7 @@ A Lean development proving properties of quantum error correction codes.
 - **Role**: verifier
 - **Verifies**: error correction
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: John Zhuoyang Ye
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 1
 - **Last commit**: 2026-07-04

@@ -8,7 +8,7 @@ description: A parallel decision-diagram package for quantum computing with buil
   checking alongside simulation.
 paper: 'Q-Sylvan: A Parallel Decision Diagram Package for Quantum Computing, ATVA 2025, DOI 10.1007/978-3-032-08707-2_12,
   arXiv:2508.00514'
-authors: unknown
+authors: Sebastiaan Brand, Alfons Laarman
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 2
 last_commit: '2025-12-23'

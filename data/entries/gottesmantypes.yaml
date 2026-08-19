@@ -6,7 +6,7 @@ verifies:
 - program semantics
 description: A Coq development of Gottesman/Heisenberg-representation types for stabilizer quantum programs.
 paper: unknown
-authors: unknown
+authors: Robert Rand, Kartik Singhal
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 2
 last_commit: '2020-09-11'

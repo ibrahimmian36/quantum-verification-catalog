@@ -9,7 +9,7 @@ A tool for robustness verification of quantum machine learning models, checking 
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models, [arXiv:2407.13533](https://arxiv.org/abs/2407.13533)
-- **Authors**: unknown
+- **Authors**: Yanling Lin, Ji Guan, Wang Fang, Mingsheng Ying, Zhaofeng Su
 - **Licence**: GPL-3.0 (LICENSE file read 2026-08-18)
 - **Stars**: 4
 - **Last commit**: 2024-06-21

@@ -6,7 +6,7 @@ verifies:
 - program semantics
 description: An implementation of a Hoare-logic verification system for quantum programs embedded in Coq.
 paper: unknown
-authors: unknown
+authors: Craig Fiedorek
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 1
 last_commit: '2020-09-13'

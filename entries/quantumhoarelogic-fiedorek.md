@@ -9,7 +9,7 @@ An implementation of a Hoare-logic verification system for quantum programs embe
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Craig Fiedorek
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 1
 - **Last commit**: 2020-09-13

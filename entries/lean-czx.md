@@ -9,7 +9,7 @@ A Lean 4 formalization of the completeness of the ZX-calculus for finite-dimensi
 - **Role**: verifier
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Mithilesh Kumar
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2026-07-19

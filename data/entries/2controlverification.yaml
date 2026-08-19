@@ -7,7 +7,7 @@ verifies:
 - mathematics
 description: A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates with Two Controls'.
 paper: unknown
-authors: unknown
+authors: Neil Vaishampayan, Kyle Chui, Arsh Malik, Jens Palsberg
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 4
 last_commit: '2025-04-05'
@@ -18,4 +18,5 @@ toolchain: coq The Coq Proof Assistant, version 8.19.2
 source: github-search
 automated: false
 notes: null
-build_note: build failed, see log
+build_note: a proof step in Helpers/AlgebraHelpers.v (line 717) fails under Coq 8.19.2 with QuantumLib
+  1.8.0; the repository does not declare a required toolchain version

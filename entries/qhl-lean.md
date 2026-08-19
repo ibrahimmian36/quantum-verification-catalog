@@ -9,7 +9,7 @@ A quantum Hoare logic and quantum program verification tool in Lean 4.
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Alex Greig, Hang Li, Trung Nghia Le, Imasha Fernando
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **Stars**: 2
 - **Last commit**: 2025-08-17

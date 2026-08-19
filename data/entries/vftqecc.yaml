@@ -6,7 +6,8 @@ verifies:
 - error correction
 description: A Julia tool for verifying fault tolerance of quantum error correction codes.
 paper: unknown
-authors: unknown
+authors: Kean Chen, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic,
+  Gushu Li
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 7
 last_commit: '2025-05-24'

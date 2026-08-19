@@ -9,7 +9,7 @@ A Lean 4 formalization over Mathlib of Hilbert-space foundations for quantum com
 - **Role**: library
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Jam Kabeer Ali Khan, Iván Renison
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2026-04-14

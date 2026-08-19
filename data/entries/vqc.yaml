@@ -18,4 +18,6 @@ build_date: null
 toolchain: null
 source: completeness-review 2026-08-18
 automated: false
-notes: Distributed as a tarball (vqc.tgz) from the author's page rather than a repository.
+notes: Distributed as a tarball (vqc.tgz) from the author's page rather than a repository. Page verified
+  reachable 2026-08-18; the host responds intermittently, so the canonical link is worth confirming with
+  the author.

@@ -9,7 +9,7 @@ A Julia tool for verifying fault tolerance of quantum error correction codes.
 - **Role**: verifier
 - **Verifies**: error correction
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Kean Chen, Yuhao Liu, Wang Fang, Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz, Steve Zdancewic, Gushu Li
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 7
 - **Last commit**: 2025-05-24

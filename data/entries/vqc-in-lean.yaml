@@ -6,7 +6,7 @@ verifies:
 - program semantics
 description: A work-in-progress Lean 4 port of the Verified Quantum Computing course material.
 paper: unknown
-authors: unknown
+authors: Jaeho Choi
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 6
 last_commit: '2026-02-16'

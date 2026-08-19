@@ -9,7 +9,7 @@ An assistant tool for formal verification of partial correctness of nondetermini
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: Verification of Nondeterministic Quantum Programs, ASPLOS 2023, [DOI 10.1145/3582016.3582039](https://doi.org/10.1145/3582016.3582039), [arXiv:2302.07973](https://arxiv.org/abs/2302.07973)
-- **Authors**: unknown
+- **Authors**: Yuan Feng, Yingte Xu
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **Stars**: 5
 - **Last commit**: 2023-01-28

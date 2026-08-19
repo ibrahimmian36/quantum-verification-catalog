@@ -9,7 +9,7 @@ An educational Lean 4 game whose levels formalize superposition, measurement pro
 - **Role**: library
 - **Verifies**: mathematics, protocols
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: iulian-birlica (GitHub)
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2026-08-07

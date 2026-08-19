@@ -7,7 +7,7 @@ verifies:
 description: 'An early-stage Lean 4 formalization of categorical quantum mechanics: dagger categories
   with projections, isometries, and unitaries, and standard gates proved unitary.'
 paper: unknown
-authors: unknown
+authors: Bingyu Xia
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 0
 last_commit: '2026-08-04'

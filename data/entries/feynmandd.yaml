@@ -8,7 +8,7 @@ description: A quantum circuit analysis tool using classical decision diagrams o
   formulation, supporting equivalence checking and simulation.
 paper: 'FeynmanDD: Quantum Circuit Analysis with Classical Decision Diagrams, CAV 2025, DOI 10.1007/978-3-031-98685-7_2,
   arXiv:2509.08276'
-authors: unknown
+authors: Ziyuan Wang, Bin Cheng, Longxiang Yuan, Zhengfeng Ji
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 5
 last_commit: '2025-07-23'

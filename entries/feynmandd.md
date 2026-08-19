@@ -9,7 +9,7 @@ A quantum circuit analysis tool using classical decision diagrams over the path-
 - **Role**: model-checker
 - **Verifies**: circuits
 - **Paper**: FeynmanDD: Quantum Circuit Analysis with Classical Decision Diagrams, CAV 2025, [DOI 10.1007/978-3-031-98685-7_2](https://doi.org/10.1007/978-3-031-98685-7_2), [arXiv:2509.08276](https://arxiv.org/abs/2509.08276)
-- **Authors**: unknown
+- **Authors**: Ziyuan Wang, Bin Cheng, Longxiang Yuan, Zhengfeng Ji
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 5
 - **Last commit**: 2025-07-23

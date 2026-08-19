@@ -8,7 +8,7 @@ verifies:
 description: A Lean 4 formalization toward categorical quantum protocols (teleportation), after Abramsky
   and Coecke 2004.
 paper: unknown
-authors: unknown
+authors: James Squires
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 2
 last_commit: '2026-07-19'

@@ -9,7 +9,7 @@ A Coq formalization of a simple quantum imperative language with a Hoare-style l
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Wenjun Shi, Qinxiang Cao, Yuxin Deng, Hanru Jiang, Yuan Feng
 - **Licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
 - **Stars**: 2
 - **Last commit**: 2021-05-06

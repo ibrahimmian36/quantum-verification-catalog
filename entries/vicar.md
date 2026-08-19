@@ -9,7 +9,7 @@ A Coq library for category theory used as categorical infrastructure by VyZX.
 - **Role**: library
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Bhakti Shah, William Spencer, Laura Zielinski, Ben Caldwell, Adrian Lehmann, Robert Rand
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 7
 - **Last commit**: 2024-10-09

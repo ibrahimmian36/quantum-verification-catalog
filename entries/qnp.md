@@ -9,7 +9,7 @@ Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning re
 - **Role**: library
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Liyi Li, Le Chang, Mingwei Zhu, Saitej Yavvari, Yi Lee
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 3
 - **Last commit**: 2025-04-22

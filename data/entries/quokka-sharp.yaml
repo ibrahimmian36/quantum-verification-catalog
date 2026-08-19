@@ -8,7 +8,7 @@ description: 'An equivalence checker and simulator for universal quantum circuit
   to weighted model counting solved with #SAT solvers.'
 paper: 'Equivalence Checking of Quantum Circuits by Model Counting, IJCAR 2024, DOI 10.1007/978-3-031-63501-4_21,
   arXiv:2403.18813; Quokka#: Quantum Computing with #SAT, CAV 2026, DOI 10.1007/978-3-032-32537-2_19'
-authors: unknown
+authors: Jingyi Mei, Tim Coopmans, Marcello Bonsangue, Alfons Laarman
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 11
 last_commit: '2026-07-26'

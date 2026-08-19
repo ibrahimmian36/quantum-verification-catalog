@@ -6,7 +6,7 @@ verifies:
 - mathematics
 description: Machine-verified Lean 4 / Mathlib formalizations in quantum optimization.
 paper: unknown
-authors: unknown
+authors: Uri Kol, Maor Ben-Shahar, Kfir Sulimany, Dirk Englund
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 8
 last_commit: '2026-06-29'

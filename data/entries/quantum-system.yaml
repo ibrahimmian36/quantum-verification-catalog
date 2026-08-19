@@ -8,7 +8,7 @@ description: A Lean 4 formalization of operator-algebraic quantum theory, includ
   the Gelfand-Naimark theorem, the bicommutant theorem, and von Neumann entropy results including strong
   subadditivity.
 paper: unknown
-authors: unknown
+authors: Keisuke Suzuki
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 0
 last_commit: '2026-08-17'

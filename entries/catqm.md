@@ -9,7 +9,7 @@ A Coq formalization of categorical quantum mechanics in the style of Abramsky an
 - **Role**: library
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Tito Sacchi
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2021-06-29

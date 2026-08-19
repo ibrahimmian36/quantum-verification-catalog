@@ -9,7 +9,7 @@ A Coq-certified language for quantum state preparation, extending the OQASM/VQO 
 - **Role**: language
 - **Verifies**: program semantics
 - **Paper**: Validating Quantum State Preparation Programs, [arXiv:2501.05616](https://arxiv.org/abs/2501.05616), [DOI 10.1007/978-3-032-22720-1_16](https://doi.org/10.1007/978-3-032-22720-1_16)
-- **Authors**: unknown
+- **Authors**: Liyi Li, Anshu Sharma, Zoukarneini Difaizi Tagba, Sean Frett, Alex Potanin
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 2
 - **Last commit**: 2026-06-06

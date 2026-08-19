@@ -8,7 +8,7 @@ verifies:
 description: A Lean 4 formalization of structural properties of weight-conditional logical error rates
   for stabilizer codes under perfect matching decoding.
 paper: unknown
-authors: unknown
+authors: John Zhuoyang Ye
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 0
 last_commit: '2026-04-13'

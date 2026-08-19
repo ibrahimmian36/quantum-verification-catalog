@@ -7,7 +7,8 @@ verifies:
 description: A quantum circuit superoptimizer that automatically generates and formally verifies circuit
   transformations with an SMT solver.
 paper: 'Quartz: Superoptimization of Quantum Circuits, PLDI 2022, DOI 10.1145/3519939.3523433'
-authors: unknown
+authors: Mingkuan Xu, Zikun Li, Oded Padon, Sina Lin, Jessica Pointing, Auguste Hirth, Henry Ma, Jens
+  Palsberg, Alex Aiken, Umut A. Acar, Zhihao Jia
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 92
 last_commit: '2026-06-09'

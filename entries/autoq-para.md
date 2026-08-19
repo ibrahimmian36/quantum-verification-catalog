@@ -9,7 +9,7 @@ A verifier for parameterized quantum circuits using synchronized weighted tree a
 - **Role**: model-checker
 - **Verifies**: circuits
 - **Paper**: Parameterized Verification of Quantum Circuits, POPL 2026, [DOI 10.1145/3776712](https://doi.org/10.1145/3776712), [arXiv:2511.19897](https://arxiv.org/abs/2511.19897)
-- **Authors**: unknown
+- **Authors**: Parosh Aziz Abdulla, Yu-Fang Chen, Michal Hecko, Lukas Holik, Ondrej Lengal, Jyun-Ao Lin, Ramanathan S. Thinniyam
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2026-02-23

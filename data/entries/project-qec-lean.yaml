@@ -8,7 +8,7 @@ verifies:
 description: A formal verification of the CSS code-chain complex correspondence over F2, in Lean 4 with
   Mathlib.
 paper: unknown
-authors: unknown
+authors: Ruiz Chen
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 1
 last_commit: '2026-02-12'

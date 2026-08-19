@@ -7,7 +7,7 @@ verifies:
 description: A decision procedure for equational proofs in Dirac notation, with the soundness of its rewrite
   system mechanized in CoqQ.
 paper: Automating Equational Proofs in Dirac Notation, POPL 2025, arXiv:2411.11617
-authors: unknown
+authors: Yingte Xu, Gilles Barthe, Li Zhou
 licence: unknown
 stars: null
 last_commit: unknown

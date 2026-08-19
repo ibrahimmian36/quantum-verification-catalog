@@ -9,7 +9,7 @@ A small tensor library for working with diagrammatic calculi within Rocq.
 - **Role**: library
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: William Spencer, Ben Caldwell
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 3
 - **Last commit**: 2026-08-14

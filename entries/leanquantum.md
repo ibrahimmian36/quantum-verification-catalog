@@ -9,7 +9,7 @@ A quantum computing library in Lean 4 from the inQWIRE group.
 - **Role**: library
 - **Verifies**: mathematics, circuits
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Fady Adal, Scott Wesley, Robert Rand
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 18
 - **Last commit**: 2026-07-14

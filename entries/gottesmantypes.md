@@ -9,7 +9,7 @@ A Coq development of Gottesman/Heisenberg-representation types for stabilizer qu
 - **Role**: library
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Robert Rand, Kartik Singhal
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 2
 - **Last commit**: 2020-09-11

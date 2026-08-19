@@ -7,7 +7,7 @@ verifies:
 description: A Lean 4 formalization of a three-qubit quantum computer with a QWhile-style language and
   Hoare logic, including a verified Hoare triple for the Deutsch-Jozsa algorithm.
 paper: unknown
-authors: unknown
+authors: Ilia Balandin
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 0
 last_commit: '2025-07-29'

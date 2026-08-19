@@ -9,7 +9,7 @@ A Lean 4 formalization of structural properties of weight-conditional logical er
 - **Role**: verifier
 - **Verifies**: error correction, mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: John Zhuoyang Ye
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2026-04-13

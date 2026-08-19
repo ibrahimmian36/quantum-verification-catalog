@@ -7,7 +7,7 @@ verifies:
 description: A tool that synthesizes quantum-circuit optimizers whose rewrite rules are automatically
   verified via polynomial-identity-testing equivalence, per gate set.
 paper: Synthesizing Quantum-Circuit Optimizers, PLDI 2023, arXiv:2211.09691; artifact Zenodo 7809285
-authors: unknown
+authors: Amanda Xu, Abtin Molavi, Lauren Pick, Swamit Tannu, Aws Albarghouthi
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 10
 last_commit: '2025-01-30'

@@ -9,7 +9,7 @@ Formalized quantum algorithms in Lean 4, including Deutsch-Jozsa, Bernstein-Vazi
 - **Role**: verifier
 - **Verifies**: circuits
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Zhenyu Zeng
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 2
 - **Last commit**: 2026-07-19

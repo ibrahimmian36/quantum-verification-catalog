@@ -7,7 +7,7 @@ verifies:
 description: 'A Lean 4 formalization over Mathlib of Hilbert-space foundations for quantum computing:
   qubit states, standard gates, density operators, tensor products, and partial trace.'
 paper: unknown
-authors: unknown
+authors: Jam Kabeer Ali Khan, Iván Renison
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 0
 last_commit: '2026-04-14'

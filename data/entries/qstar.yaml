@@ -6,7 +6,7 @@ verifies:
 - program semantics
 description: A prototype for verifying Q# programs in F*.
 paper: unknown
-authors: unknown
+authors: Kesha Hietala, Sarah Marshall, Robert Rand, Nikhil Swamy
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 7
 last_commit: '2022-09-15'

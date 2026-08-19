@@ -7,7 +7,7 @@ verifies:
 description: A Lean 4 formalization of the completeness of the ZX-calculus for finite-dimensional Hilbert
   spaces.
 paper: unknown
-authors: unknown
+authors: Mithilesh Kumar
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 0
 last_commit: '2026-07-19'

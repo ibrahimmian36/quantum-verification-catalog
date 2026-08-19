@@ -9,7 +9,7 @@ A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates w
 - **Role**: verifier
 - **Verifies**: circuits, mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Neil Vaishampayan, Kyle Chui, Arsh Malik, Jens Palsberg
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 4
 - **Last commit**: 2025-04-05
@@ -17,7 +17,7 @@ A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates w
 - **Build result**: no
 - **Build attempted**: 2026-08-18
 - **Toolchain**: coq The Coq Proof Assistant, version 8.19.2
-- **Build note**: build failed, see log
+- **Build note**: a proof step in Helpers/AlgebraHelpers.v (line 717) fails under Coq 8.19.2 with QuantumLib 1.8.0; the repository does not declare a required toolchain version
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

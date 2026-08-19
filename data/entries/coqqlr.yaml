@@ -7,7 +7,7 @@ verifies:
 description: A Coq formalization of a Hoare logic for local reasoning about classical-quantum programs,
   with verified examples including Shor's algorithm, HHL, and order finding.
 paper: Local Reasoning about Probabilistic Behaviour for Classical-Quantum Programs, arXiv:2308.04741
-authors: unknown
+authors: Huiling Wu, Yuxin Deng, Ming Xu
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 1
 last_commit: '2026-08-01'

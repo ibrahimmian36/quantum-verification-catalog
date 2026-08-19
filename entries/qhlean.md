@@ -9,7 +9,7 @@ An implementation of quantum Hoare logic with classical variables in Lean 4.
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Dan Nguyen
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2026-08-08

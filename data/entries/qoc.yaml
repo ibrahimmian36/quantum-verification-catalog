@@ -6,7 +6,7 @@ verifies:
 - program semantics
 description: A Coq development named Quantum Over Coq.
 paper: unknown
-authors: unknown
+authors: Jaap Boender, Richard Bornat, Florian Kammüller
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 1
 last_commit: '2022-02-01'

@@ -9,7 +9,7 @@ A Coq development of the basics of the Heisenberg representation of quantum comp
 - **Role**: library
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Youngchan Cho, Jake Zweifler, William Spencer, Robert Rand
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 2
 - **Last commit**: 2026-04-24

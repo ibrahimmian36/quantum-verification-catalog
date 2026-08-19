@@ -7,7 +7,8 @@ verifies:
 description: A verifier for parameterized quantum circuits using synchronized weighted tree automata,
   providing automatic relational verification and equivalence checking.
 paper: Parameterized Verification of Quantum Circuits, POPL 2026, DOI 10.1145/3776712, arXiv:2511.19897
-authors: unknown
+authors: Parosh Aziz Abdulla, Yu-Fang Chen, Michal Hecko, Lukas Holik, Ondrej Lengal, Jyun-Ao Lin, Ramanathan
+  S. Thinniyam
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 0
 last_commit: '2026-02-23'

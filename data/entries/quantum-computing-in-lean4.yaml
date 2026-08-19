@@ -7,7 +7,7 @@ verifies:
 description: Formalized quantum algorithms in Lean 4, including Deutsch-Jozsa, Bernstein-Vazirani, Simon,
   and Grover.
 paper: unknown
-authors: unknown
+authors: Zhenyu Zeng
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 2
 last_commit: '2026-07-19'

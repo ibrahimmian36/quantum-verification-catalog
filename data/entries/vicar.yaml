@@ -6,7 +6,7 @@ verifies:
 - mathematics
 description: A Coq library for category theory used as categorical infrastructure by VyZX.
 paper: unknown
-authors: unknown
+authors: Bhakti Shah, William Spencer, Laura Zielinski, Ben Caldwell, Adrian Lehmann, Robert Rand
 licence: no LICENSE file found (checked 2026-08-18)
 stars: 7
 last_commit: '2024-10-09'

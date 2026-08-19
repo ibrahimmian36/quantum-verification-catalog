@@ -9,7 +9,7 @@ A Coq development named Quantum Over Coq.
 - **Role**: library
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Jaap Boender, Richard Bornat, Florian Kammüller
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 1
 - **Last commit**: 2022-02-01

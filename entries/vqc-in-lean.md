@@ -9,7 +9,7 @@ A work-in-progress Lean 4 port of the Verified Quantum Computing course material
 - **Role**: library
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Jaeho Choi
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 6
 - **Last commit**: 2026-02-16

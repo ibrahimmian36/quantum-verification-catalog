@@ -9,7 +9,7 @@ An early-stage Lean 4 formalization of categorical quantum mechanics: dagger cat
 - **Role**: library
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Bingyu Xia
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2026-08-04

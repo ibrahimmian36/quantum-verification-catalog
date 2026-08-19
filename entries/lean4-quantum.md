@@ -9,7 +9,7 @@ An implementation of the theory of quantum computing in Lean 4.
 - **Role**: library
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: guest2180 (GitHub)
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 4
 - **Last commit**: 2025-07-08

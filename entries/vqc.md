@@ -16,7 +16,7 @@ An interactive textbook on verified quantum computing in Coq, in the style of So
 - **Activity**: unknown
 - **Build result**: not-attempted
 - **Discovered via**: completeness-review 2026-08-18
-- **Notes**: Distributed as a tarball (vqc.tgz) from the author's page rather than a repository.
+- **Notes**: Distributed as a tarball (vqc.tgz) from the author's page rather than a repository. Page verified reachable 2026-08-18; the host responds intermittently, so the canonical link is worth confirming with the author.
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
 

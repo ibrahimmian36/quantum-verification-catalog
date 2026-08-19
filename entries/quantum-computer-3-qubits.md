@@ -9,7 +9,7 @@ A Lean 4 formalization of a three-qubit quantum computer with a QWhile-style lan
 - **Role**: verifier
 - **Verifies**: program semantics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Ilia Balandin
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2025-07-29

@@ -9,7 +9,7 @@ Rocq proofs of the no-cloning theorem, a Heisenberg uncertainty relation, and ph
 - **Role**: verifier
 - **Verifies**: mathematics
 - **Paper**: unknown
-- **Authors**: unknown
+- **Authors**: Ioan Teodorescu
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 0
 - **Last commit**: 2026-07-23
