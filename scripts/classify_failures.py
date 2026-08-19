@@ -34,6 +34,11 @@ SIGNALS = [
      "a declared dependency was not available in this environment"),
     (r"error: externally-managed-environment|No matching distribution found",
      "dependency installation was blocked in this environment"),
+    (r"failed to fetch GitHub release|external command 'tar' exited|"
+     r"curl: \(\d+\)|Could not resolve host|Connection timed out",
+     "a dependency download failed from this machine"),
+    (r"unknown short option|unknown long option|unexpected argument",
+     "the build invocation used an option this toolchain does not accept"),
 ]
 
 changed = 0

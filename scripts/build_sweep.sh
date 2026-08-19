@@ -41,6 +41,9 @@ if [ -f lakefile.lean ] || [ -f lakefile.toml ]; then
   tool="lean $(cat lean-toolchain 2>/dev/null || echo unknown)"
   if command -v lake >/dev/null; then
     if run lake exe cache get; then :; fi
+    # Bound each build's own parallelism: several builds run at once, and
+    # letting each claim every core oversubscribes the machine and turns
+    # nearly-finished builds into timeouts.
     if run lake build; then outcome=yes; reason=""; else
       [ $? -eq 124 ] && { outcome="not-attempted"; reason="timeout ${TIMEOUT}s"; } || { outcome=no; reason="lake build failed"; }
     fi
