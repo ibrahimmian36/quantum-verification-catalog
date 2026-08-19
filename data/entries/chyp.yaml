@@ -12,9 +12,10 @@ licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 129
 last_commit: '2026-05-25'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-18'
+toolchain: pip 25.2
 source: completeness-review 2026-08-18
 automated: false
 notes: Companion prover to the Picturing Quantum Software line; successor in spirit to Quantomatic.
+build_note: pip install of the package succeeded

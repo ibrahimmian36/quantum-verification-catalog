@@ -15,9 +15,10 @@ licence: LGPL-2.1 (LICENSE file read 2026-08-18)
 stars: 9
 last_commit: '2026-05-14'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'no'
+build_date: '2026-08-19'
+toolchain: make
 source: seed-list; ESOP; 2109.06493; 2110.01320; quantumpl-bib
 automated: true
 notes: Interactive Why3 development with SMT automation; project site qbricks.github.io shares the repository.
+build_note: make failed

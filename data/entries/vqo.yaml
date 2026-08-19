@@ -14,8 +14,9 @@ stars: 4
 last_commit: '2023-09-22'
 status: dormant
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.20.1
 source: seed-list; OOPSLA; quantumpl-bib
 automated: false
 notes: Includes oracles used in Shor's and Grover's algorithms; joint inQWIRE/UMD project.
+build_note: appears to target a different prover version than the one used here

@@ -13,9 +13,10 @@ stars: 141
 last_commit: '2026-07-09'
 status: active
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-19'
+toolchain: lean leanprover/lean4:v4.28.0
 source: github-search
 automated: false
 notes: Merged into github.com/leanprover-community/physlib in March 2026; this repository remains the
   development home referenced by the community.
+build_note: a dependency download failed from this machine

@@ -12,9 +12,10 @@ licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 5
 last_commit: '2023-01-28'
 status: archived
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-18'
+toolchain: pip 25.2
 source: venue sweep 2026-08-18
 automated: true
 notes: null
+build_note: pip install of the package succeeded

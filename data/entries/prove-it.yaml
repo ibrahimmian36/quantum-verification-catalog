@@ -13,9 +13,10 @@ licence: nonstandard licence in license.txt (read 2026-08-18; see file)
 stars: 37
 last_commit: '2026-08-14'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-19'
+toolchain: pip 25.2
 source: seed-list; github-search
 automated: true
 notes: null
+build_note: dependencies installed and package importable

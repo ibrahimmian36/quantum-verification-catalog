@@ -12,8 +12,9 @@ stars: 0
 last_commit: '2024-12-09'
 status: dormant
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-19'
+toolchain: isabelle unknown
 source: github-search
 automated: false
 notes: The repository name contains the typo 'Quatum'.
+build_note: the Isabelle distribution could not be downloaded from this machine on 2026-08-19

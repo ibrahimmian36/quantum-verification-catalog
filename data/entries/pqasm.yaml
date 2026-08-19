@@ -13,8 +13,9 @@ stars: 2
 last_commit: '2026-06-06'
 status: active
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.19.2
 source: venue sweep 2026-08-18; contents inspected (125 Coq files)
 automated: false
 notes: null
+build_note: appears to target a different prover version than the one used here

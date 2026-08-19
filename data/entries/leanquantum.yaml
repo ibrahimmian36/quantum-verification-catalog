@@ -12,9 +12,9 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 18
 last_commit: '2026-07-14'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-19'
+toolchain: lean leanprover/lean4:v4.30.0-rc2
 source: seed-list; github-org-sweep
 automated: false
 notes: null

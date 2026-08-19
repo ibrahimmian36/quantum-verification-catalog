@@ -14,8 +14,9 @@ stars: 30
 last_commit: '2024-12-29'
 status: dormant
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.19.2 via opam
 source: seed-list; POPL; 2110.01320; quantumpl-bib
 automated: false
 notes: Serves as the base of Veri-QEC.
+build_note: declared dependencies could not be resolved in this environment

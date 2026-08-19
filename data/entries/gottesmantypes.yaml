@@ -11,9 +11,9 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 2
 last_commit: '2020-09-11'
 status: dormant
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.19.2
 source: github-org-sweep
 automated: false
 notes: Compare Gottesman Types for Quantum Programs (DOI 10.4204/EPTCS.340.14); the paper-to-repo correspondence

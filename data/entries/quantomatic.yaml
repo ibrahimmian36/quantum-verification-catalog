@@ -13,8 +13,9 @@ stars: 175
 last_commit: '2026-03-13'
 status: archived
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: '2109.06493'
 automated: false
 notes: Repository archived; the ZX-calculus tooling lineage continues in PyZX.
+build_note: no recognized build system

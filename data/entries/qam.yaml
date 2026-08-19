@@ -12,8 +12,9 @@ stars: 1
 last_commit: '2023-05-11'
 status: dormant
 builds: not-attempted
-build_date: null
+build_date: '2026-08-18'
 toolchain: null
 source: github-org-sweep
 automated: false
 notes: null
+build_note: no recognized build system

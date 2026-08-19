@@ -11,9 +11,10 @@ licence: no LICENSE file found (checked 2026-08-18)
 stars: 7
 last_commit: '2024-10-09'
 status: dormant
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-18'
+toolchain: coq  via opam
 source: seed-list; github-org-sweep
 automated: false
 notes: Not quantum-specific by itself; included as substrate of the VyZX development.
+build_note: built and installed via the project's own opam package

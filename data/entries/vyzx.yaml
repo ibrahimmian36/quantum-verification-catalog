@@ -14,9 +14,10 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 21
 last_commit: '2026-01-16'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.20.1 via opam
 source: seed-list; QPL; github-org-sweep
 automated: false
 notes: Depends on QuantumLib; a VS Code visualizer lives at github.com/inQWIRE/ViZX.
+build_note: built and installed via the project's own opam package

@@ -13,8 +13,9 @@ stars: 10
 last_commit: '2025-01-30'
 status: archived
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: completeness-review 2026-08-18
 automated: true
 notes: null
+build_note: no recognized build system

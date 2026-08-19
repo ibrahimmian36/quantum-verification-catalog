@@ -14,9 +14,10 @@ licence: BSD-2-Clause (LICENSE file read 2026-08-18)
 stars: 5
 last_commit: '2026-02-02'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-19'
+toolchain: pip 25.2
 source: seed-list; ECOOP; electronics-2026
 automated: true
 notes: An earlier Haskell frontend exists at github.com/mzhu-zx/qafny-hs (archived).
+build_note: dependencies installed and package importable

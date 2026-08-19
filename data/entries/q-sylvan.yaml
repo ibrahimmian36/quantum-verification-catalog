@@ -13,9 +13,10 @@ licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 2
 last_commit: '2025-12-23'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'no'
+build_date: '2026-08-19'
+toolchain: cmake cmake version 3.28.3
 source: venue sweep 2026-08-18
 automated: true
 notes: null
+build_note: cmake build failed

@@ -13,9 +13,10 @@ licence: BSD-3-Clause (LICENSE file read 2026-08-18)
 stars: 96
 last_commit: '2026-07-20'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'no'
+build_date: '2026-08-19'
+toolchain: make
 source: github-search; 2110.01320; electronics-2026; quantumpl-bib
 automated: true
 notes: null
+build_note: make failed

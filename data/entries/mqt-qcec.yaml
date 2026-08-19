@@ -13,9 +13,9 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 117
 last_commit: '2026-08-17'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-18'
+toolchain: cmake cmake version 3.28.3
 source: github-search; 2110.01320; electronics-2026
 automated: true
 notes: Part of the Munich Quantum Toolkit (formerly under the cda-tum organization).

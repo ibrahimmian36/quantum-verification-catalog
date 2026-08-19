@@ -13,8 +13,9 @@ stars: 4
 last_commit: '2024-06-21'
 status: dormant
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: electronics-2026
 automated: true
 notes: Formerly hosted under the Veri-Q organization.
+build_note: no recognized build system

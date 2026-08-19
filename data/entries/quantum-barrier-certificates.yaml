@@ -14,9 +14,10 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 2
 last_commit: '2023-06-03'
 status: dormant
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'no'
+build_date: '2026-08-19'
+toolchain: pip 25.2
 source: venue sweep 2026-08-18
 automated: true
 notes: Discrete-time follow-up at github.com/marco-lewis/discrete-quantum-bc.
+build_note: pip install failed

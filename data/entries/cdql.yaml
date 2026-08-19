@@ -13,8 +13,9 @@ stars: 5
 last_commit: '2024-01-29'
 status: dormant
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: github-search
 automated: true
 notes: null
+build_note: no recognized build system

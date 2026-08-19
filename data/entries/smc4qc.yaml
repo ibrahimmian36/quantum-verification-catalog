@@ -14,8 +14,9 @@ stars: 0
 last_commit: '2024-03-06'
 status: dormant
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: venue sweep 2026-08-18
 automated: true
 notes: null
+build_note: no recognized build system

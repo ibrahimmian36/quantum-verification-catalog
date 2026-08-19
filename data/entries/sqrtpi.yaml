@@ -13,8 +13,9 @@ stars: 8
 last_commit: '2024-10-17'
 status: dormant
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: quantumpl-bib
 automated: false
 notes: null
+build_note: no recognized build system

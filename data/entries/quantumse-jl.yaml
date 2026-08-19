@@ -12,9 +12,10 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 16
 last_commit: '2024-08-23'
 status: dormant
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'no'
+build_date: '2026-08-19'
+toolchain: julia 1.12.7
 source: quantumpl-bib; PLDI
 automated: true
 notes: null
+build_note: julia instantiate/precompile failed

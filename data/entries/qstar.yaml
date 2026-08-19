@@ -12,8 +12,9 @@ stars: 7
 last_commit: '2022-09-15'
 status: archived
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: seed-list; github-search
 automated: false
 notes: Repository archived by Microsoft (last push 2022-09-15).
+build_note: no recognized build system

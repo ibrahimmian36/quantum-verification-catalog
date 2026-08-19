@@ -13,8 +13,9 @@ stars: 5
 last_commit: '2013-05-11'
 status: dormant
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: quantumpl-bib
 automated: false
 notes: Companion Haskell implementation at github.com/alexandersgreen/qio-haskell.
+build_note: no recognized build system

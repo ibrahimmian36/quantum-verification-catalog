@@ -12,9 +12,10 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 9
 last_commit: '2021-11-10'
 status: dormant
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'no'
+build_date: '2026-08-19'
+toolchain: make
 source: quantumpl-bib; POPL
 automated: false
 notes: Also archived at Zenodo, DOI 10.5281/zenodo.5671746.
+build_note: make failed

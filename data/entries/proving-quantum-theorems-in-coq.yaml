@@ -12,9 +12,10 @@ licence: no LICENSE file found (checked 2026-08-18)
 stars: 0
 last_commit: '2026-07-23'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.19.2 via opam
 source: github-search; contents inspected 2026-08-18
 automated: false
 notes: null
+build_note: built and installed via the project's own opam package

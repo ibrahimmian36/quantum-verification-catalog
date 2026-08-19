@@ -16,8 +16,9 @@ stars: 8
 last_commit: '2022-11-26'
 status: dormant
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-18'
+toolchain: pip 25.2
 source: PLDI; quantumpl-bib; electronics-2026
 automated: true
 notes: Successor to CertiQ, which has no public repository.
+build_note: dependency installation was blocked in this environment

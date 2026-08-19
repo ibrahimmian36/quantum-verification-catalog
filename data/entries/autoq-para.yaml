@@ -13,8 +13,9 @@ stars: 0
 last_commit: '2026-02-23'
 status: active
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: venue sweep 2026-08-18
 automated: true
 notes: A separate development from AutoQ, by an overlapping group.
+build_note: no recognized build system

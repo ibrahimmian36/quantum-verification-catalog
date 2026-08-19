@@ -14,9 +14,10 @@ licence: no LICENSE file found (checked 2026-08-18)
 stars: 2
 last_commit: '2024-04-05'
 status: dormant
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'no'
+build_date: '2026-08-19'
+toolchain: stack Version 3.11.1
 source: completeness-review 2026-08-18
 automated: true
 notes: A probabilistic successor is developed at github.com/swystems/prob-bellkat.
+build_note: stack build failed

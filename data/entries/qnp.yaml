@@ -13,8 +13,9 @@ stars: 3
 last_commit: '2025-04-22'
 status: active
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.19.2
 source: seed-list; github-org-sweep
 automated: false
 notes: null
+build_note: appears to target a different prover version than the one used here

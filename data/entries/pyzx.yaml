@@ -12,9 +12,10 @@ licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 539
 last_commit: '2026-08-16'
 status: active
-builds: not-attempted
-build_date: null
-toolchain: null
+builds: 'yes'
+build_date: '2026-08-18'
+toolchain: pip 25.2
 source: 2109.06493; 2110.01320
 automated: true
 notes: null
+build_note: pip install of the package succeeded

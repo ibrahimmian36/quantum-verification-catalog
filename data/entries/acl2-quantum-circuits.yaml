@@ -13,9 +13,10 @@ stars: 440
 last_commit: '2026-08-18'
 status: active
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: proof-assistant sweep 2026-08-18
 automated: false
 notes: Lives in the ACL2 community books (books/nonstd, requires ACL2(r)); GitHub statistics shown refer
   to the whole ACL2 repository.
+build_note: clone failed

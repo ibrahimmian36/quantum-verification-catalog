@@ -12,8 +12,9 @@ stars: 1
 last_commit: '2020-09-13'
 status: dormant
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.19.2
 source: github-search
 automated: false
 notes: null
+build_note: a declared dependency was not available in this environment

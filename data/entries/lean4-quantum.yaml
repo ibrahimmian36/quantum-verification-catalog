@@ -12,8 +12,9 @@ stars: 4
 last_commit: '2025-07-08'
 status: active
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-19'
+toolchain: lean leanprover/lean4:v4.16.0
 source: github-search
 automated: false
 notes: null
+build_note: a dependency download failed from this machine

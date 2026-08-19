@@ -13,8 +13,9 @@ stars: 3
 last_commit: '2025-07-03'
 status: active
 builds: not-attempted
-build_date: null
+build_date: '2026-08-19'
 toolchain: null
 source: proof-assistant sweep 2026-08-18
 automated: false
 notes: null
+build_note: the Isabelle distribution could not be downloaded from this machine on 2026-08-19

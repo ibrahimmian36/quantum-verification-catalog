@@ -39,6 +39,16 @@ SIGNALS = [
      "a dependency download failed from this machine"),
     (r"unknown short option|unknown long option|unexpected argument",
      "the build invocation used an option this toolchain does not accept"),
+    (r"CMake Error.{0,400}?find_package|Boost not found|"
+     r"Could NOT find|No package '[^']+' found",
+     "a required library was not installed in this environment"),
+    (r"make: \S+: No such file or directory|"
+     r"(?:^|\n)\S+: command not found|/bin/sh: \d+: \S+: not found",
+     "a required build tool was not installed in this environment"),
+    (r"/Applications/|C:\\\\|/Users/[^/]+/",
+     "the repository's build files refer to a path specific to another machine"),
+    (r"invalid subtyping in definition|ERROR: LoadError: .*Julia",
+     "the language runtime version in this environment differs from the one expected"),
 ]
 
 changed = 0
@@ -49,7 +59,7 @@ for p in sorted((ROOT / "data" / "entries").glob("*.yaml")):
     log = LOGS / f"{p.stem}.log"
     if not log.exists():
         continue
-    text = log.read_text(errors="replace")
+    text = " ".join(log.read_text(errors="replace").split())
     for pattern, reason in SIGNALS:
         if re.search(pattern, text):
             print(f"{p.stem}: no -> not-attempted ({reason})")

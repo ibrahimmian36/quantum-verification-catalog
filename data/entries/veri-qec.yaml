@@ -14,8 +14,9 @@ stars: 9
 last_commit: '2025-05-30'
 status: active
 builds: not-attempted
-build_date: null
-toolchain: null
+build_date: '2026-08-18'
+toolchain: coq The Coq Proof Assistant, version 8.19.2 via opam
 source: seed-list; PLDI; quantumpl-bib
 automated: false
 notes: 'Hybrid design: interactive Coq proofs plus SMT automation.'
+build_note: declared dependencies could not be resolved in this environment
