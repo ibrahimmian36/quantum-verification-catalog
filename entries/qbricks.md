@@ -15,6 +15,7 @@ A deductive verification framework for circuit-building quantum programs in Why3
 - **Last commit**: 2026-05-14
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: a required build tool was not installed in this environment
 - **Discovered via**: seed-list; ESOP; 2109.06493; 2110.01320; quantumpl-bib
 - **Notes**: Interactive Why3 development with SMT automation; project site qbricks.github.io shares the repository.
 

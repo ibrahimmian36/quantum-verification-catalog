@@ -14,7 +14,9 @@ An equivalence checker for quantum circuits combining decision-diagram and ZX-ca
 - **Stars**: 117
 - **Last commit**: 2026-08-17
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: cmake cmake version 3.28.3
 - **Discovered via**: github-search; 2110.01320; electronics-2026
 - **Notes**: Part of the Munich Quantum Toolkit (formerly under the cda-tum organization).
 

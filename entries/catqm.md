@@ -15,6 +15,7 @@ A Coq formalization of categorical quantum mechanics in the style of Abramsky an
 - **Last commit**: 2021-06-29
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: a declared dependency was not available in this environment
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

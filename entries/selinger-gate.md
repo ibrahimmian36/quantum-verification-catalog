@@ -14,7 +14,10 @@ A Rocq formalisation of a Selinger proof about quantum gates.
 - **Stars**: 1
 - **Last commit**: 2026-01-30
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq The Coq Proof Assistant, version 8.19.2 via opam
+- **Build note**: built with the project's default target
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

@@ -15,6 +15,7 @@ A verifier for parameterized quantum circuits using synchronized weighted tree a
 - **Last commit**: 2026-02-23
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: venue sweep 2026-08-18
 - **Notes**: A separate development from AutoQ, by an overlapping group.
 

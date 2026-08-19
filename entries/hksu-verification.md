@@ -15,6 +15,7 @@ A machine-checked post-quantum security proof, in the qrhl-tool, of the Fujisaki
 - **Last commit**: 2025-07-03
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: the Isabelle distribution could not be downloaded from this machine on 2026-08-19
 - **Discovered via**: proof-assistant sweep 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

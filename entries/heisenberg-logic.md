@@ -15,6 +15,7 @@ A Coq development of the basics of the Heisenberg representation of quantum comp
 - **Last commit**: 2026-04-24
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: repository artifacts were compiled with a different prover version
 - **Discovered via**: seed-list; github-org-sweep
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

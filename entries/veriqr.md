@@ -15,6 +15,7 @@ A tool for robustness verification of quantum machine learning models, checking 
 - **Last commit**: 2024-06-21
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: electronics-2026
 - **Notes**: Formerly hosted under the Veri-Q organization.
 

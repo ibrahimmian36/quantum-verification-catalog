@@ -15,6 +15,7 @@ A Coq development of a Quantum Abstract Machine.
 - **Last commit**: 2023-05-11
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: github-org-sweep
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

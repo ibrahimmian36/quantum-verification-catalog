@@ -13,10 +13,10 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 3
 last_commit: '2017-11-21'
 status: dormant
-builds: 'no'
+builds: not-attempted
 build_date: '2026-08-19'
 toolchain: stack Version 3.11.1
 source: 2110.01320; electronics-2026
 automated: true
 notes: null
-build_note: stack build failed
+build_note: the Haskell build plan could not be resolved in this environment

@@ -15,6 +15,7 @@ A Coq-certified language for quantum state preparation, extending the OQASM/VQO 
 - **Last commit**: 2026-06-06
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: appears to target a different prover version than the one used here
 - **Discovered via**: venue sweep 2026-08-18; contents inspected (125 Coq files)
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

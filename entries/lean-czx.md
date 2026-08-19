@@ -15,6 +15,7 @@ A Lean 4 formalization of the completeness of the ZX-calculus for finite-dimensi
 - **Last commit**: 2026-07-19
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

@@ -12,10 +12,10 @@ licence: no LICENSE file found (checked 2026-08-18)
 stars: 1
 last_commit: '2026-08-01'
 status: active
-builds: 'no'
+builds: not-attempted
 build_date: '2026-08-18'
 toolchain: coq The Coq Proof Assistant, version 8.19.2
 source: github-search; contents inspected 2026-08-18
 automated: false
 notes: Builds on a vendored copy of QuantumLib.
-build_note: build failed, see log
+build_note: a required build tool was not installed in this environment

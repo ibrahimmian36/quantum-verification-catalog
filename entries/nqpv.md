@@ -14,7 +14,10 @@ An assistant tool for formal verification of partial correctness of nondetermini
 - **Stars**: 5
 - **Last commit**: 2023-01-28
 - **Activity**: archived
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: pip 25.2
+- **Build note**: pip install of the package succeeded
 - **Discovered via**: venue sweep 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

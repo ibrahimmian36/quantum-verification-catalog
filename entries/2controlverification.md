@@ -14,7 +14,10 @@ A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates w
 - **Stars**: 4
 - **Last commit**: 2025-04-05
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: no
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq The Coq Proof Assistant, version 8.19.2
+- **Build note**: build failed, see log
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

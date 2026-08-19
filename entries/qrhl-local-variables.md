@@ -15,6 +15,7 @@ The Isabelle/HOL development accompanying the paper 'Local Variables and Quantum
 - **Last commit**: 2023-07-15
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: the Isabelle distribution could not be downloaded from this machine on 2026-08-19
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

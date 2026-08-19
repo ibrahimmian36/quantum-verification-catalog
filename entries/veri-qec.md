@@ -15,6 +15,7 @@ A tool for formal verification of quantum error-correcting programs: a program l
 - **Last commit**: 2025-05-30
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: declared dependencies could not be resolved in this environment
 - **Discovered via**: seed-list; PLDI; quantumpl-bib
 - **Notes**: Hybrid design: interactive Coq proofs plus SMT automation.
 

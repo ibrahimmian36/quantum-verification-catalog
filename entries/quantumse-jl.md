@@ -15,6 +15,7 @@ A prototype tool for symbolic execution of quantum programs using symbolic stabi
 - **Last commit**: 2024-08-23
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: the language runtime version in this environment differs from the one expected
 - **Discovered via**: quantumpl-bib; PLDI
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

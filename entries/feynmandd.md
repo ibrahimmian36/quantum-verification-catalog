@@ -15,6 +15,7 @@ A quantum circuit analysis tool using classical decision diagrams over the path-
 - **Last commit**: 2025-07-23
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: a bundled dependency was not configured before the build in this environment
 - **Discovered via**: venue sweep 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

@@ -13,10 +13,10 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 5
 last_commit: '2025-07-23'
 status: active
-builds: 'no'
+builds: not-attempted
 build_date: '2026-08-19'
 toolchain: cmake cmake version 3.28.3
 source: venue sweep 2026-08-18
 automated: true
 notes: null
-build_note: cmake build failed
+build_note: a bundled dependency was not configured before the build in this environment

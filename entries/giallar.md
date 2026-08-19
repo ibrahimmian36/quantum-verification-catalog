@@ -15,6 +15,7 @@ A push-button verification toolkit for the Qiskit quantum compiler that verified
 - **Last commit**: 2022-11-26
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: dependency installation was blocked in this environment
 - **Discovered via**: PLDI; quantumpl-bib; electronics-2026
 - **Notes**: Successor to CertiQ, which has no public repository.
 

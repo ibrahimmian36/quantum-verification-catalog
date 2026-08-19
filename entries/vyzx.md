@@ -14,7 +14,10 @@ A verified formalization of the ZX-calculus in Coq, building toward a verified g
 - **Stars**: 21
 - **Last commit**: 2026-01-16
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq The Coq Proof Assistant, version 8.20.1 via opam
+- **Build note**: built and installed via the project's own opam package
 - **Discovered via**: seed-list; QPL; github-org-sweep
 - **Notes**: Depends on QuantumLib; a VS Code visualizer lives at github.com/inQWIRE/ViZX.
 

@@ -15,6 +15,7 @@ A small tensor library for working with diagrammatic calculi within Rocq.
 - **Last commit**: 2026-08-14
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: declared dependencies could not be resolved in this environment
 - **Discovered via**: seed-list; github-org-sweep
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

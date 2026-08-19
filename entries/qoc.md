@@ -15,6 +15,7 @@ A Coq development named Quantum Over Coq.
 - **Last commit**: 2022-02-01
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: appears to target a different prover version than the one used here
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

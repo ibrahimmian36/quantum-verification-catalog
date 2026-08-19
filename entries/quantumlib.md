@@ -14,7 +14,10 @@ A Coq library of linear algebra, complex numbers, and matrix infrastructure used
 - **Stars**: 41
 - **Last commit**: 2026-04-03
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq The Coq Proof Assistant, version 8.19.2 via opam
+- **Build note**: built and installed via the project's own opam package
 - **Discovered via**: seed-list; Coq Workshop; github-org-sweep
 - **Notes**: Distributed on opam as coq-quantumlib.
 

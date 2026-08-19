@@ -15,6 +15,7 @@ An implementation of a Hoare-logic verification system for quantum programs embe
 - **Last commit**: 2020-09-13
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: a declared dependency was not available in this environment
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

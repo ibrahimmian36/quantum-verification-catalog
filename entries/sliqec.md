@@ -15,6 +15,7 @@ A BDD-based quantum circuit equivalence checker supporting full and partial equi
 - **Last commit**: 2026-06-29
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: the autotools files the build expects were not present in this environment
 - **Discovered via**: github-search; 2110.01320
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

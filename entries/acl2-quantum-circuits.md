@@ -15,6 +15,7 @@ An ACL2(r) interpreter for quantum-circuit netlists with states as vectors and g
 - **Last commit**: 2026-08-18
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: clone failed
 - **Discovered via**: proof-assistant sweep 2026-08-18
 - **Notes**: Lives in the ACL2 community books (books/nonstd, requires ACL2(r)); GitHub statistics shown refer to the whole ACL2 repository.
 

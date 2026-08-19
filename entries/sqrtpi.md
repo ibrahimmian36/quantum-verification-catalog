@@ -15,6 +15,7 @@ An Agda formalization (in agda-categories) of completeness and expressivity resu
 - **Last commit**: 2024-10-17
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: quantumpl-bib
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

@@ -15,6 +15,7 @@ Tools generating barrier certificates that verify properties of quantum systems 
 - **Last commit**: 2023-06-03
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: the Python build environment here could not satisfy the project's build requirements
 - **Discovered via**: venue sweep 2026-08-18
 - **Notes**: Discrete-time follow-up at github.com/marco-lewis/discrete-quantum-bc.
 

@@ -12,10 +12,10 @@ licence: no LICENSE file found (checked 2026-08-18)
 stars: 15
 last_commit: '2026-06-29'
 status: active
-builds: 'no'
+builds: not-attempted
 build_date: '2026-08-19'
 toolchain: make
 source: github-search; 2110.01320
 automated: true
 notes: null
-build_note: make failed
+build_note: the autotools files the build expects were not present in this environment

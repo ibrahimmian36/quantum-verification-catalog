@@ -14,7 +14,10 @@ A Coq library for category theory used as categorical infrastructure by VyZX.
 - **Stars**: 7
 - **Last commit**: 2024-10-09
 - **Activity**: dormant
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq  via opam
+- **Build note**: built and installed via the project's own opam package
 - **Discovered via**: seed-list; github-org-sweep
 - **Notes**: Not quantum-specific by itself; included as substrate of the VyZX development.
 

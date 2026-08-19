@@ -14,7 +14,10 @@ A verified optimizer for quantum circuits whose optimizations are proved semanti
 - **Stars**: 100
 - **Last commit**: 2026-04-02
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq  via opam
+- **Build note**: built and installed via the project's own opam package
 - **Discovered via**: seed-list; POPL; 2109.06493; quantumpl-bib
 - **Notes**: Proofs live in the SQIR repository; extracted OCaml is packaged at github.com/inQWIRE/mlvoqc and a Python wrapper at github.com/inQWIRE/pyvoqc.
 

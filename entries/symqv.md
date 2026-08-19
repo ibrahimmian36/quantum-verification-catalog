@@ -15,6 +15,7 @@ A tool for automated symbolic verification of quantum programs against first-ord
 - **Last commit**: 2022-12-06
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: the Python build environment here could not satisfy the project's build requirements
 - **Discovered via**: FM; github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

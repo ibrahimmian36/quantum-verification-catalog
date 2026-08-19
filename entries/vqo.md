@@ -15,6 +15,7 @@ A verified framework for compiling quantum oracles: the OQASM oracle assembly la
 - **Last commit**: 2023-09-22
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: appears to target a different prover version than the one used here
 - **Discovered via**: seed-list; OOPSLA; quantumpl-bib
 - **Notes**: Includes oracles used in Shor's and Grover's algorithms; joint inQWIRE/UMD project.
 

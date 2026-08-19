@@ -12,10 +12,10 @@ licence: Apache-2.0 (LICENSE file read 2026-08-18)
 stars: 92
 last_commit: '2026-06-09'
 status: active
-builds: 'no'
+builds: not-attempted
 build_date: '2026-08-19'
 toolchain: cmake cmake version 3.28.3
 source: electronics-2026
 automated: true
 notes: null
-build_note: cmake build failed
+build_note: a required library was not installed in this environment

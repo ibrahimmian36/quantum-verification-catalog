@@ -15,6 +15,7 @@ A Coq prototype of an expectation-based quantum Hoare logic with a soundness pro
 - **Last commit**: 2021-11-30
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: appears to target a different prover version than the one used here
 - **Discovered via**: github-search; contents inspected 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

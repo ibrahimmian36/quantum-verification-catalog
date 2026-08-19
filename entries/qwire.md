@@ -14,7 +14,10 @@ A linear-typed quantum circuit language embedded in Coq with a density-matrix de
 - **Stars**: 111
 - **Last commit**: 2025-05-11
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: no
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq The Coq Proof Assistant, version 8.19.2
+- **Build note**: build failed, see log
 - **Discovered via**: seed-list; 2109.06493; 2110.01320; electronics-2026; quantumpl-bib
 - **Notes**: The ReQWIRE development on reversible/ancilla circuits ([DOI 10.4204/EPTCS.287.17)](https://doi.org/10.4204/EPTCS.287.17)) lives in this repository; a QPL 2017 artifact snapshot exists at github.com/jpaykin/QWIRE-QPL2017.
 

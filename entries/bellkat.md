@@ -15,6 +15,7 @@ A verification tool for quantum-network entanglement-distribution protocols base
 - **Last commit**: 2024-04-05
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: the Haskell build plan could not be resolved in this environment
 - **Discovered via**: completeness-review 2026-08-18
 - **Notes**: A probabilistic successor is developed at github.com/swystems/prob-bellkat.
 

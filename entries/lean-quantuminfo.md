@@ -15,6 +15,7 @@ A Mathlib-based formalization of quantum information theory in Lean 4: distances
 - **Last commit**: 2026-07-09
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: a dependency download failed from this machine
 - **Discovered via**: github-search
 - **Notes**: Merged into github.com/leanprover-community/physlib in March 2026; this repository remains the development home referenced by the community.
 

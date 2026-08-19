@@ -15,6 +15,7 @@ A diagrammatic proof assistant for equational reasoning about string diagrams su
 - **Last commit**: 2026-03-13
 - **Activity**: archived
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: 2109.06493
 - **Notes**: Repository archived; the ZX-calculus tooling lineage continues in PyZX.
 

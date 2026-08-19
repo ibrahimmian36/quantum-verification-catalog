@@ -15,6 +15,7 @@ Symbolic model checking of quantum circuits in Maude with Dirac-notation symboli
 - **Last commit**: 2024-03-06
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: venue sweep 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

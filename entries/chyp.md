@@ -14,7 +14,10 @@ An interactive theorem prover for string diagrams, representing morphisms as cos
 - **Stars**: 129
 - **Last commit**: 2026-05-25
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: pip 25.2
+- **Build note**: pip install of the package succeeded
 - **Discovered via**: completeness-review 2026-08-18
 - **Notes**: Companion prover to the Picturing Quantum Software line; successor in spirit to Quantomatic.
 

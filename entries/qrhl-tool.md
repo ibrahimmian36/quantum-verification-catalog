@@ -15,6 +15,7 @@ An interactive proof assistant for quantum relational Hoare logic, built on Isab
 - **Last commit**: 2026-05-24
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: the Isabelle distribution could not be downloaded from this machine on 2026-08-19
 - **Discovered via**: seed-list; POPL; github-search; 2109.06493; quantumpl-bib
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

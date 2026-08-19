@@ -14,10 +14,10 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 0
 last_commit: '2022-12-06'
 status: dormant
-builds: 'no'
+builds: not-attempted
 build_date: '2026-08-19'
 toolchain: pip 25.2
 source: FM; github-search
 automated: true
 notes: null
-build_note: pip install failed
+build_note: the Python build environment here could not satisfy the project's build requirements

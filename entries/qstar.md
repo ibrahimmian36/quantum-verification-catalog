@@ -15,6 +15,7 @@ A prototype for verifying Q# programs in F*.
 - **Last commit**: 2022-09-15
 - **Activity**: archived
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: seed-list; github-search
 - **Notes**: Repository archived by Microsoft (last push 2022-09-15).
 

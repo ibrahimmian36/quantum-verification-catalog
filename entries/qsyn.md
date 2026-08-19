@@ -15,6 +15,7 @@ A C++ framework for synthesizing and optimizing quantum circuits that includes a
 - **Last commit**: 2026-07-30
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: the CMake version in this environment did not satisfy the project requirement
 - **Discovered via**: github-search; contents inspected 2026-08-18
 - **Notes**: Equivalence checking is one component of a larger synthesis suite; the tensor-contraction fallback applies to small circuit widths only.
 

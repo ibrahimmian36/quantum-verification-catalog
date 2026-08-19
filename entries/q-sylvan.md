@@ -15,6 +15,7 @@ A parallel decision-diagram package for quantum computing with built-in circuit 
 - **Last commit**: 2025-12-23
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: a required library was not installed in this environment
 - **Discovered via**: venue sweep 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

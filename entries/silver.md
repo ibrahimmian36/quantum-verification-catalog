@@ -14,7 +14,10 @@ An automated tool for verifying Silq programs against specifications written in 
 - **Stars**: 1
 - **Last commit**: 2025-09-23
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: pip 25.2
+- **Build note**: pip install of the package succeeded
 - **Discovered via**: venue sweep 2026-08-18
 - **Notes**: Specification language repository at github.com/marco-lewis/silspeq.
 

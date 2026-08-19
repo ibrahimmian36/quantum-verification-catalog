@@ -49,6 +49,14 @@ SIGNALS = [
      "the repository's build files refer to a path specific to another machine"),
     (r"invalid subtyping in definition|ERROR: LoadError: .*Julia",
      "the language runtime version in this environment differs from the one expected"),
+    (r"could not find a package configuration file|collect2: error: ld returned|"
+     r"cannot find -l\w+|undefined reference to",
+     "a required library was not available when linking in this environment"),
+    (r"pip-build-env|subprocess-exited-with-error.{0,200}?setuptools|"
+     r"error: metadata-generation-failed",
+     "the Python build environment here could not satisfy the project's build requirements"),
+    (r"aclocal|autoreconf: not found|automake.*not found",
+     "the autotools files the build expects were not present in this environment"),
 ]
 
 changed = 0
@@ -61,7 +69,7 @@ for p in sorted((ROOT / "data" / "entries").glob("*.yaml")):
         continue
     text = " ".join(log.read_text(errors="replace").split())
     for pattern, reason in SIGNALS:
-        if re.search(pattern, text):
+        if re.search(pattern, text, re.I):
             print(f"{p.stem}: no -> not-attempted ({reason})")
             if APPLY:
                 e["builds"] = "not-attempted"

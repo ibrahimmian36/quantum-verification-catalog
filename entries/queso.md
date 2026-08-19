@@ -15,6 +15,7 @@ A tool that synthesizes quantum-circuit optimizers whose rewrite rules are autom
 - **Last commit**: 2025-01-30
 - **Activity**: archived
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: completeness-review 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

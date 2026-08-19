@@ -12,10 +12,10 @@ licence: MIT (LICENSE file read 2026-08-18)
 stars: 2
 last_commit: '2025-04-13'
 status: archived
-builds: 'no'
+builds: not-attempted
 build_date: '2026-08-19'
 toolchain: cmake cmake version 3.28.3
 source: completeness-review 2026-08-18
 automated: true
 notes: null
-build_note: cmake build failed
+build_note: a required build tool was not installed in this environment

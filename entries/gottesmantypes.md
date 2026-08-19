@@ -14,7 +14,9 @@ A Coq development of Gottesman/Heisenberg-representation types for stabilizer qu
 - **Stars**: 2
 - **Last commit**: 2020-09-11
 - **Activity**: dormant
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq The Coq Proof Assistant, version 8.19.2
 - **Discovered via**: github-org-sweep
 - **Notes**: Compare Gottesman Types for Quantum Programs ([DOI 10.4204/EPTCS.340.14)](https://doi.org/10.4204/EPTCS.340.14)); the paper-to-repo correspondence has not been confirmed from the repository itself.
 

@@ -15,6 +15,7 @@ An automated tool for quantum protocol verification using concurrent dynamic qua
 - **Last commit**: 2024-01-29
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

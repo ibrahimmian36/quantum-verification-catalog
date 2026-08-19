@@ -14,7 +14,10 @@ A small quantum intermediate representation deeply embedded in Coq, with semanti
 - **Stars**: 100
 - **Last commit**: 2026-04-02
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: coq The Coq Proof Assistant, version 8.19.2 via opam
+- **Build note**: built and installed via the project's own opam package
 - **Discovered via**: seed-list; ITP; 2109.06493; 2110.01320; quantumpl-bib
 - **Notes**: Also home of the VOQC correctness proofs and of the formally certified end-to-end Shor's algorithm (examples/shor; PNAS 2023, [DOI 10.1073/pnas.2218775120](https://doi.org/10.1073/pnas.2218775120), [arXiv:2204.07112](https://arxiv.org/abs/2204.07112)).
 

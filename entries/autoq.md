@@ -15,6 +15,7 @@ An automata-based quantum circuit verifier using Hoare-style pre- and post-condi
 - **Last commit**: 2026-07-18
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: a required library was not installed in this environment
 - **Discovered via**: seed-list; CAV; TACAS; electronics-2026
 - **Notes**: github.com/alan23273850/AutoQ redirects here. The related POPL 2025 level-synchronized tree automata artifact is archived at Zenodo, [DOI 10.5281/zenodo.13957472.](https://doi.org/10.5281/zenodo.13957472.)
 

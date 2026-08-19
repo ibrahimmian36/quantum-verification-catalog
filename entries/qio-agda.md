@@ -15,6 +15,7 @@ The Quantum IO monad formalized in Agda, toward a verified functional quantum pr
 - **Last commit**: 2013-05-11
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: quantumpl-bib
 - **Notes**: Companion Haskell implementation at github.com/alexandersgreen/qio-haskell.
 

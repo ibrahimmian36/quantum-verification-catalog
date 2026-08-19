@@ -15,6 +15,7 @@ An Isabelle/HOL semantics and Hoare logic with separation for reasoning about qu
 - **Last commit**: 2024-12-09
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: the Isabelle distribution could not be downloaded from this machine on 2026-08-19
 - **Discovered via**: github-search
 - **Notes**: The repository name contains the typo 'Quatum'.
 

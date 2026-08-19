@@ -11,10 +11,10 @@ licence: nonstandard licence in LICENSE (read 2026-08-18; see file)
 stars: 2
 last_commit: '2021-05-06'
 status: dormant
-builds: 'no'
+builds: not-attempted
 build_date: '2026-08-18'
 toolchain: coq The Coq Proof Assistant, version 8.19.2
 source: github-search
 automated: false
 notes: null
-build_note: build failed, see log
+build_note: appears to target a different prover version than the one used here

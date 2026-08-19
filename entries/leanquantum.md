@@ -14,7 +14,9 @@ A quantum computing library in Lean 4 from the inQWIRE group.
 - **Stars**: 18
 - **Last commit**: 2026-07-14
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-19
+- **Toolchain**: lean leanprover/lean4:v4.30.0-rc2
 - **Discovered via**: seed-list; github-org-sweep
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

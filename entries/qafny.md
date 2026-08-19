@@ -14,7 +14,10 @@ A quantum-program verifier that translates quantum operations to classical array
 - **Stars**: 5
 - **Last commit**: 2026-02-02
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-19
+- **Toolchain**: pip 25.2
+- **Build note**: dependencies installed and package importable
 - **Discovered via**: seed-list; ECOOP; electronics-2026
 - **Notes**: An earlier Haskell frontend exists at github.com/mzhu-zx/qafny-hs (archived).
 

@@ -15,6 +15,7 @@ An equivalence checker and simulator for universal quantum circuits based on red
 - **Last commit**: 2026-07-26
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: no recognized build system
 - **Discovered via**: completeness-review; venue sweep 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

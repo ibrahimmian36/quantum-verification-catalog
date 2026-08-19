@@ -15,6 +15,7 @@ A quantum circuit superoptimizer that automatically generates and formally verif
 - **Last commit**: 2026-06-09
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: a required library was not installed in this environment
 - **Discovered via**: electronics-2026
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

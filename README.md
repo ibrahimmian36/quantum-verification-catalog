@@ -77,34 +77,34 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Activity | Build | Description |
 |---|---|---|---|---|---|
-| [2ControlVerification](entries/2controlverification.md) | verifier | circuits, mathematics | active | not attempted | A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates with Two Controls'. |
+| [2ControlVerification](entries/2controlverification.md) | verifier | circuits, mathematics | active | did not build | A Coq proof verification of the paper 'Optimal Implementation of Quantum Gates with Two Controls'. |
 | [CatQM](entries/catqm.md) | library | mathematics | dormant | not attempted | A Coq formalization of categorical quantum mechanics in the style of Abramsky and Coecke. |
 | [CoqQ](entries/coqq.md) | verifier | program semantics | dormant | not attempted | A foundational verification framework for quantum programs: a quantum Hoare logic proved sound against a denotational semantics built on MathComp, with case studies including HHL, Grover, QPE, and hidden subgroup. |
 | [CoqQLR](entries/coqqlr.md) | verifier | program semantics | active | not attempted | A Coq formalization of a Hoare logic for local reasoning about classical-quantum programs, with verified examples including Shor's algorithm, HHL, and order finding. |
 | [DiracRepr](entries/diracrepr.md) | verifier | program semantics | dormant | not attempted | A Coq formalization of a simple quantum imperative language with a Hoare-style logic. |
-| [GottesmanTypes](entries/gottesmantypes.md) | library | program semantics | dormant | not attempted | A Coq development of Gottesman/Heisenberg-representation types for stabilizer quantum programs. |
+| [GottesmanTypes](entries/gottesmantypes.md) | library | program semantics | dormant | builds | A Coq development of Gottesman/Heisenberg-representation types for stabilizer quantum programs. |
 | [Heisenberg-Logic](entries/heisenberg-logic.md) | library | program semantics | active | not attempted | A Coq development of the basics of the Heisenberg representation of quantum computing. |
 | [PQASM](entries/pqasm.md) | language | program semantics | active | not attempted | A Coq-certified language for quantum state preparation, extending the OQASM/VQO line, with property-based validation via QuickChick. |
 | [Proto-Quipper metatheory (Hybrid)](entries/protoquipper-metatheory.md) | verifier | program semantics | unknown | not attempted | A Coq formalization (in the Hybrid framework) of the metatheory of the Proto-Quipper quantum programming language, proving type soundness in a linear specification logic. |
-| [proving-quantum-theorems-in-coq](entries/proving-quantum-theorems-in-coq.md) | verifier | mathematics | active | not attempted | Rocq proofs of the no-cloning theorem, a Heisenberg uncertainty relation, and phase kickback, built on QuantumLib. |
+| [proving-quantum-theorems-in-coq](entries/proving-quantum-theorems-in-coq.md) | verifier | mathematics | active | builds | Rocq proofs of the no-cloning theorem, a Heisenberg uncertainty relation, and phase kickback, built on QuantumLib. |
 | [QAM](entries/qam.md) | library | program semantics | dormant | not attempted | A Coq development of a Quantum Abstract Machine. |
 | [QNP](entries/qnp.md) | library | program semantics | active | not attempted | Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning related to the Qafny line of work. |
 | [qoc (Quantum Over Coq)](entries/qoc.md) | library | program semantics | dormant | not attempted | A Coq development named Quantum Over Coq. |
 | [quantum-hoare-logic (sr-lab)](entries/sr-lab-quantum-hoare-logic.md) | verifier | program semantics | dormant | not attempted | A Coq prototype of an expectation-based quantum Hoare logic with a soundness proof and verified examples including Deutsch, Grover, GHZ, and teleportation. |
 | [QuantumHoareLogic](entries/quantumhoarelogic-fiedorek.md) | verifier | program semantics | dormant | not attempted | An implementation of a Hoare-logic verification system for quantum programs embedded in Coq. |
-| [QuantumLib](entries/quantumlib.md) | library | mathematics | active | not attempted | A Coq library of linear algebra, complex numbers, and matrix infrastructure used as the shared foundation of the inQWIRE developments (QWIRE, SQIR/VOQC, VyZX). |
+| [QuantumLib](entries/quantumlib.md) | library | mathematics | active | builds | A Coq library of linear algebra, complex numbers, and matrix infrastructure used as the shared foundation of the inQWIRE developments (QWIRE, SQIR/VOQC, VyZX). |
 | [Qunity (Coq formalization)](entries/qunity-coq.md) | language | program semantics | active | not attempted | A Coq formalization of the Qunity quantum programming language's syntax and type system, with a formally verified soundness proof for its typechecker. |
-| [QWIRE](entries/qwire.md) | language | program semantics, circuits | active | not attempted | A linear-typed quantum circuit language embedded in Coq with a density-matrix denotational semantics for verifying quantum circuits. |
-| [Selinger](entries/selinger-gate.md) | verifier | mathematics | active | not attempted | A Rocq formalisation of a Selinger proof about quantum gates. |
-| [SQIR](entries/sqir.md) | language | program semantics, circuits | active | not attempted | A small quantum intermediate representation deeply embedded in Coq, with semantics used to prove quantum programs (Grover, QPE, GHZ, teleportation) correct. |
+| [QWIRE](entries/qwire.md) | language | program semantics, circuits | active | did not build | A linear-typed quantum circuit language embedded in Coq with a density-matrix denotational semantics for verifying quantum circuits. |
+| [Selinger](entries/selinger-gate.md) | verifier | mathematics | active | builds | A Rocq formalisation of a Selinger proof about quantum gates. |
+| [SQIR](entries/sqir.md) | language | program semantics, circuits | active | builds | A small quantum intermediate representation deeply embedded in Coq, with semantics used to prove quantum programs (Grover, QPE, GHZ, teleportation) correct. |
 | [TensorRocq](entries/tensorrocq.md) | library | mathematics | active | not attempted | A small tensor library for working with diagrammatic calculi within Rocq. |
 | [Vectorial lambda-calculus Coq proofs](entries/vectorial-coq.md) | verifier | program semantics, mathematics | unknown | not attempted | Coq formalizations of metatheory for the vectorial and algebraic-linear lambda-calculi, quantum-motivated calculi in the Arrighi-Diaz-Caro-Valiron line. |
 | [Veri-QEC](entries/veri-qec.md) | verifier | error correction | active | not attempted | A tool for formal verification of quantum error-correcting programs: a program logic formalized in Coq on top of CoqQ, paired with a Python/SMT automated verifier for fault-tolerant scenarios. |
-| [ViCAR](entries/vicar.md) | library | mathematics | dormant | not attempted | A Coq library for category theory used as categorical infrastructure by VyZX. |
-| [VOQC](entries/voqc.md) | compiler | compiler passes | active | not attempted | A verified optimizer for quantum circuits whose optimizations are proved semantics-preserving over SQIR. |
+| [ViCAR](entries/vicar.md) | library | mathematics | dormant | builds | A Coq library for category theory used as categorical infrastructure by VyZX. |
+| [VOQC](entries/voqc.md) | compiler | compiler passes | active | builds | A verified optimizer for quantum circuits whose optimizations are proved semantics-preserving over SQIR. |
 | [VQC (Verified Quantum Computing)](entries/vqc.md) | library | program semantics, circuits | unknown | not attempted | An interactive textbook on verified quantum computing in Coq, in the style of Software Foundations, covering matrix semantics, Deutsch's algorithm, and quantum teleportation. |
 | [VQO](entries/vqo.md) | compiler | compiler passes, program semantics | dormant | not attempted | A verified framework for compiling quantum oracles: the OQASM oracle assembly language with verified compilers from OQIMP to OQASM to SQIR. |
-| [VyZX](entries/vyzx.md) | verifier | mathematics, circuits | active | not attempted | A verified formalization of the ZX-calculus in Coq, building toward a verified graphical quantum-circuit optimizer. |
+| [VyZX](entries/vyzx.md) | verifier | mathematics, circuits | active | builds | A verified formalization of the ZX-calculus in Coq, building toward a verified graphical quantum-circuit optimizer. |
 
 ### Lean 4
 
@@ -120,7 +120,7 @@ related resources — so that "missing" is distinguishable from "not found".
 | [lean4-quantum](entries/lean4-quantum.md) | library | mathematics | active | not attempted | An implementation of the theory of quantum computing in Lean 4. |
 | [lean4game-quantum](entries/lean4game-quantum.md) | library | mathematics, protocols | active | not attempted | An educational Lean 4 game whose levels formalize superposition, measurement probabilities, and mutually unbiased bases, culminating in a verified idealized model of the BB84 protocol. |
 | [LeanQEC](entries/leanqec-yezhuoyang.md) | verifier | error correction | active | not attempted | A Lean development proving properties of quantum error correction codes. |
-| [LeanQuantum](entries/leanquantum.md) | library | mathematics, circuits | active | not attempted | A quantum computing library in Lean 4 from the inQWIRE group. |
+| [LeanQuantum](entries/leanquantum.md) | library | mathematics, circuits | active | builds | A quantum computing library in Lean 4 from the inQWIRE group. |
 | [Physlib](entries/physlib.md) | library | mathematics | active | not attempted | A Lean 4 physics library whose QuantumInfo module formalizes quantum information theory; formed by merging PhysLean with Lean-QuantumInfo. |
 | [Project_qec_lean](entries/project-qec-lean.md) | verifier | error correction, mathematics | active | not attempted | A formal verification of the CSS code-chain complex correspondence over F2, in Lean 4 with Mathlib. |
 | [QECLean](entries/qeclean.md) | library | error correction | active | not attempted | A formalization project on quantum error correction in Lean. |
@@ -183,7 +183,7 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Activity | Build | Description |
 |---|---|---|---|---|---|
-| [chyp](entries/chyp.md) | verifier | mathematics | active | not attempted | An interactive theorem prover for string diagrams, representing morphisms as cospans of hypergraphs, used for equational reasoning in the ZX-calculus and quantum software line. |
+| [chyp](entries/chyp.md) | verifier | mathematics | active | builds | An interactive theorem prover for string diagrams, representing morphisms as cospans of hypergraphs, used for equational reasoning in the ZX-calculus and quantum software line. |
 | [Quantomatic](entries/quantomatic.md) | verifier | mathematics | archived | not attempted | A diagrammatic proof assistant for equational reasoning about string diagrams such as the ZX-calculus, with user-defined equational theories and rewrite strategies. |
 
 ### other (HOL Light)
@@ -204,7 +204,7 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Activity | Build | Description |
 |---|---|---|---|---|---|
-| [Qafny](entries/qafny.md) | verifier | program semantics | active | not attempted | A quantum-program verifier that translates quantum operations to classical array operations in a separation-logic style, discharging proofs through Dafny; verified components include quantum walk, Grover, and Shor. |
+| [Qafny](entries/qafny.md) | verifier | program semantics | active | builds | A quantum-program verifier that translates quantum operations to classical array operations in a separation-logic style, discharging proofs through Dafny; verified components include quantum walk, Grover, and Shor. |
 
 ### other (BDDs)
 
@@ -216,7 +216,7 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Activity | Build | Description |
 |---|---|---|---|---|---|
-| [MQT QCEC](entries/mqt-qcec.md) | model-checker | circuits, compiler passes | active | not attempted | An equivalence checker for quantum circuits combining decision-diagram and ZX-calculus techniques, used to verify compilation results including Qiskit flows. |
+| [MQT QCEC](entries/mqt-qcec.md) | model-checker | circuits, compiler passes | active | builds | An equivalence checker for quantum circuits combining decision-diagram and ZX-calculus techniques, used to verify compilation results including Qiskit flows. |
 
 ### other (decision diagrams)
 
@@ -284,7 +284,7 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Activity | Build | Description |
 |---|---|---|---|---|---|
-| [NQPV](entries/nqpv.md) | verifier | program semantics | archived | not attempted | An assistant tool for formal verification of partial correctness of nondeterministic quantum programs, using numerical methods over quantum Hoare logic. |
+| [NQPV](entries/nqpv.md) | verifier | program semantics | archived | builds | An assistant tool for formal verification of partial correctness of nondeterministic quantum programs, using numerical methods over quantum Hoare logic. |
 
 ### other (path sums)
 
@@ -302,7 +302,7 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Activity | Build | Description |
 |---|---|---|---|---|---|
-| [Prove-It](entries/prove-it.md) | verifier | circuits, mathematics | active | not attempted | A Python-based tool for proving and organizing general theorems, whose flagship application is proofs about quantum circuits and algorithms. |
+| [Prove-It](entries/prove-it.md) | verifier | circuits, mathematics | active | builds | A Python-based tool for proving and organizing general theorems, whose flagship application is proofs about quantum circuits and algorithms. |
 
 ### other (SMT + Coq rewrite-rule proofs)
 
@@ -316,7 +316,7 @@ related resources — so that "missing" is distinguishable from "not found".
 |---|---|---|---|---|---|
 | [Cartesian-array theory for quantum circuits (Princess)](entries/princess-cartesian-arrays.md) | verifier | circuits | unknown | not attempted | An SMT theory of Cartesian arrays, implemented in the Princess solver, that encodes quantum gate semantics for verifying circuit correctness. |
 | [Quartz](entries/quartz.md) | compiler | compiler passes | active | not attempted | A quantum circuit superoptimizer that automatically generates and formally verifies circuit transformations with an SMT solver. |
-| [SilVer](entries/silver.md) | verifier | program semantics | active | not attempted | An automated tool for verifying Silq programs against specifications written in the companion silspeq language, using SMT solvers. |
+| [SilVer](entries/silver.md) | verifier | program semantics | active | builds | An automated tool for verifying Silq programs against specifications written in the companion silspeq language, using SMT solvers. |
 | [symQV](entries/symqv.md) | verifier | circuits, program semantics | dormant | not attempted | A tool for automated symbolic verification of quantum programs against first-order specifications, via an SMT encoding of a symbolic quantum program model. |
 
 ### other (SMT, dReal)
@@ -353,4 +353,4 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Activity | Build | Description |
 |---|---|---|---|---|---|
-| [PyZX](entries/pyzx.md) | verifier | circuits | active | not attempted | A Python library for quantum circuit rewriting and optimisation using the ZX-calculus, including equivalence checking by diagram rewriting. |
+| [PyZX](entries/pyzx.md) | verifier | circuits | active | builds | A Python library for quantum circuit rewriting and optimisation using the ZX-calculus, including equivalence checking by diagram rewriting. |

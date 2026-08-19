@@ -15,6 +15,7 @@ An Agda (cubical) formalization of symmetric rig groupoid semantics for the reve
 - **Last commit**: 2021-11-10
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: the Agda version in this environment differs from the one the artifact expects
 - **Discovered via**: quantumpl-bib; POPL
 - **Notes**: Also archived at Zenodo, [DOI 10.5281/zenodo.5671746.](https://doi.org/10.5281/zenodo.5671746.)
 

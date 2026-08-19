@@ -14,7 +14,10 @@ A Python-based tool for proving and organizing general theorems, whose flagship 
 - **Stars**: 37
 - **Last commit**: 2026-08-14
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-19
+- **Toolchain**: pip 25.2
+- **Build note**: dependencies installed and package importable
 - **Discovered via**: seed-list; github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

@@ -14,7 +14,10 @@ A Python library for quantum circuit rewriting and optimisation using the ZX-cal
 - **Stars**: 539
 - **Last commit**: 2026-08-16
 - **Activity**: active
-- **Build result**: not-attempted
+- **Build result**: yes
+- **Build attempted**: 2026-08-18
+- **Toolchain**: pip 25.2
+- **Build note**: pip install of the package succeeded
 - **Discovered via**: 2109.06493; 2110.01320
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

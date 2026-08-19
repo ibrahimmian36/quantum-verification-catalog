@@ -15,6 +15,7 @@ A foundational verification framework for quantum programs: a quantum Hoare logi
 - **Last commit**: 2024-12-29
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: declared dependencies could not be resolved in this environment
 - **Discovered via**: seed-list; POPL; 2110.01320; quantumpl-bib
 - **Notes**: Serves as the base of Veri-QEC.
 

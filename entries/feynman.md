@@ -15,6 +15,7 @@ A Haskell toolkit for quantum circuit analysis based on the sum-over-paths repre
 - **Last commit**: 2026-07-20
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: the project compiled and linked; its build script then expected an older toolchain layout
 - **Discovered via**: github-search; 2110.01320; electronics-2026; quantumpl-bib
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

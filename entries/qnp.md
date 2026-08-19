@@ -15,6 +15,7 @@ Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning re
 - **Last commit**: 2025-04-22
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: appears to target a different prover version than the one used here
 - **Discovered via**: seed-list; github-org-sweep
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

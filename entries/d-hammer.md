@@ -15,6 +15,7 @@ A C++ equational prover for labelled Dirac notation, automating operator-level r
 - **Last commit**: 2025-04-13
 - **Activity**: archived
 - **Build result**: not-attempted
+- **Build note**: a required build tool was not installed in this environment
 - **Discovered via**: completeness-review 2026-08-18
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

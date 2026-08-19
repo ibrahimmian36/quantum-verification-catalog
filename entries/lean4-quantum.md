@@ -15,6 +15,7 @@ An implementation of the theory of quantum computing in Lean 4.
 - **Last commit**: 2025-07-08
 - **Activity**: active
 - **Build result**: not-attempted
+- **Build note**: a dependency download failed from this machine
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

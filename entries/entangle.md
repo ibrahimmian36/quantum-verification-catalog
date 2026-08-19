@@ -15,6 +15,7 @@ A translator from Quipper programs to quantum Markov chains for model checking w
 - **Last commit**: 2017-11-21
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: the Haskell build plan could not be resolved in this environment
 - **Discovered via**: 2110.01320; electronics-2026
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.

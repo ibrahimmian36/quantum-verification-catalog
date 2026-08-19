@@ -15,6 +15,7 @@ A Coq formalization of a simple quantum imperative language with a Hoare-style l
 - **Last commit**: 2021-05-06
 - **Activity**: dormant
 - **Build result**: not-attempted
+- **Build note**: appears to target a different prover version than the one used here
 - **Discovered via**: github-search
 
 Something wrong here? Corrections are welcome — please [open an issue](../../../issues/new/choose) and we will fix it.
