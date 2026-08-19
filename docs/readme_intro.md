@@ -11,6 +11,18 @@ maps the *artifacts* — the actual code. Each entry records the repository, the
 proof system, what it verifies, the associated paper, the licence, and a
 build observation (whether the code built on our machine on a stated date).
 
+**How to read the build column.** `yes` means the project built in the
+environment recorded on its page, on the date recorded there. `no` means it did
+not build in that environment — which is a statement about our machine on that
+day, not a judgment of the project: the most common cause is simply that a
+project targets a different prover version than the one we had installed. Where
+the logs showed that we never gave a project the environment it declares (an
+unsatisfiable dependency solve, a prover generation it predates, a distribution
+we could not download), the record says `not-attempted` with the reason, rather
+than blaming the project for our setup. Where a project ships its own build
+recipe, we use it. Corrections are welcome: if your project builds and we say
+otherwise, tell us what we got wrong and we will re-run it and fix the record.
+
 **What this is not.** Not a ranking, not an audit, not an assessment of anyone's
 proofs. Descriptions state what a project does, never how good it is. Entries
 are sorted by proof system and then alphabetically. A `dormant` or `archived`
