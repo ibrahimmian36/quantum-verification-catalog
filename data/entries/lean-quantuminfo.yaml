@@ -9,7 +9,7 @@ description: 'A Mathlib-based formalization of quantum information theory in Lea
 paper: unknown
 authors: Alex Meiburg and contributors
 licence: MIT (LICENSE file read 2026-08-18)
-stars: 141
+stars: 142
 last_commit: '2026-07-09'
 status: active
 builds: not-attempted

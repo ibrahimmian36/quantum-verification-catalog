@@ -11,7 +11,7 @@ paper: 'Prove-It: A Proof Assistant for Organizing and Verifying General Mathema
 authors: Wayne Witzel and collaborators (Sandia National Laboratories)
 licence: nonstandard licence in license.txt (read 2026-08-18; see file)
 stars: 37
-last_commit: '2026-08-14'
+last_commit: '2026-08-23'
 status: active
 builds: 'yes'
 build_date: '2026-08-19'

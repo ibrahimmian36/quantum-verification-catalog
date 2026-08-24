@@ -12,7 +12,7 @@ A Haskell toolkit for quantum circuit analysis based on the sum-over-paths repre
 - **Authors**: Matthew Amy
 - **Licence**: BSD-3-Clause (LICENSE file read 2026-08-18)
 - **Stars**: 96
-- **Last commit**: 2026-07-20
+- **Last commit**: 2026-08-20
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: the project compiled and linked; its build script then expected an older toolchain layout

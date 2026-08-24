@@ -12,7 +12,7 @@ An equivalence checker for quantum circuits combining decision-diagram and ZX-ca
 - **Authors**: Lukas Burgholzer, Robert Wille, and contributors
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 117
-- **Last commit**: 2026-08-17
+- **Last commit**: 2026-08-24
 - **Activity**: active
 - **Build result**: yes
 - **Build attempted**: 2026-08-18
