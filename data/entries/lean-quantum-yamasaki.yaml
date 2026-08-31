@@ -8,8 +8,8 @@ description: A Lean formalization of the theory of quantum information and quant
 paper: unknown
 authors: Hayata Yamasaki group
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
-stars: 29
-last_commit: '2026-07-20'
+stars: 31
+last_commit: '2026-08-28'
 status: active
 builds: not-attempted
 build_date: '2026-08-19'

@@ -11,7 +11,7 @@ A quantum computing library in Lean 4 from the inQWIRE group.
 - **Paper**: unknown
 - **Authors**: Fady Adal, Scott Wesley, Robert Rand
 - **Licence**: MIT (LICENSE file read 2026-08-18)
-- **Stars**: 18
+- **Stars**: 19
 - **Last commit**: 2026-07-14
 - **Activity**: active
 - **Build result**: yes

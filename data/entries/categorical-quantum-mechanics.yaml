@@ -9,8 +9,8 @@ description: 'An early-stage Lean 4 formalization of categorical quantum mechani
 paper: unknown
 authors: Bingyu Xia
 licence: no LICENSE file found (checked 2026-08-18)
-stars: 0
-last_commit: '2026-08-21'
+stars: 1
+last_commit: '2026-08-31'
 status: active
 builds: not-attempted
 build_date: null

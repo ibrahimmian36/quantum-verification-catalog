@@ -12,7 +12,7 @@ A small tensor library for working with diagrammatic calculi within Rocq.
 - **Authors**: William Spencer, Ben Caldwell
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 3
-- **Last commit**: 2026-08-20
+- **Last commit**: 2026-08-31
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: declared dependencies could not be resolved in this environment

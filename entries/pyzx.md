@@ -12,7 +12,7 @@ A Python library for quantum circuit rewriting and optimisation using the ZX-cal
 - **Authors**: Aleks Kissinger, John van de Wetering, and contributors
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **Stars**: 540
-- **Last commit**: 2026-08-24
+- **Last commit**: 2026-08-28
 - **Activity**: active
 - **Build result**: yes
 - **Build attempted**: 2026-08-18
