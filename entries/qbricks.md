@@ -11,7 +11,7 @@ A deductive verification framework for circuit-building quantum programs in Why3
 - **Paper**: An Automated Deductive Verification Framework for Circuit-building Quantum Programs, ESOP 2021, [DOI 10.1007/978-3-030-72019-3_6](https://doi.org/10.1007/978-3-030-72019-3_6), [arXiv:2003.05841](https://arxiv.org/abs/2003.05841)
 - **Authors**: Christophe Chareton, Sebastien Bardin, Francois Bobot, Valentin Perrelle, Benoit Valiron
 - **Licence**: LGPL-2.1 (LICENSE file read 2026-08-18)
-- **Stars**: 9
+- **Stars**: 10
 - **Last commit**: 2026-05-14
 - **Activity**: active
 - **Build result**: not-attempted

@@ -11,7 +11,7 @@ paper: Advanced Equivalence Checking for Quantum Circuits, IEEE TCAD, DOI 10.110
 authors: Lukas Burgholzer, Robert Wille, and contributors
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 117
-last_commit: '2026-08-31'
+last_commit: '2026-09-07'
 status: active
 builds: 'yes'
 build_date: '2026-08-18'

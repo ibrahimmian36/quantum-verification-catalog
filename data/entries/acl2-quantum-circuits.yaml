@@ -9,8 +9,8 @@ description: An ACL2(r) interpreter for quantum-circuit netlists with states as 
 paper: An Interpreter for Quantum Circuits, ACL2 Workshop 2013 (proceedings arXiv:1304.7860)
 authors: Lucas Helms, Ruben Gamboa
 licence: nonstandard licence in LICENSE (read 2026-08-18; see file)
-stars: 444
-last_commit: '2026-08-31'
+stars: 447
+last_commit: '2026-09-07'
 status: active
 builds: not-attempted
 build_date: '2026-08-19'

@@ -11,7 +11,7 @@ A Lean 4 formalization of operator-algebraic quantum theory, including the GNS c
 - **Paper**: unknown
 - **Authors**: Keisuke Suzuki
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **Stars**: 0
+- **Stars**: 1
 - **Last commit**: 2026-08-17
 - **Activity**: active
 - **Build result**: not-attempted

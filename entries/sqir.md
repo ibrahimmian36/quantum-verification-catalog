@@ -11,7 +11,7 @@ A small quantum intermediate representation deeply embedded in Coq, with semanti
 - **Paper**: Proving Quantum Programs Correct, ITP 2021, [DOI 10.4230/LIPIcs.ITP.2021.21](https://doi.org/10.4230/LIPIcs.ITP.2021.21), [arXiv:2010.01240](https://arxiv.org/abs/2010.01240)
 - **Authors**: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks, and contributors
 - **Licence**: MIT (LICENSE file read 2026-08-18)
-- **Stars**: 100
+- **Stars**: 101
 - **Last commit**: 2026-04-02
 - **Activity**: active
 - **Build result**: yes

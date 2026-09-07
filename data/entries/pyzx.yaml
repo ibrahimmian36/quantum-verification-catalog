@@ -9,8 +9,8 @@ description: A Python library for quantum circuit rewriting and optimisation usi
 paper: 'PyZX: Large Scale Automated Diagrammatic Reasoning, QPL 2019, arXiv:1904.04735'
 authors: Aleks Kissinger, John van de Wetering, and contributors
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
-stars: 540
-last_commit: '2026-08-28'
+stars: 542
+last_commit: '2026-09-03'
 status: active
 builds: 'yes'
 build_date: '2026-08-18'

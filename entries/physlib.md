@@ -11,8 +11,8 @@ A Lean 4 physics library whose QuantumInfo module formalizes quantum information
 - **Paper**: unknown
 - **Authors**: Lean community; QuantumInfo module by Alex Meiburg and contributors
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **Stars**: 716
-- **Last commit**: 2026-08-31
+- **Stars**: 720
+- **Last commit**: 2026-09-07
 - **Activity**: active
 - **Build result**: not-attempted
 - **Discovered via**: proof-assistant sweep 2026-08-18

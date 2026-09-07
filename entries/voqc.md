@@ -11,7 +11,7 @@ A verified optimizer for quantum circuits whose optimizations are proved semanti
 - **Paper**: A Verified Optimizer for Quantum Circuits, POPL 2021, [DOI 10.1145/3434318](https://doi.org/10.1145/3434318), [arXiv:1912.02250](https://arxiv.org/abs/1912.02250)
 - **Authors**: Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks
 - **Licence**: MIT (LICENSE file read 2026-08-18)
-- **Stars**: 100
+- **Stars**: 101
 - **Last commit**: 2026-04-02
 - **Activity**: active
 - **Build result**: yes

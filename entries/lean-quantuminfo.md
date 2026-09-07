@@ -11,8 +11,8 @@ A Mathlib-based formalization of quantum information theory in Lean 4: distances
 - **Paper**: unknown
 - **Authors**: Alex Meiburg and contributors
 - **Licence**: MIT (LICENSE file read 2026-08-18)
-- **Stars**: 142
-- **Last commit**: 2026-08-24
+- **Stars**: 144
+- **Last commit**: 2026-09-03
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: a dependency download failed from this machine
