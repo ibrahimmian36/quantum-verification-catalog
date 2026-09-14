@@ -10,7 +10,7 @@ paper: An Interpreter for Quantum Circuits, ACL2 Workshop 2013 (proceedings arXi
 authors: Lucas Helms, Ruben Gamboa
 licence: nonstandard licence in LICENSE (read 2026-08-18; see file)
 stars: 447
-last_commit: '2026-09-07'
+last_commit: '2026-09-14'
 status: active
 builds: not-attempted
 build_date: '2026-08-19'

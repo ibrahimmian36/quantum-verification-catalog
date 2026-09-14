@@ -11,7 +11,7 @@ An Agda formalization (in agda-categories) of completeness and expressivity resu
 - **Paper**: With a Few Square Roots, Quantum Computing Is as Easy as Pi, POPL 2024, [DOI 10.1145/3632861](https://doi.org/10.1145/3632861), [arXiv:2310.14056](https://arxiv.org/abs/2310.14056)
 - **Authors**: Jacques Carette, Chris Heunen, Robin Kaarsgaard, Amr Sabry
 - **Licence**: BSD-3-Clause (LICENSE file read 2026-08-18)
-- **Stars**: 8
+- **Stars**: 9
 - **Last commit**: 2024-10-17
 - **Activity**: dormant
 - **Build result**: not-attempted

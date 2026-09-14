@@ -12,7 +12,7 @@ An ACL2(r) interpreter for quantum-circuit netlists with states as vectors and g
 - **Authors**: Lucas Helms, Ruben Gamboa
 - **Licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
 - **Stars**: 447
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-14
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: clone failed
