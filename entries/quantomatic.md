@@ -11,7 +11,7 @@ A diagrammatic proof assistant for equational reasoning about string diagrams su
 - **Paper**: Quantomatic: A Proof Assistant for Diagrammatic Reasoning, CADE 2015, [arXiv:1503.01034](https://arxiv.org/abs/1503.01034)
 - **Authors**: Aleks Kissinger, Vladimir Zamdzhiev, and contributors
 - **Licence**: no LICENSE file found (checked 2026-08-18)
-- **Stars**: 175
+- **Stars**: 174
 - **Last commit**: 2026-03-13
 - **Activity**: archived
 - **Build result**: not-attempted

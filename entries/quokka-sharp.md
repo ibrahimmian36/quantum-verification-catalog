@@ -11,7 +11,7 @@ An equivalence checker and simulator for universal quantum circuits based on red
 - **Paper**: Equivalence Checking of Quantum Circuits by Model Counting, IJCAR 2024, [DOI 10.1007/978-3-031-63501-4_21](https://doi.org/10.1007/978-3-031-63501-4_21), [arXiv:2403.18813](https://arxiv.org/abs/2403.18813); Quokka#: Quantum Computing with #SAT, CAV 2026, [DOI 10.1007/978-3-032-32537-2_19](https://doi.org/10.1007/978-3-032-32537-2_19)
 - **Authors**: Jingyi Mei, Tim Coopmans, Marcello Bonsangue, Alfons Laarman
 - **Licence**: MIT (LICENSE file read 2026-08-18)
-- **Stars**: 11
+- **Stars**: 12
 - **Last commit**: 2026-07-26
 - **Activity**: active
 - **Build result**: not-attempted
