@@ -8,7 +8,7 @@ description: A Lean 4 formalization of quantum error correction.
 paper: arXiv:2605.16523
 authors: Mattias Ehatamm, Yi Lee, Xiaodi Wu, Runzhou Tao
 licence: no LICENSE file found (checked 2026-08-18)
-stars: 11
+stars: 13
 last_commit: '2026-09-16'
 status: active
 builds: not-attempted

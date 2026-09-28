@@ -11,7 +11,7 @@ A Haskell toolkit for quantum circuit analysis based on the sum-over-paths repre
 - **Paper**: Towards Large-scale Functional Verification of Universal Quantum Circuits, QPL 2018, [DOI 10.4204/EPTCS.287.1](https://doi.org/10.4204/EPTCS.287.1), [arXiv:1805.06908](https://arxiv.org/abs/1805.06908)
 - **Authors**: Matthew Amy
 - **Licence**: BSD-3-Clause (LICENSE file read 2026-08-18)
-- **Stars**: 96
+- **Stars**: 97
 - **Last commit**: 2026-09-09
 - **Activity**: active
 - **Build result**: not-attempted
