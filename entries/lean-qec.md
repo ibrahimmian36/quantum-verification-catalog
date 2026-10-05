@@ -12,7 +12,7 @@ A Lean 4 formalization of quantum error correction.
 - **Authors**: Mattias Ehatamm, Yi Lee, Xiaodi Wu, Runzhou Tao
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 13
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-30
 - **Activity**: active
 - **Build result**: not-attempted
 - **Discovered via**: seed-list; github-search

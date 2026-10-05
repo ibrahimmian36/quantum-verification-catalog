@@ -11,7 +11,7 @@ A compiler from the Revs language to space-efficient reversible circuits, with m
 - **Paper**: Verified Compilation of Space-Efficient Reversible Circuits, RC 2017 line, [arXiv:1603.01635](https://arxiv.org/abs/1603.01635)
 - **Authors**: Matthew Amy, Martin Roetteler, Krysta Svore
 - **Licence**: MIT (LICENSE file read 2026-08-18)
-- **Stars**: 25
+- **Stars**: 24
 - **Last commit**: 2019-03-05
 - **Activity**: archived
 - **Build result**: not-attempted
