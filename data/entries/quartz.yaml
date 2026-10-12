@@ -10,8 +10,8 @@ paper: 'Quartz: Superoptimization of Quantum Circuits, PLDI 2022, DOI 10.1145/35
 authors: Mingkuan Xu, Zikun Li, Oded Padon, Sina Lin, Jessica Pointing, Auguste Hirth, Henry Ma, Jens
   Palsberg, Alex Aiken, Umut A. Acar, Zhihao Jia
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
-stars: 92
-last_commit: '2026-06-09'
+stars: 93
+last_commit: '2026-10-06'
 status: active
 builds: not-attempted
 build_date: '2026-08-19'

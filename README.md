@@ -112,17 +112,17 @@ related resources — so that "missing" is distinguishable from "not found".
 | Name | Role | Verifies | Last activity | Build | Paper | Description |
 |---|---|---|---|---|---|---|
 | [Abramsky_Coecke_Lean](entries/abramsky-coecke-lean.md) | library | mathematics, protocols | 2026-07-19 | not attempted | — | A Lean 4 formalization toward categorical quantum protocols (teleportation), after Abramsky and Coecke 2004. |
-| [Categorical-Quantum-Mechanics](entries/categorical-quantum-mechanics.md) | library | mathematics | 2026-09-30 | not attempted | — | An early-stage Lean 4 formalization of categorical quantum mechanics: dagger categories with projections, isometries, and unitaries, and standard gates proved unitary. |
+| [Categorical-Quantum-Mechanics](entries/categorical-quantum-mechanics.md) | library | mathematics | 2026-10-12 | not attempted | — | An early-stage Lean 4 formalization of categorical quantum mechanics: dagger categories with projections, isometries, and unitaries, and standard gates proved unitary. |
 | [kscert](entries/kscert.md) | verifier | mathematics | 2026-07-24 | builds | [arXiv:2607.26413](https://arxiv.org/abs/2607.26413) | Kernel-checked Lean 4 certificates for a Kochen-Specker vector system in R^3 with 24 vectors. |
 | [lean-czx](entries/lean-czx.md) | verifier | mathematics | 2026-07-19 | not attempted | — | A Lean 4 formalization of the completeness of the ZX-calculus for finite-dimensional Hilbert spaces. |
-| [Lean-QEC](entries/lean-qec.md) | library | error correction | 2026-09-30 | not attempted | [arXiv:2605.16523](https://arxiv.org/abs/2605.16523) | A Lean 4 formalization of quantum error correction. |
+| [Lean-QEC](entries/lean-qec.md) | library | error correction | 2026-10-11 | not attempted | [arXiv:2605.16523](https://arxiv.org/abs/2605.16523) | A Lean 4 formalization of quantum error correction. |
 | [lean-quantum (Yamasaki group)](entries/lean-quantum-yamasaki.md) | library | mathematics | 2026-08-28 | not attempted | — | A Lean formalization of the theory of quantum information and quantum computation. |
 | [Lean-QuantumInfo](entries/lean-quantuminfo.md) | library | mathematics | 2026-09-10 | not attempted | — | A Mathlib-based formalization of quantum information theory in Lean 4: distances, entropies, and capacities, with the Generalized Quantum Stein's Lemma as a guiding result. |
 | [lean4-quantum](entries/lean4-quantum.md) | library | mathematics | 2025-07-08 | not attempted | — | An implementation of the theory of quantum computing in Lean 4. |
 | [lean4game-quantum](entries/lean4game-quantum.md) | library | mathematics, protocols | 2026-08-07 | not attempted | — | An educational Lean 4 game whose levels formalize superposition, measurement probabilities, and mutually unbiased bases, culminating in a verified idealized model of the BB84 protocol. |
 | [LeanQEC](entries/leanqec-yezhuoyang.md) | verifier | error correction | 2026-07-04 | not attempted | — | A Lean development proving properties of quantum error correction codes. |
 | [LeanQuantum](entries/leanquantum.md) | library | mathematics, circuits | 2026-07-14 | builds | — | A quantum computing library in Lean 4 from the inQWIRE group. |
-| [Physlib](entries/physlib.md) | library | mathematics | 2026-10-05 | not attempted | — | A Lean 4 physics library whose QuantumInfo module formalizes quantum information theory; formed by merging PhysLean with Lean-QuantumInfo. |
+| [Physlib](entries/physlib.md) | library | mathematics | 2026-10-12 | not attempted | — | A Lean 4 physics library whose QuantumInfo module formalizes quantum information theory; formed by merging PhysLean with Lean-QuantumInfo. |
 | [Project_qec_lean](entries/project-qec-lean.md) | verifier | error correction, mathematics | 2026-02-12 | not attempted | — | A formal verification of the CSS code-chain complex correspondence over F2, in Lean 4 with Mathlib. |
 | [QECLean](entries/qeclean.md) | library | error correction | 2026-10-02 | not attempted | — | A formalization project on quantum error correction in Lean. |
 | [QHilbert](entries/qhilbert.md) | library | mathematics | 2026-04-14 | not attempted | — | A Lean 4 formalization over Mathlib of Hilbert-space foundations for quantum computing: qubit states, standard gates, density operators, tensor products, and partial trace. |
@@ -131,7 +131,7 @@ related resources — so that "missing" is distinguishable from "not found".
 | [qldpc](entries/qldpc.md) | verifier | error correction | 2026-07-06 | not attempted | — | Kernel-checked certification of QLDPC decoder outputs: Lean 4 verified checkers producing two-sided per-run certificates. |
 | [quantum-computing-in-Lean4](entries/quantum-computing-in-lean4.md) | verifier | circuits | 2026-07-19 | not attempted | — | Formalized quantum algorithms in Lean 4, including Deutsch-Jozsa, Bernstein-Vazirani, Simon, and Grover. |
 | [quantum-computing-lean](entries/quantum-computing-lean.md) | library | mathematics, circuits | 2026-09-15 | not attempted | — | A formalization of quantum computing in the Lean theorem prover. |
-| [quantum-system](entries/quantum-system.md) | library | mathematics | 2026-10-04 | not attempted | — | A Lean 4 formalization of operator-algebraic quantum theory, including the GNS construction, the Gelfand-Naimark theorem, the bicommutant theorem, and von Neumann entropy results including strong subadditivity. |
+| [quantum-system](entries/quantum-system.md) | library | mathematics | 2026-10-11 | not attempted | — | A Lean 4 formalization of operator-algebraic quantum theory, including the GNS construction, the Gelfand-Naimark theorem, the bicommutant theorem, and von Neumann entropy results including strong subadditivity. |
 | [quantum_computer_3_qubits](entries/quantum-computer-3-qubits.md) | verifier | program semantics | 2025-07-29 | not attempted | — | A Lean 4 formalization of a three-qubit quantum computer with a QWhile-style language and Hoare logic, including a verified Hoare triple for the Deutsch-Jozsa algorithm. |
 | [QuantumOptimization](entries/quantumoptimization.md) | library | mathematics | 2026-06-29 | not attempted | — | Machine-verified Lean 4 / Mathlib formalizations in quantum optimization. |
 | [SCurveQEC-Lean](entries/scurveqec-lean.md) | verifier | error correction, mathematics | 2026-04-13 | not attempted | — | A Lean 4 formalization of structural properties of weight-conditional logical error rates for stabilizer codes under perfect matching decoding. |
@@ -170,7 +170,7 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Last activity | Build | Paper | Description |
 |---|---|---|---|---|---|---|
-| [Quantum circuit interpreter (ACL2)](entries/acl2-quantum-circuits.md) | verifier | circuits | 2026-10-05 | not attempted | [arXiv:1304.7860](https://arxiv.org/abs/1304.7860) | An ACL2(r) interpreter for quantum-circuit netlists with states as vectors and gates as unitaries, including a proof of correctness of the quantum teleportation circuit. |
+| [Quantum circuit interpreter (ACL2)](entries/acl2-quantum-circuits.md) | verifier | circuits | 2026-10-12 | not attempted | [arXiv:1304.7860](https://arxiv.org/abs/1304.7860) | An ACL2(r) interpreter for quantum-circuit netlists with states as vectors and gates as unitaries, including a proof of correctness of the quantum teleportation circuit. |
 
 ### other (Agda)
 
@@ -217,7 +217,7 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Last activity | Build | Paper | Description |
 |---|---|---|---|---|---|---|
-| [MQT QCEC](entries/mqt-qcec.md) | model-checker | circuits, compiler passes | 2026-10-05 | builds | [DOI](https://doi.org/10.1109/TCAD.2020.3032630) | An equivalence checker for quantum circuits combining decision-diagram and ZX-calculus techniques, used to verify compilation results including Qiskit flows. |
+| [MQT QCEC](entries/mqt-qcec.md) | model-checker | circuits, compiler passes | 2026-10-12 | builds | [DOI](https://doi.org/10.1109/TCAD.2020.3032630) | An equivalence checker for quantum circuits combining decision-diagram and ZX-calculus techniques, used to verify compilation results including Qiskit flows. |
 
 ### other (decision diagrams)
 
@@ -316,7 +316,7 @@ related resources — so that "missing" is distinguishable from "not found".
 | Name | Role | Verifies | Last activity | Build | Paper | Description |
 |---|---|---|---|---|---|---|
 | [Cartesian-array theory for quantum circuits (Princess)](entries/princess-cartesian-arrays.md) | verifier | circuits | — | not attempted | see entry | An SMT theory of Cartesian arrays, implemented in the Princess solver, that encodes quantum gate semantics for verifying circuit correctness. |
-| [Quartz](entries/quartz.md) | compiler | compiler passes | 2026-06-09 | not attempted | [DOI](https://doi.org/10.1145/3519939.3523433) | A quantum circuit superoptimizer that automatically generates and formally verifies circuit transformations with an SMT solver. |
+| [Quartz](entries/quartz.md) | compiler | compiler passes | 2026-10-06 | not attempted | [DOI](https://doi.org/10.1145/3519939.3523433) | A quantum circuit superoptimizer that automatically generates and formally verifies circuit transformations with an SMT solver. |
 | [SilVer](entries/silver.md) | verifier | program semantics | 2025-09-23 | builds | [arXiv:2406.03119](https://arxiv.org/abs/2406.03119) | An automated tool for verifying Silq programs against specifications written in the companion silspeq language, using SMT solvers. |
 | [symQV](entries/symqv.md) | verifier | circuits, program semantics | 2022-12-06 | not attempted | [arXiv:2212.02267](https://arxiv.org/abs/2212.02267) | A tool for automated symbolic verification of quantum programs against first-order specifications, via an SMT encoding of a symbolic quantum program model. |
 
@@ -354,4 +354,4 @@ related resources — so that "missing" is distinguishable from "not found".
 
 | Name | Role | Verifies | Last activity | Build | Paper | Description |
 |---|---|---|---|---|---|---|
-| [PyZX](entries/pyzx.md) | verifier | circuits | 2026-10-02 | builds | [arXiv:1904.04735](https://arxiv.org/abs/1904.04735) | A Python library for quantum circuit rewriting and optimisation using the ZX-calculus, including equivalence checking by diagram rewriting. |
+| [PyZX](entries/pyzx.md) | verifier | circuits | 2026-10-12 | builds | [arXiv:1904.04735](https://arxiv.org/abs/1904.04735) | A Python library for quantum circuit rewriting and optimisation using the ZX-calculus, including equivalence checking by diagram rewriting. |

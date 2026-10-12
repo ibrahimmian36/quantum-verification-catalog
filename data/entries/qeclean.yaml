@@ -8,7 +8,7 @@ description: A formalization project on quantum error correction in Lean.
 paper: unknown
 authors: Stavan Jain and contributors
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
-stars: 43
+stars: 44
 last_commit: '2026-10-02'
 status: active
 builds: not-attempted

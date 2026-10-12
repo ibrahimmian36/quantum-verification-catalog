@@ -11,8 +11,8 @@ A quantum circuit superoptimizer that automatically generates and formally verif
 - **Paper**: Quartz: Superoptimization of Quantum Circuits, PLDI 2022, [DOI 10.1145/3519939.3523433](https://doi.org/10.1145/3519939.3523433)
 - **Authors**: Mingkuan Xu, Zikun Li, Oded Padon, Sina Lin, Jessica Pointing, Auguste Hirth, Henry Ma, Jens Palsberg, Alex Aiken, Umut A. Acar, Zhihao Jia
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **Stars**: 92
-- **Last commit**: 2026-06-09
+- **Stars**: 93
+- **Last commit**: 2026-10-06
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: a required library was not installed in this environment
