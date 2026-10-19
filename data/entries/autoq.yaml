@@ -12,7 +12,7 @@ paper: 'AutoQ: An Automata-Based Quantum Circuit Verifier, CAV 2023, DOI 10.1007
 authors: Yu-Fang Chen, Kai-Min Chung, Ondrej Lengal, Jyun-Ao Lin, Wei-Lun Tsai, and collaborators
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 29
-last_commit: '2026-07-18'
+last_commit: '2026-10-19'
 status: active
 builds: not-attempted
 build_date: '2026-08-19'

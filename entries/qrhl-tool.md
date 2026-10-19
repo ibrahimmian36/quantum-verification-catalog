@@ -11,7 +11,7 @@ An interactive proof assistant for quantum relational Hoare logic, built on Isab
 - **Paper**: Quantum Relational Hoare Logic, POPL 2019, [DOI 10.1145/3290346](https://doi.org/10.1145/3290346), [arXiv:1802.03188](https://arxiv.org/abs/1802.03188)
 - **Authors**: Dominique Unruh
 - **Licence**: MIT (LICENSE file read 2026-08-18)
-- **Stars**: 25
+- **Stars**: 26
 - **Last commit**: 2026-05-24
 - **Activity**: active
 - **Build result**: not-attempted

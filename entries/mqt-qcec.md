@@ -11,8 +11,8 @@ An equivalence checker for quantum circuits combining decision-diagram and ZX-ca
 - **Paper**: Advanced Equivalence Checking for Quantum Circuits, IEEE TCAD, [DOI 10.1109/TCAD.2020.3032630](https://doi.org/10.1109/TCAD.2020.3032630)
 - **Authors**: Lukas Burgholzer, Robert Wille, and contributors
 - **Licence**: MIT (LICENSE file read 2026-08-18)
-- **Stars**: 119
-- **Last commit**: 2026-10-12
+- **Stars**: 120
+- **Last commit**: 2026-10-19
 - **Activity**: active
 - **Build result**: yes
 - **Build attempted**: 2026-08-18

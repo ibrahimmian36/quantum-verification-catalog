@@ -9,7 +9,7 @@ description: An interactive proof assistant for quantum relational Hoare logic, 
 paper: Quantum Relational Hoare Logic, POPL 2019, DOI 10.1145/3290346, arXiv:1802.03188
 authors: Dominique Unruh
 licence: MIT (LICENSE file read 2026-08-18)
-stars: 25
+stars: 26
 last_commit: '2026-05-24'
 status: active
 builds: not-attempted

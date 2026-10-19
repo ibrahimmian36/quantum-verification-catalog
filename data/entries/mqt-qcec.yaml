@@ -10,8 +10,8 @@ description: An equivalence checker for quantum circuits combining decision-diag
 paper: Advanced Equivalence Checking for Quantum Circuits, IEEE TCAD, DOI 10.1109/TCAD.2020.3032630
 authors: Lukas Burgholzer, Robert Wille, and contributors
 licence: MIT (LICENSE file read 2026-08-18)
-stars: 119
-last_commit: '2026-10-12'
+stars: 120
+last_commit: '2026-10-19'
 status: active
 builds: 'yes'
 build_date: '2026-08-18'
