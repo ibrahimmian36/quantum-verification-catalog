@@ -9,7 +9,7 @@ description: An interactive theorem prover for string diagrams, representing mor
 paper: unknown
 authors: Aleks Kissinger
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
-stars: 129
+stars: 130
 last_commit: '2026-05-25'
 status: active
 builds: 'yes'

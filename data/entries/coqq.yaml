@@ -11,7 +11,7 @@ paper: 'CoqQ: Foundational Verification of Quantum Programs, POPL 2023, DOI 10.1
 authors: Li Zhou, Gilles Barthe, Pierre-Yves Strub, Junyi Liu, Mingsheng Ying
 licence: MIT (LICENSE file read 2026-08-18)
 stars: 30
-last_commit: '2026-10-03'
+last_commit: '2026-10-20'
 status: active
 builds: not-attempted
 build_date: '2026-08-18'

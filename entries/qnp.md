@@ -13,7 +13,7 @@ Quantum Natural Proof: Coq foundations for quantum separation-logic reasoning re
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 3
 - **Last commit**: 2025-04-22
-- **Activity**: active
+- **Activity**: dormant
 - **Build result**: not-attempted
 - **Build note**: appears to target a different prover version than the one used here
 - **Discovered via**: seed-list; github-org-sweep

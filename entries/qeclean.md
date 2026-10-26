@@ -11,8 +11,8 @@ A formalization project on quantum error correction in Lean.
 - **Paper**: unknown
 - **Authors**: Stavan Jain and contributors
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **Stars**: 44
-- **Last commit**: 2026-10-15
+- **Stars**: 45
+- **Last commit**: 2026-10-24
 - **Activity**: active
 - **Build result**: not-attempted
 - **Discovered via**: github-search

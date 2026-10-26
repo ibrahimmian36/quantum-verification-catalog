@@ -11,7 +11,7 @@ An interactive theorem prover for string diagrams, representing morphisms as cos
 - **Paper**: unknown
 - **Authors**: Aleks Kissinger
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **Stars**: 129
+- **Stars**: 130
 - **Last commit**: 2026-05-25
 - **Activity**: active
 - **Build result**: yes

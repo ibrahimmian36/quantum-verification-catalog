@@ -11,7 +11,7 @@ An automated tool for quantum protocol verification using concurrent dynamic qua
 - **Paper**: unknown
 - **Authors**: Canh Minh Do and collaborators
 - **Licence**: no LICENSE file found (checked 2026-08-18)
-- **Stars**: 5
+- **Stars**: 6
 - **Last commit**: 2024-01-29
 - **Activity**: dormant
 - **Build result**: not-attempted

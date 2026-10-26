@@ -12,7 +12,7 @@ A foundational verification framework for quantum programs: a quantum Hoare logi
 - **Authors**: Li Zhou, Gilles Barthe, Pierre-Yves Strub, Junyi Liu, Mingsheng Ying
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 30
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-20
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: declared dependencies could not be resolved in this environment
