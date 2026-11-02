@@ -11,7 +11,7 @@ A C++ framework for synthesizing and optimizing quantum circuits that includes a
 - **Paper**: unknown
 - **Authors**: DVLab, National Taiwan University
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **Stars**: 198
+- **Stars**: 199
 - **Last commit**: 2026-10-05
 - **Activity**: active
 - **Build result**: not-attempted

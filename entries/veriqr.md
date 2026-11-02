@@ -11,7 +11,7 @@ A tool for robustness verification of quantum machine learning models, checking 
 - **Paper**: VeriQR: A Robustness Verification Tool for Quantum Machine Learning Models, [arXiv:2407.13533](https://arxiv.org/abs/2407.13533)
 - **Authors**: Yanling Lin, Ji Guan, Wang Fang, Mingsheng Ying, Zhaofeng Su
 - **Licence**: GPL-3.0 (LICENSE file read 2026-08-18)
-- **Stars**: 4
+- **Stars**: 5
 - **Last commit**: 2024-06-21
 - **Activity**: dormant
 - **Build result**: not-attempted

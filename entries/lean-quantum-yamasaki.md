@@ -11,8 +11,8 @@ A Lean formalization of the theory of quantum information and quantum computatio
 - **Paper**: unknown
 - **Authors**: Hayata Yamasaki group
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **Stars**: 36
-- **Last commit**: 2026-08-28
+- **Stars**: 38
+- **Last commit**: 2026-10-28
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: a dependency download failed from this machine

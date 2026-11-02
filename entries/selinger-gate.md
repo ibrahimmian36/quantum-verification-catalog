@@ -12,7 +12,7 @@ A Rocq formalisation of a Selinger proof about quantum gates.
 - **Authors**: Laurent Théry
 - **Licence**: no LICENSE file found (checked 2026-08-18)
 - **Stars**: 1
-- **Last commit**: 2026-01-30
+- **Last commit**: 2026-10-27
 - **Activity**: active
 - **Build result**: yes
 - **Build attempted**: 2026-08-18

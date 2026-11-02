@@ -11,7 +11,7 @@ A BDD-based quantum circuit equivalence checker supporting full and partial equi
 - **Paper**: SliQEC (DAC 2022)
 - **Authors**: NTU ALCom Lab
 - **Licence**: no LICENSE file found (checked 2026-08-18)
-- **Stars**: 15
+- **Stars**: 16
 - **Last commit**: 2026-06-29
 - **Activity**: active
 - **Build result**: not-attempted
