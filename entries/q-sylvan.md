@@ -12,7 +12,7 @@ A parallel decision-diagram package for quantum computing with built-in circuit 
 - **Authors**: Sebastiaan Brand, Alfons Laarman
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
 - **Stars**: 2
-- **Last commit**: 2025-12-23
+- **Last commit**: 2026-11-09
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: a required library was not installed in this environment
