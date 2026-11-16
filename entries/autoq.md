@@ -12,7 +12,7 @@ An automata-based quantum circuit verifier using Hoare-style pre- and post-condi
 - **Authors**: Yu-Fang Chen, Kai-Min Chung, Ondrej Lengal, Jyun-Ao Lin, Wei-Lun Tsai, and collaborators
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 30
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-11-16
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: a required library was not installed in this environment

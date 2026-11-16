@@ -12,7 +12,7 @@ A Python-based tool for proving and organizing general theorems, whose flagship 
 - **Authors**: Wayne Witzel and collaborators (Sandia National Laboratories)
 - **Licence**: nonstandard licence in license.txt (read 2026-08-18; see file)
 - **Stars**: 40
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-16
 - **Activity**: active
 - **Build result**: yes
 - **Build attempted**: 2026-08-19
