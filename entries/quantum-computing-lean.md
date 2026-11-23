@@ -11,7 +11,7 @@ A formalization of quantum computing in the Lean theorem prover.
 - **Paper**: unknown
 - **Authors**: Duckki Oe
 - **Licence**: no LICENSE file found (checked 2026-08-18)
-- **Stars**: 38
+- **Stars**: 39
 - **Last commit**: 2026-09-15
 - **Activity**: active
 - **Build result**: not-attempted

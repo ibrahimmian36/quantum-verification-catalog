@@ -13,7 +13,7 @@ A Julia tool for verifying fault tolerance of quantum error correction codes.
 - **Licence**: MIT (LICENSE file read 2026-08-18)
 - **Stars**: 6
 - **Last commit**: 2025-05-24
-- **Activity**: active
+- **Activity**: dormant
 - **Build result**: not-attempted
 - **Build note**: no recognized build system
 - **Discovered via**: github-search

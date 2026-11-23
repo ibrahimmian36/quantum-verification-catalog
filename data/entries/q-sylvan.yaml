@@ -10,7 +10,7 @@ paper: 'Q-Sylvan: A Parallel Decision Diagram Package for Quantum Computing, ATV
   arXiv:2508.00514'
 authors: Sebastiaan Brand, Alfons Laarman
 licence: Apache-2.0 (LICENSE file read 2026-08-18)
-stars: 2
+stars: 1
 last_commit: '2026-11-09'
 status: active
 builds: not-attempted

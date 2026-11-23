@@ -9,7 +9,7 @@ description: A formalization of quantum computing in the Lean theorem prover.
 paper: unknown
 authors: Duckki Oe
 licence: no LICENSE file found (checked 2026-08-18)
-stars: 38
+stars: 39
 last_commit: '2026-09-15'
 status: active
 builds: not-attempted

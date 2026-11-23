@@ -11,8 +11,8 @@ An ACL2(r) interpreter for quantum-circuit netlists with states as vectors and g
 - **Paper**: An Interpreter for Quantum Circuits, ACL2 Workshop 2013 (proceedings [arXiv:1304.7860](https://arxiv.org/abs/1304.7860))
 - **Authors**: Lucas Helms, Ruben Gamboa
 - **Licence**: nonstandard licence in LICENSE (read 2026-08-18; see file)
-- **Stars**: 459
-- **Last commit**: 2026-11-16
+- **Stars**: 460
+- **Last commit**: 2026-11-21
 - **Activity**: active
 - **Build result**: not-attempted
 - **Build note**: clone failed

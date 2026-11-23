@@ -11,7 +11,7 @@ A parallel decision-diagram package for quantum computing with built-in circuit 
 - **Paper**: Q-Sylvan: A Parallel Decision Diagram Package for Quantum Computing, ATVA 2025, [DOI 10.1007/978-3-032-08707-2_12](https://doi.org/10.1007/978-3-032-08707-2_12), [arXiv:2508.00514](https://arxiv.org/abs/2508.00514)
 - **Authors**: Sebastiaan Brand, Alfons Laarman
 - **Licence**: Apache-2.0 (LICENSE file read 2026-08-18)
-- **Stars**: 2
+- **Stars**: 1
 - **Last commit**: 2026-11-09
 - **Activity**: active
 - **Build result**: not-attempted
